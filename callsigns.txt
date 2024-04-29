@@ -8785,3 +8785,679 @@ TA1MZW ✅ (Mike, Zulu, Whiskey)
 TA1MZX ✅ (Mike, Zulu, X-ray)
 TA1MZY ✅ (Mike, Zulu, Yankee)
 TA1MZZ ❌
+TA1NAA ❌
+TA1NAB ✅ (November, Alfa, Bravo)
+TA1NAC ❌
+TA1NAD ❌
+TA1NAE ✅ (November, Alfa, Echo)
+TA1NAF ✅ (November, Alfa, Foxtrot)
+TA1NAG ✅ (November, Alfa, Golf)
+TA1NAH ✅ (November, Alfa, Hotel)
+TA1NAI ❌
+TA1NAJ ✅ (November, Alfa, Juliett)
+TA1NAK ❌
+TA1NAL ✅ (November, Alfa, Lima)
+TA1NAM ✅ (November, Alfa, Mike)
+TA1NAN ❌
+TA1NAO ✅ (November, Alfa, Oscar)
+TA1NAP ✅ (November, Alfa, Papa)
+TA1NAQ ✅ (November, Alfa, Quebec)
+TA1NAR ❌
+TA1NAS ❌
+TA1NAT ❌
+TA1NAU ✅ (November, Alfa, Uniform)
+TA1NAV ❌
+TA1NAW ✅ (November, Alfa, Whiskey)
+TA1NAX ✅ (November, Alfa, X-ray)
+TA1NAY ✅ (November, Alfa, Yankee)
+TA1NAZ ❌
+TA1NBA ❌
+TA1NBB ❌
+TA1NBC ❌
+TA1NBD ❌
+TA1NBE ❌
+TA1NBF ✅ (November, Bravo, Foxtrot)
+TA1NBG ❌
+TA1NBH ❌
+TA1NBI ❌
+TA1NBJ ✅ (November, Bravo, Juliett)
+TA1NBK ❌
+TA1NBL ❌
+TA1NBM ✅ (November, Bravo, Mike)
+TA1NBN ✅ (November, Bravo, November)
+TA1NBO ✅ (November, Bravo, Oscar)
+TA1NBP ✅ (November, Bravo, Papa)
+TA1NBQ ✅ (November, Bravo, Quebec)
+TA1NBR ❌
+TA1NBS ❌
+TA1NBT ❌
+TA1NBU ❌
+TA1NBV ✅ (November, Bravo, Victor)
+TA1NBW ✅ (November, Bravo, Whiskey)
+TA1NBX ❌
+TA1NBY ❌
+TA1NBZ ❌
+TA1NCA ❌
+TA1NCB ❌
+TA1NCC ❌
+TA1NCD ❌
+TA1NCE ❌
+TA1NCF ✅ (November, Charlie, Foxtrot)
+TA1NCG ✅ (November, Charlie, Golf)
+TA1NCH ✅ (November, Charlie, Hotel)
+TA1NCI ❌
+TA1NCJ ✅ (November, Charlie, Juliett)
+TA1NCK ❌
+TA1NCL ❌
+TA1NCM ❌
+TA1NCN ✅ (November, Charlie, November)
+TA1NCO ✅ (November, Charlie, Oscar)
+TA1NCP ❌
+TA1NCQ ✅ (November, Charlie, Quebec)
+TA1NCR ✅ (November, Charlie, Romeo)
+TA1NCS ❌
+TA1NCT ❌
+TA1NCU ✅ (November, Charlie, Uniform)
+TA1NCV ✅ (November, Charlie, Victor)
+TA1NCW ✅ (November, Charlie, Whiskey)
+TA1NCX ✅ (November, Charlie, X-ray)
+TA1NCY ✅ (November, Charlie, Yankee)
+TA1NCZ ✅ (November, Charlie, Zulu)
+TA1NDA ❌
+TA1NDB ✅ (November, Delta, Bravo)
+TA1NDC ❌
+TA1NDD ✅ (November, Delta, Delta)
+TA1NDE ❌
+TA1NDF ✅ (November, Delta, Foxtrot)
+TA1NDG ✅ (November, Delta, Golf)
+TA1NDH ✅ (November, Delta, Hotel)
+TA1NDI ✅ (November, Delta, India)
+TA1NDJ ✅ (November, Delta, Juliett)
+TA1NDK ✅ (November, Delta, Kilo)
+TA1NDL ❌
+TA1NDM ❌
+TA1NDN ✅ (November, Delta, November)
+TA1NDO ✅ (November, Delta, Oscar)
+TA1NDP ✅ (November, Delta, Papa)
+TA1NDQ ✅ (November, Delta, Quebec)
+TA1NDR ❌
+TA1NDS ✅ (November, Delta, Sierra)
+TA1NDT ✅ (November, Delta, Tango)
+TA1NDU ✅ (November, Delta, Uniform)
+TA1NDV ✅ (November, Delta, Victor)
+TA1NDW ✅ (November, Delta, Whiskey)
+TA1NDX ✅ (November, Delta, X-ray)
+TA1NDY ✅ (November, Delta, Yankee)
+TA1NDZ ✅ (November, Delta, Zulu)
+TA1NEA ❌
+TA1NEB ❌
+TA1NEC ❌
+TA1NED ❌
+TA1NEE ✅ (November, Echo, Echo)
+TA1NEF ✅ (November, Echo, Foxtrot)
+TA1NEG ❌
+TA1NEH ❌
+TA1NEI ✅ (November, Echo, India)
+TA1NEJ ✅ (November, Echo, Juliett)
+TA1NEK ❌
+TA1NEL ✅ (November, Echo, Lima)
+TA1NEM ✅ (November, Echo, Mike)
+TA1NEN ✅ (November, Echo, November)
+TA1NEO ❌
+TA1NEP ❌
+TA1NEQ ✅ (November, Echo, Quebec)
+TA1NER ❌
+TA1NES ❌
+TA1NET ✅ (November, Echo, Tango)
+TA1NEU ✅ (November, Echo, Uniform)
+TA1NEV ❌
+TA1NEW ❌
+TA1NEX ❌
+TA1NEY ❌
+TA1NEZ ❌
+TA1NFA ❌
+TA1NFB ✅ (November, Foxtrot, Bravo)
+TA1NFC ✅ (November, Foxtrot, Charlie)
+TA1NFD ✅ (November, Foxtrot, Delta)
+TA1NFE ✅ (November, Foxtrot, Echo)
+TA1NFF ✅ (November, Foxtrot, Foxtrot)
+TA1NFG ✅ (November, Foxtrot, Golf)
+TA1NFH ✅ (November, Foxtrot, Hotel)
+TA1NFI ❌
+TA1NFJ ✅ (November, Foxtrot, Juliett)
+TA1NFK ❌
+TA1NFL ✅ (November, Foxtrot, Lima)
+TA1NFM ✅ (November, Foxtrot, Mike)
+TA1NFN ✅ (November, Foxtrot, November)
+TA1NFO ✅ (November, Foxtrot, Oscar)
+TA1NFP ✅ (November, Foxtrot, Papa)
+TA1NFQ ✅ (November, Foxtrot, Quebec)
+TA1NFR ✅ (November, Foxtrot, Romeo)
+TA1NFS ✅ (November, Foxtrot, Sierra)
+TA1NFT ❌
+TA1NFU ✅ (November, Foxtrot, Uniform)
+TA1NFV ✅ (November, Foxtrot, Victor)
+TA1NFW ✅ (November, Foxtrot, Whiskey)
+TA1NFX ✅ (November, Foxtrot, X-ray)
+TA1NFY ❌
+TA1NFZ ✅ (November, Foxtrot, Zulu)
+TA1NGA ❌
+TA1NGB ✅ (November, Golf, Bravo)
+TA1NGC ✅ (November, Golf, Charlie)
+TA1NGD ✅ (November, Golf, Delta)
+TA1NGE ❌
+TA1NGF ✅ (November, Golf, Foxtrot)
+TA1NGG ✅ (November, Golf, Golf)
+TA1NGH ✅ (November, Golf, Hotel)
+TA1NGI ✅ (November, Golf, India)
+TA1NGJ ✅ (November, Golf, Juliett)
+TA1NGK ✅ (November, Golf, Kilo)
+TA1NGL ✅ (November, Golf, Lima)
+TA1NGM ✅ (November, Golf, Mike)
+TA1NGN ✅ (November, Golf, November)
+TA1NGO ✅ (November, Golf, Oscar)
+TA1NGP ❌
+TA1NGQ ✅ (November, Golf, Quebec)
+TA1NGR ✅ (November, Golf, Romeo)
+TA1NGS ✅ (November, Golf, Sierra)
+TA1NGT ✅ (November, Golf, Tango)
+TA1NGU ✅ (November, Golf, Uniform)
+TA1NGV ❌
+TA1NGW ✅ (November, Golf, Whiskey)
+TA1NGX ✅ (November, Golf, X-ray)
+TA1NGY ✅ (November, Golf, Yankee)
+TA1NGZ ✅ (November, Golf, Zulu)
+TA1NHA ❌
+TA1NHB ❌
+TA1NHC ✅ (November, Hotel, Charlie)
+TA1NHD ✅ (November, Hotel, Delta)
+TA1NHE ❌
+TA1NHF ❌
+TA1NHG ❌
+TA1NHH ✅ (November, Hotel, Hotel)
+TA1NHI ❌
+TA1NHJ ✅ (November, Hotel, Juliett)
+TA1NHK ❌
+TA1NHL ❌
+TA1NHM ✅ (November, Hotel, Mike)
+TA1NHN ✅ (November, Hotel, November)
+TA1NHO ✅ (November, Hotel, Oscar)
+TA1NHP ❌
+TA1NHQ ✅ (November, Hotel, Quebec)
+TA1NHR ✅ (November, Hotel, Romeo)
+TA1NHS ❌
+TA1NHT ❌
+TA1NHU ✅ (November, Hotel, Uniform)
+TA1NHV ✅ (November, Hotel, Victor)
+TA1NHW ✅ (November, Hotel, Whiskey)
+TA1NHX ✅ (November, Hotel, X-ray)
+TA1NHY ✅ (November, Hotel, Yankee)
+TA1NHZ ✅ (November, Hotel, Zulu)
+TA1NIA ❌
+TA1NIB ✅ (November, India, Bravo)
+TA1NIC ❌
+TA1NID ✅ (November, India, Delta)
+TA1NIE ✅ (November, India, Echo)
+TA1NIF ✅ (November, India, Foxtrot)
+TA1NIG ✅ (November, India, Golf)
+TA1NIH ❌
+TA1NII ✅ (November, India, India)
+TA1NIJ ✅ (November, India, Juliett)
+TA1NIK ❌
+TA1NIL ❌
+TA1NIM ✅ (November, India, Mike)
+TA1NIN ✅ (November, India, November)
+TA1NIO ✅ (November, India, Oscar)
+TA1NIP ✅ (November, India, Papa)
+TA1NIQ ✅ (November, India, Quebec)
+TA1NIR ✅ (November, India, Romeo)
+TA1NIS ❌
+TA1NIT ✅ (November, India, Tango)
+TA1NIU ✅ (November, India, Uniform)
+TA1NIV ✅ (November, India, Victor)
+TA1NIW ✅ (November, India, Whiskey)
+TA1NIX ✅ (November, India, X-ray)
+TA1NIY ✅ (November, India, Yankee)
+TA1NIZ ✅ (November, India, Zulu)
+TA1NJA ✅ (November, Juliett, Alfa)
+TA1NJB ✅ (November, Juliett, Bravo)
+TA1NJC ✅ (November, Juliett, Charlie)
+TA1NJD ✅ (November, Juliett, Delta)
+TA1NJE ✅ (November, Juliett, Echo)
+TA1NJF ✅ (November, Juliett, Foxtrot)
+TA1NJG ✅ (November, Juliett, Golf)
+TA1NJH ✅ (November, Juliett, Hotel)
+TA1NJI ✅ (November, Juliett, India)
+TA1NJJ ✅ (November, Juliett, Juliett)
+TA1NJK ✅ (November, Juliett, Kilo)
+TA1NJL ✅ (November, Juliett, Lima)
+TA1NJM ✅ (November, Juliett, Mike)
+TA1NJN ✅ (November, Juliett, November)
+TA1NJO ✅ (November, Juliett, Oscar)
+TA1NJP ✅ (November, Juliett, Papa)
+TA1NJQ ✅ (November, Juliett, Quebec)
+TA1NJR ✅ (November, Juliett, Romeo)
+TA1NJS ✅ (November, Juliett, Sierra)
+TA1NJT ✅ (November, Juliett, Tango)
+TA1NJU ✅ (November, Juliett, Uniform)
+TA1NJV ✅ (November, Juliett, Victor)
+TA1NJW ✅ (November, Juliett, Whiskey)
+TA1NJX ✅ (November, Juliett, X-ray)
+TA1NJY ✅ (November, Juliett, Yankee)
+TA1NJZ ✅ (November, Juliett, Zulu)
+TA1NKA ❌
+TA1NKB ✅ (November, Kilo, Bravo)
+TA1NKC ✅ (November, Kilo, Charlie)
+TA1NKD ✅ (November, Kilo, Delta)
+TA1NKE ❌
+TA1NKF ✅ (November, Kilo, Foxtrot)
+TA1NKG ✅ (November, Kilo, Golf)
+TA1NKH ❌
+TA1NKI ✅ (November, Kilo, India)
+TA1NKJ ✅ (November, Kilo, Juliett)
+TA1NKK ❌
+TA1NKL ❌
+TA1NKM ✅ (November, Kilo, Mike)
+TA1NKN ✅ (November, Kilo, November)
+TA1NKO ✅ (November, Kilo, Oscar)
+TA1NKP ❌
+TA1NKQ ✅ (November, Kilo, Quebec)
+TA1NKR ❌
+TA1NKS ✅ (November, Kilo, Sierra)
+TA1NKT ❌
+TA1NKU ✅ (November, Kilo, Uniform)
+TA1NKV ✅ (November, Kilo, Victor)
+TA1NKW ✅ (November, Kilo, Whiskey)
+TA1NKX ❌
+TA1NKY ✅ (November, Kilo, Yankee)
+TA1NKZ ✅ (November, Kilo, Zulu)
+TA1NLA ✅ (November, Lima, Alfa)
+TA1NLB ❌
+TA1NLC ✅ (November, Lima, Charlie)
+TA1NLD ✅ (November, Lima, Delta)
+TA1NLE ✅ (November, Lima, Echo)
+TA1NLF ✅ (November, Lima, Foxtrot)
+TA1NLG ❌
+TA1NLH ✅ (November, Lima, Hotel)
+TA1NLI ✅ (November, Lima, India)
+TA1NLJ ✅ (November, Lima, Juliett)
+TA1NLK ✅ (November, Lima, Kilo)
+TA1NLL ✅ (November, Lima, Lima)
+TA1NLM ✅ (November, Lima, Mike)
+TA1NLN ✅ (November, Lima, November)
+TA1NLO ✅ (November, Lima, Oscar)
+TA1NLP ✅ (November, Lima, Papa)
+TA1NLQ ✅ (November, Lima, Quebec)
+TA1NLR ❌
+TA1NLS ❌
+TA1NLT ❌
+TA1NLU ✅ (November, Lima, Uniform)
+TA1NLV ✅ (November, Lima, Victor)
+TA1NLW ✅ (November, Lima, Whiskey)
+TA1NLX ✅ (November, Lima, X-ray)
+TA1NLY ✅ (November, Lima, Yankee)
+TA1NLZ ✅ (November, Lima, Zulu)
+TA1NMA ✅ (November, Mike, Alfa)
+TA1NMB ❌
+TA1NMC ✅ (November, Mike, Charlie)
+TA1NMD ✅ (November, Mike, Delta)
+TA1NME ✅ (November, Mike, Echo)
+TA1NMF ✅ (November, Mike, Foxtrot)
+TA1NMG ❌
+TA1NMH ✅ (November, Mike, Hotel)
+TA1NMI ✅ (November, Mike, India)
+TA1NMJ ✅ (November, Mike, Juliett)
+TA1NMK ❌
+TA1NML ✅ (November, Mike, Lima)
+TA1NMM ✅ (November, Mike, Mike)
+TA1NMN ❌
+TA1NMO ✅ (November, Mike, Oscar)
+TA1NMP ✅ (November, Mike, Papa)
+TA1NMQ ✅ (November, Mike, Quebec)
+TA1NMR ❌
+TA1NMS ❌
+TA1NMT ✅ (November, Mike, Tango)
+TA1NMU ✅ (November, Mike, Uniform)
+TA1NMV ✅ (November, Mike, Victor)
+TA1NMW ✅ (November, Mike, Whiskey)
+TA1NMX ✅ (November, Mike, X-ray)
+TA1NMY ✅ (November, Mike, Yankee)
+TA1NMZ ✅ (November, Mike, Zulu)
+TA1NNA ✅ (November, November, Alfa)
+TA1NNB ✅ (November, November, Bravo)
+TA1NNC ✅ (November, November, Charlie)
+TA1NND ✅ (November, November, Delta)
+TA1NNE ✅ (November, November, Echo)
+TA1NNF ✅ (November, November, Foxtrot)
+TA1NNG ✅ (November, November, Golf)
+TA1NNH ✅ (November, November, Hotel)
+TA1NNI ✅ (November, November, India)
+TA1NNJ ✅ (November, November, Juliett)
+TA1NNK ❌
+TA1NNL ✅ (November, November, Lima)
+TA1NNM ✅ (November, November, Mike)
+TA1NNN ❌
+TA1NNO ✅ (November, November, Oscar)
+TA1NNP ✅ (November, November, Papa)
+TA1NNQ ✅ (November, November, Quebec)
+TA1NNR ✅ (November, November, Romeo)
+TA1NNS ❌
+TA1NNU ✅ (November, November, Uniform)
+TA1NNT ✅ (November, November, Tango)
+TA1NNW ✅ (November, November, Whiskey)
+TA1NNX ✅ (November, November, X-ray)
+TA1NNY ❌
+TA1NNZ ✅ (November, November, Zulu)
+TA1NOA ✅ (November, Oscar, Alfa)
+TA1NOB ✅ (November, Oscar, Bravo)
+TA1NOC ✅ (November, Oscar, Charlie)
+TA1NOD ❌
+TA1NOE ❌
+TA1NOF ✅ (November, Oscar, Foxtrot)
+TA1NOG ✅ (November, Oscar, Golf)
+TA1NOH ✅ (November, Oscar, Hotel)
+TA1NOI ✅ (November, Oscar, India)
+TA1NOJ ✅ (November, Oscar, Juliett)
+TA1NOK ✅ (November, Oscar, Kilo)
+TA1NOL ✅ (November, Oscar, Lima)
+TA1NOM ✅ (November, Oscar, Mike)
+TA1NON ✅ (November, Oscar, November)
+TA1NOO ✅ (November, Oscar, Oscar)
+TA1NOP ✅ (November, Oscar, Papa)
+TA1NOQ ✅ (November, Oscar, Quebec)
+TA1NOR ✅ (November, Oscar, Romeo)
+TA1NNV ✅ (November, November, Victor)
+TA1NOS ✅ (November, Oscar, Sierra)
+TA1NOT ❌
+TA1NOV ✅ (November, Oscar, Victor)
+TA1NOW ✅ (November, Oscar, Whiskey)
+TA1NOX ✅ (November, Oscar, X-ray)
+TA1NOY ✅ (November, Oscar, Yankee)
+TA1NOZ ✅ (November, Oscar, Zulu)
+TA1NPA ✅ (November, Papa, Alfa)
+TA1NPB ✅ (November, Papa, Bravo)
+TA1NPC ✅ (November, Papa, Charlie)
+TA1NPD ✅ (November, Papa, Delta)
+TA1NPE ✅ (November, Papa, Echo)
+TA1NPF ✅ (November, Papa, Foxtrot)
+TA1NPG ✅ (November, Papa, Golf)
+TA1NPH ✅ (November, Papa, Hotel)
+TA1NPI ✅ (November, Papa, India)
+TA1NPJ ✅ (November, Papa, Juliett)
+TA1NPK ✅ (November, Papa, Kilo)
+TA1NPL ✅ (November, Papa, Lima)
+TA1NPM ✅ (November, Papa, Mike)
+TA1NPN ✅ (November, Papa, November)
+TA1NPO ❌
+TA1NPP ✅ (November, Papa, Papa)
+TA1NOU ❌
+TA1NPQ ✅ (November, Papa, Quebec)
+TA1NPR ✅ (November, Papa, Romeo)
+TA1NPS ✅ (November, Papa, Sierra)
+TA1NPT ✅ (November, Papa, Tango)
+TA1NPU ✅ (November, Papa, Uniform)
+TA1NPV ✅ (November, Papa, Victor)
+TA1NPW ✅ (November, Papa, Whiskey)
+TA1NPX ✅ (November, Papa, X-ray)
+TA1NPY ✅ (November, Papa, Yankee)
+TA1NPZ ✅ (November, Papa, Zulu)
+TA1NQA ✅ (November, Quebec, Alfa)
+TA1NQB ✅ (November, Quebec, Bravo)
+TA1NQC ✅ (November, Quebec, Charlie)
+TA1NQD ✅ (November, Quebec, Delta)
+TA1NQE ✅ (November, Quebec, Echo)
+TA1NQF ✅ (November, Quebec, Foxtrot)
+TA1NQG ✅ (November, Quebec, Golf)
+TA1NQH ✅ (November, Quebec, Hotel)
+TA1NQI ✅ (November, Quebec, India)
+TA1NQJ ✅ (November, Quebec, Juliett)
+TA1NQK ✅ (November, Quebec, Kilo)
+TA1NQL ✅ (November, Quebec, Lima)
+TA1NQM ✅ (November, Quebec, Mike)
+TA1NQN ✅ (November, Quebec, November)
+TA1NQO ✅ (November, Quebec, Oscar)
+TA1NQP ✅ (November, Quebec, Papa)
+TA1NQQ ✅ (November, Quebec, Quebec)
+TA1NQV ✅ (November, Quebec, Victor)
+TA1NQW ✅ (November, Quebec, Whiskey)
+TA1NQX ✅ (November, Quebec, X-ray)
+TA1NQY ✅ (November, Quebec, Yankee)
+TA1NQZ ✅ (November, Quebec, Zulu)
+TA1NQU ✅ (November, Quebec, Uniform)
+TA1NRB ❌
+TA1NRC ❌
+TA1NRD ✅ (November, Romeo, Delta)
+TA1NRE ❌
+TA1NRF ✅ (November, Romeo, Foxtrot)
+TA1NRG ✅ (November, Romeo, Golf)
+TA1NRH ✅ (November, Romeo, Hotel)
+TA1NQT ✅ (November, Quebec, Tango)
+TA1NRI ❌
+TA1NRJ ✅ (November, Romeo, Juliett)
+TA1NRK ❌
+TA1NRL ✅ (November, Romeo, Lima)
+TA1NRM ✅ (November, Romeo, Mike)
+TA1NRN ❌
+TA1NRO ✅ (November, Romeo, Oscar)
+TA1NRP ✅ (November, Romeo, Papa)
+TA1NRQ ✅ (November, Romeo, Quebec)
+TA1NRR ✅ (November, Romeo, Romeo)
+TA1NRS ❌
+TA1NRA ✅ (November, Romeo, Alfa)
+TA1NRT ❌
+TA1NRU ❌
+TA1NQR ✅ (November, Quebec, Romeo)
+TA1NQS ✅ (November, Quebec, Sierra)
+TA1NRW ✅ (November, Romeo, Whiskey)
+TA1NRV ✅ (November, Romeo, Victor)
+TA1NRX ❌
+TA1NRY ❌
+TA1NRZ ✅ (November, Romeo, Zulu)
+TA1NSA ❌
+TA1NSB ❌
+TA1NSC ❌
+TA1NSD ✅ (November, Sierra, Delta)
+TA1NSE ❌
+TA1NSF ✅ (November, Sierra, Foxtrot)
+TA1NSG ❌
+TA1NSH ✅ (November, Sierra, Hotel)
+TA1NSI ✅ (November, Sierra, India)
+TA1NSJ ✅ (November, Sierra, Juliett)
+TA1NSK ❌
+TA1NSL ❌
+TA1NSM ❌
+TA1NSO ❌
+TA1NSN ❌
+TA1NSQ ✅ (November, Sierra, Quebec)
+TA1NSS ❌
+TA1NST ❌
+TA1NSU ✅ (November, Sierra, Uniform)
+TA1NSV ✅ (November, Sierra, Victor)
+TA1NSW ✅ (November, Sierra, Whiskey)
+TA1NSR ❌
+TA1NSY ✅ (November, Sierra, Yankee)
+TA1NSZ ✅ (November, Sierra, Zulu)
+TA1NTA ❌
+TA1NTB ❌
+TA1NTC ❌
+TA1NTD ❌
+TA1NTE ✅ (November, Tango, Echo)
+TA1NTF ✅ (November, Tango, Foxtrot)
+TA1NTG ✅ (November, Tango, Golf)
+TA1NTH ✅ (November, Tango, Hotel)
+TA1NTI ❌
+TA1NTJ ✅ (November, Tango, Juliett)
+TA1NTK ✅ (November, Tango, Kilo)
+TA1NSP ❌
+TA1NTM ✅ (November, Tango, Mike)
+TA1NTN ✅ (November, Tango, November)
+TA1NTO ❌
+TA1NTP ✅ (November, Tango, Papa)
+TA1NTQ ✅ (November, Tango, Quebec)
+TA1NTL ✅ (November, Tango, Lima)
+TA1NTR ✅ (November, Tango, Romeo)
+TA1NTS ❌
+TA1NSX ❌
+TA1NTU ✅ (November, Tango, Uniform)
+TA1NTV ✅ (November, Tango, Victor)
+TA1NTW ✅ (November, Tango, Whiskey)
+TA1NTX ✅ (November, Tango, X-ray)
+TA1NTY ✅ (November, Tango, Yankee)
+TA1NTZ ✅ (November, Tango, Zulu)
+TA1NUA ✅ (November, Uniform, Alfa)
+TA1NTT ❌
+TA1NUC ✅ (November, Uniform, Charlie)
+TA1NUD ✅ (November, Uniform, Delta)
+TA1NUE ✅ (November, Uniform, Echo)
+TA1NUF ✅ (November, Uniform, Foxtrot)
+TA1NUG ✅ (November, Uniform, Golf)
+TA1NUH ✅ (November, Uniform, Hotel)
+TA1NUB ✅ (November, Uniform, Bravo)
+TA1NUJ ✅ (November, Uniform, Juliett)
+TA1NUI ✅ (November, Uniform, India)
+TA1NUL ✅ (November, Uniform, Lima)
+TA1NUM ✅ (November, Uniform, Mike)
+TA1NUN ✅ (November, Uniform, November)
+TA1NUO ✅ (November, Uniform, Oscar)
+TA1NUP ✅ (November, Uniform, Papa)
+TA1NUQ ✅ (November, Uniform, Quebec)
+TA1NUR ❌
+TA1NUS ❌
+TA1NUT ✅ (November, Uniform, Tango)
+TA1NUU ✅ (November, Uniform, Uniform)
+TA1NUV ✅ (November, Uniform, Victor)
+TA1NUW ✅ (November, Uniform, Whiskey)
+TA1NUX ✅ (November, Uniform, X-ray)
+TA1NUY ✅ (November, Uniform, Yankee)
+TA1NUZ ❌
+TA1NVA ❌
+TA1NVB ✅ (November, Victor, Bravo)
+TA1NVC ✅ (November, Victor, Charlie)
+TA1NVD ✅ (November, Victor, Delta)
+TA1NVE ✅ (November, Victor, Echo)
+TA1NVF ✅ (November, Victor, Foxtrot)
+TA1NVG ❌
+TA1NVH ❌
+TA1NVI ✅ (November, Victor, India)
+TA1NUK ✅ (November, Uniform, Kilo)
+TA1NVJ ✅ (November, Victor, Juliett)
+TA1NVK ✅ (November, Victor, Kilo)
+TA1NVL ✅ (November, Victor, Lima)
+TA1NVN ✅ (November, Victor, November)
+TA1NVO ✅ (November, Victor, Oscar)
+TA1NVP ✅ (November, Victor, Papa)
+TA1NVQ ✅ (November, Victor, Quebec)
+TA1NVR ✅ (November, Victor, Romeo)
+TA1NVS ✅ (November, Victor, Sierra)
+TA1NVT ✅ (November, Victor, Tango)
+TA1NVU ✅ (November, Victor, Uniform)
+TA1NVV ✅ (November, Victor, Victor)
+TA1NVW ✅ (November, Victor, Whiskey)
+TA1NVX ❌
+TA1NVY ✅ (November, Victor, Yankee)
+TA1NVZ ✅ (November, Victor, Zulu)
+TA1NWA ✅ (November, Whiskey, Alfa)
+TA1NWB ✅ (November, Whiskey, Bravo)
+TA1NWC ✅ (November, Whiskey, Charlie)
+TA1NWD ✅ (November, Whiskey, Delta)
+TA1NWE ✅ (November, Whiskey, Echo)
+TA1NVM ✅ (November, Victor, Mike)
+TA1NWF ✅ (November, Whiskey, Foxtrot)
+TA1NWG ✅ (November, Whiskey, Golf)
+TA1NWH ✅ (November, Whiskey, Hotel)
+TA1NWI ✅ (November, Whiskey, India)
+TA1NWJ ✅ (November, Whiskey, Juliett)
+TA1NWK ✅ (November, Whiskey, Kilo)
+TA1NWL ✅ (November, Whiskey, Lima)
+TA1NWM ✅ (November, Whiskey, Mike)
+TA1NWN ✅ (November, Whiskey, November)
+TA1NWO ✅ (November, Whiskey, Oscar)
+TA1NWP ✅ (November, Whiskey, Papa)
+TA1NWQ ✅ (November, Whiskey, Quebec)
+TA1NWR ❌
+TA1NWS ✅ (November, Whiskey, Sierra)
+TA1NWT ✅ (November, Whiskey, Tango)
+TA1NWU ✅ (November, Whiskey, Uniform)
+TA1NWV ✅ (November, Whiskey, Victor)
+TA1NWW ✅ (November, Whiskey, Whiskey)
+TA1NWX ✅ (November, Whiskey, X-ray)
+TA1NWY ✅ (November, Whiskey, Yankee)
+TA1NWZ ✅ (November, Whiskey, Zulu)
+TA1NXA ✅ (November, X-ray, Alfa)
+TA1NXB ✅ (November, X-ray, Bravo)
+TA1NXC ✅ (November, X-ray, Charlie)
+TA1NXD ✅ (November, X-ray, Delta)
+TA1NXE ✅ (November, X-ray, Echo)
+TA1NXF ✅ (November, X-ray, Foxtrot)
+TA1NXG ✅ (November, X-ray, Golf)
+TA1NXH ✅ (November, X-ray, Hotel)
+TA1NXI ✅ (November, X-ray, India)
+TA1NXJ ✅ (November, X-ray, Juliett)
+TA1NXK ✅ (November, X-ray, Kilo)
+TA1NXL ✅ (November, X-ray, Lima)
+TA1NXM ✅ (November, X-ray, Mike)
+TA1NXN ✅ (November, X-ray, November)
+TA1NXO ✅ (November, X-ray, Oscar)
+TA1NXP ✅ (November, X-ray, Papa)
+TA1NXQ ✅ (November, X-ray, Quebec)
+TA1NXR ✅ (November, X-ray, Romeo)
+TA1NXS ❌
+TA1NXT ❌
+TA1NXV ✅ (November, X-ray, Victor)
+TA1NXW ✅ (November, X-ray, Whiskey)
+TA1NXU ✅ (November, X-ray, Uniform)
+TA1NXY ✅ (November, X-ray, Yankee)
+TA1NXZ ✅ (November, X-ray, Zulu)
+TA1NYA ❌
+TA1NYB ✅ (November, Yankee, Bravo)
+TA1NYC ✅ (November, Yankee, Charlie)
+TA1NYD ✅ (November, Yankee, Delta)
+TA1NYE ✅ (November, Yankee, Echo)
+TA1NYF ✅ (November, Yankee, Foxtrot)
+TA1NYG ✅ (November, Yankee, Golf)
+TA1NYH ✅ (November, Yankee, Hotel)
+TA1NYI ✅ (November, Yankee, India)
+TA1NYJ ✅ (November, Yankee, Juliett)
+TA1NYK ✅ (November, Yankee, Kilo)
+TA1NYL ❌
+TA1NYM ✅ (November, Yankee, Mike)
+TA1NXX ✅ (November, X-ray, X-ray)
+TA1NYN ✅ (November, Yankee, November)
+TA1NYO ✅ (November, Yankee, Oscar)
+TA1NYP ✅ (November, Yankee, Papa)
+TA1NYQ ✅ (November, Yankee, Quebec)
+TA1NYR ✅ (November, Yankee, Romeo)
+TA1NYS ✅ (November, Yankee, Sierra)
+TA1NYT ✅ (November, Yankee, Tango)
+TA1NYU ✅ (November, Yankee, Uniform)
+TA1NYV ✅ (November, Yankee, Victor)
+TA1NYW ✅ (November, Yankee, Whiskey)
+TA1NYX ✅ (November, Yankee, X-ray)
+TA1NYY ❌
+TA1NYZ ✅ (November, Yankee, Zulu)
+TA1NZA ✅ (November, Zulu, Alfa)
+TA1NZB ✅ (November, Zulu, Bravo)
+TA1NZC ❌
+TA1NZD ✅ (November, Zulu, Delta)
+TA1NZE ✅ (November, Zulu, Echo)
+TA1NZF ✅ (November, Zulu, Foxtrot)
+TA1NZG ✅ (November, Zulu, Golf)
+TA1NZH ❌
+TA1NZI ✅ (November, Zulu, India)
+TA1NZJ ✅ (November, Zulu, Juliett)
+TA1NZK ✅ (November, Zulu, Kilo)
+TA1NZL ❌
+TA1NZM ❌
+TA1NZN ✅ (November, Zulu, November)
+TA1NZO ✅ (November, Zulu, Oscar)
+TA1NZP ✅ (November, Zulu, Papa)
+TA1NZQ ✅ (November, Zulu, Quebec)
+TA1NZR ❌
+TA1NZS ✅ (November, Zulu, Sierra)
+TA1NZT ✅ (November, Zulu, Tango)
+TA1NZU ❌
+TA1NZV ✅ (November, Zulu, Victor)
+TA1NZW ✅ (November, Zulu, Whiskey)
+TA1NZX ✅ (November, Zulu, X-ray)
+TA1NZY ✅ (November, Zulu, Yankee)
+TA1NZZ ✅ (November, Zulu, Zulu)
