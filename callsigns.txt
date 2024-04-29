@@ -9461,3 +9461,679 @@ TA1NZW ✅ (November, Zulu, Whiskey)
 TA1NZX ✅ (November, Zulu, X-ray)
 TA1NZY ✅ (November, Zulu, Yankee)
 TA1NZZ ✅ (November, Zulu, Zulu)
+TA1OAA ❌
+TA1OAB ❌
+TA1OAC ❌
+TA1OAD ❌
+TA1OAE ❌
+TA1OAF ❌
+TA1OAG ❌
+TA1OAH ❌
+TA1OAI ❌
+TA1OAJ ❌
+TA1OAK ❌
+TA1OAL ❌
+TA1OAM ✅ (Oscar, Alfa, Mike)
+TA1OAN ❌
+TA1OAO ❌
+TA1OAP ✅ (Oscar, Alfa, Papa)
+TA1OAQ ✅ (Oscar, Alfa, Quebec)
+TA1OAR ❌
+TA1OAS ❌
+TA1OAT ❌
+TA1OAU ✅ (Oscar, Alfa, Uniform)
+TA1OAV ✅ (Oscar, Alfa, Victor)
+TA1OAW ✅ (Oscar, Alfa, Whiskey)
+TA1OAX ❌
+TA1OAY ❌
+TA1OAZ ❌
+TA1OBA ❌
+TA1OBB ❌
+TA1OBC ❌
+TA1OBD ❌
+TA1OBE ❌
+TA1OBF ✅ (Oscar, Bravo, Foxtrot)
+TA1OBG ❌
+TA1OBH ✅ (Oscar, Bravo, Hotel)
+TA1OBI ✅ (Oscar, Bravo, India)
+TA1OBJ ✅ (Oscar, Bravo, Juliett)
+TA1OBK ❌
+TA1OBL ✅ (Oscar, Bravo, Lima)
+TA1OBM ❌
+TA1OBN ❌
+TA1OBO ❌
+TA1OBP ✅ (Oscar, Bravo, Papa)
+TA1OBQ ✅ (Oscar, Bravo, Quebec)
+TA1OBR ❌
+TA1OBS ❌
+TA1OBT ❌
+TA1OBU ✅ (Oscar, Bravo, Uniform)
+TA1OBV ✅ (Oscar, Bravo, Victor)
+TA1OBW ✅ (Oscar, Bravo, Whiskey)
+TA1OBX ✅ (Oscar, Bravo, X-ray)
+TA1OBY ✅ (Oscar, Bravo, Yankee)
+TA1OBZ ✅ (Oscar, Bravo, Zulu)
+TA1OCA ❌
+TA1OCB ❌
+TA1OCC ❌
+TA1OCD ❌
+TA1OCE ❌
+TA1OCF ✅ (Oscar, Charlie, Foxtrot)
+TA1OCG ❌
+TA1OCH ✅ (Oscar, Charlie, Hotel)
+TA1OCI ✅ (Oscar, Charlie, India)
+TA1OCJ ✅ (Oscar, Charlie, Juliett)
+TA1OCK ❌
+TA1OCL ❌
+TA1OCM ✅ (Oscar, Charlie, Mike)
+TA1OCN ✅ (Oscar, Charlie, November)
+TA1OCO ✅ (Oscar, Charlie, Oscar)
+TA1OCP ✅ (Oscar, Charlie, Papa)
+TA1OCQ ✅ (Oscar, Charlie, Quebec)
+TA1OCR ✅ (Oscar, Charlie, Romeo)
+TA1OCS ✅ (Oscar, Charlie, Sierra)
+TA1OCT ❌
+TA1OCU ✅ (Oscar, Charlie, Uniform)
+TA1OCV ❌
+TA1OCW ✅ (Oscar, Charlie, Whiskey)
+TA1OCX ✅ (Oscar, Charlie, X-ray)
+TA1OCY ✅ (Oscar, Charlie, Yankee)
+TA1OCZ ✅ (Oscar, Charlie, Zulu)
+TA1ODA ✅ (Oscar, Delta, Alfa)
+TA1ODB ✅ (Oscar, Delta, Bravo)
+TA1ODC ✅ (Oscar, Delta, Charlie)
+TA1ODD ✅ (Oscar, Delta, Delta)
+TA1ODE ✅ (Oscar, Delta, Echo)
+TA1ODF ✅ (Oscar, Delta, Foxtrot)
+TA1ODG ❌
+TA1ODH ✅ (Oscar, Delta, Hotel)
+TA1ODI ✅ (Oscar, Delta, India)
+TA1ODJ ✅ (Oscar, Delta, Juliett)
+TA1ODK ✅ (Oscar, Delta, Kilo)
+TA1ODL ❌
+TA1ODM ❌
+TA1ODN ❌
+TA1ODO ✅ (Oscar, Delta, Oscar)
+TA1ODP ✅ (Oscar, Delta, Papa)
+TA1ODQ ✅ (Oscar, Delta, Quebec)
+TA1ODR ❌
+TA1ODS ✅ (Oscar, Delta, Sierra)
+TA1ODT ✅ (Oscar, Delta, Tango)
+TA1ODU ✅ (Oscar, Delta, Uniform)
+TA1ODV ✅ (Oscar, Delta, Victor)
+TA1ODW ✅ (Oscar, Delta, Whiskey)
+TA1ODX ❌
+TA1ODY ✅ (Oscar, Delta, Yankee)
+TA1ODZ ✅ (Oscar, Delta, Zulu)
+TA1OEA ❌
+TA1OEB ❌
+TA1OEC ❌
+TA1OED ✅ (Oscar, Echo, Delta)
+TA1OEE ❌
+TA1OEF ✅ (Oscar, Echo, Foxtrot)
+TA1OEG ❌
+TA1OEH ❌
+TA1OEI ✅ (Oscar, Echo, India)
+TA1OEJ ✅ (Oscar, Echo, Juliett)
+TA1OEK ❌
+TA1OEL ❌
+TA1OEM ❌
+TA1OEN ✅ (Oscar, Echo, November)
+TA1OEO ✅ (Oscar, Echo, Oscar)
+TA1OEP ✅ (Oscar, Echo, Papa)
+TA1OEQ ✅ (Oscar, Echo, Quebec)
+TA1OER ❌
+TA1OES ❌
+TA1OET ❌
+TA1OEU ✅ (Oscar, Echo, Uniform)
+TA1OEV ✅ (Oscar, Echo, Victor)
+TA1OEW ✅ (Oscar, Echo, Whiskey)
+TA1OEX ✅ (Oscar, Echo, X-ray)
+TA1OEY ❌
+TA1OEZ ✅ (Oscar, Echo, Zulu)
+TA1OFA ❌
+TA1OFB ❌
+TA1OFC ✅ (Oscar, Foxtrot, Charlie)
+TA1OFD ❌
+TA1OFE ✅ (Oscar, Foxtrot, Echo)
+TA1OFF ❌
+TA1OFG ❌
+TA1OFH ✅ (Oscar, Foxtrot, Hotel)
+TA1OFI ✅ (Oscar, Foxtrot, India)
+TA1OFK ❌
+TA1OFL ❌
+TA1OFM ✅ (Oscar, Foxtrot, Mike)
+TA1OFN ✅ (Oscar, Foxtrot, November)
+TA1OFO ❌
+TA1OFP ✅ (Oscar, Foxtrot, Papa)
+TA1OFQ ✅ (Oscar, Foxtrot, Quebec)
+TA1OFR ✅ (Oscar, Foxtrot, Romeo)
+TA1OFS ❌
+TA1OFT ❌
+TA1OFU ✅ (Oscar, Foxtrot, Uniform)
+TA1OFV ✅ (Oscar, Foxtrot, Victor)
+TA1OFW ✅ (Oscar, Foxtrot, Whiskey)
+TA1OFX ✅ (Oscar, Foxtrot, X-ray)
+TA1OFY ❌
+TA1OFZ ✅ (Oscar, Foxtrot, Zulu)
+TA1OGA ❌
+TA1OGB ❌
+TA1OGC ✅ (Oscar, Golf, Charlie)
+TA1OFJ ✅ (Oscar, Foxtrot, Juliett)
+TA1OGD ✅ (Oscar, Golf, Delta)
+TA1OGE ❌
+TA1OGF ✅ (Oscar, Golf, Foxtrot)
+TA1OGG ✅ (Oscar, Golf, Golf)
+TA1OGH ❌
+TA1OGI ✅ (Oscar, Golf, India)
+TA1OGJ ✅ (Oscar, Golf, Juliett)
+TA1OGK ❌
+TA1OGL ❌
+TA1OGM ❌
+TA1OGN ❌
+TA1OGO ✅ (Oscar, Golf, Oscar)
+TA1OGP ✅ (Oscar, Golf, Papa)
+TA1OGQ ✅ (Oscar, Golf, Quebec)
+TA1OGR ❌
+TA1OGS ❌
+TA1OGT ❌
+TA1OGU ❌
+TA1OGV ✅ (Oscar, Golf, Victor)
+TA1OGW ✅ (Oscar, Golf, Whiskey)
+TA1OGX ❌
+TA1OGY ❌
+TA1OGZ ❌
+TA1OHA ✅ (Oscar, Hotel, Alfa)
+TA1OHB ✅ (Oscar, Hotel, Bravo)
+TA1OHC ❌
+TA1OHD ✅ (Oscar, Hotel, Delta)
+TA1OHE ❌
+TA1OHF ✅ (Oscar, Hotel, Foxtrot)
+TA1OHG ❌
+TA1OHH ✅ (Oscar, Hotel, Hotel)
+TA1OHI ✅ (Oscar, Hotel, India)
+TA1OHJ ✅ (Oscar, Hotel, Juliett)
+TA1OHK ❌
+TA1OHL ✅ (Oscar, Hotel, Lima)
+TA1OHM ❌
+TA1OHN ✅ (Oscar, Hotel, November)
+TA1OHO ✅ (Oscar, Hotel, Oscar)
+TA1OHP ✅ (Oscar, Hotel, Papa)
+TA1OHQ ✅ (Oscar, Hotel, Quebec)
+TA1OHR ✅ (Oscar, Hotel, Romeo)
+TA1OHS ✅ (Oscar, Hotel, Sierra)
+TA1OHT ❌
+TA1OHU ✅ (Oscar, Hotel, Uniform)
+TA1OHV ❌
+TA1OHW ❌
+TA1OHX ✅ (Oscar, Hotel, X-ray)
+TA1OHY ✅ (Oscar, Hotel, Yankee)
+TA1OHZ ✅ (Oscar, Hotel, Zulu)
+TA1OIA ✅ (Oscar, India, Alfa)
+TA1OIB ❌
+TA1OIC ✅ (Oscar, India, Charlie)
+TA1OID ✅ (Oscar, India, Delta)
+TA1OIE ✅ (Oscar, India, Echo)
+TA1OIF ✅ (Oscar, India, Foxtrot)
+TA1OIG ❌
+TA1OIH ✅ (Oscar, India, Hotel)
+TA1OII ✅ (Oscar, India, India)
+TA1OIJ ✅ (Oscar, India, Juliett)
+TA1OIK ❌
+TA1OIL ❌
+TA1OIM ✅ (Oscar, India, Mike)
+TA1OIN ✅ (Oscar, India, November)
+TA1OIO ❌
+TA1OIP ✅ (Oscar, India, Papa)
+TA1OIQ ✅ (Oscar, India, Quebec)
+TA1OIR ❌
+TA1OIS ✅ (Oscar, India, Sierra)
+TA1OIT ✅ (Oscar, India, Tango)
+TA1OIU ✅ (Oscar, India, Uniform)
+TA1OIV ✅ (Oscar, India, Victor)
+TA1OIW ✅ (Oscar, India, Whiskey)
+TA1OIX ✅ (Oscar, India, X-ray)
+TA1OIY ✅ (Oscar, India, Yankee)
+TA1OIZ ✅ (Oscar, India, Zulu)
+TA1OJA ✅ (Oscar, Juliett, Alfa)
+TA1OJB ✅ (Oscar, Juliett, Bravo)
+TA1OJC ✅ (Oscar, Juliett, Charlie)
+TA1OJD ✅ (Oscar, Juliett, Delta)
+TA1OJE ✅ (Oscar, Juliett, Echo)
+TA1OJF ✅ (Oscar, Juliett, Foxtrot)
+TA1OJG ✅ (Oscar, Juliett, Golf)
+TA1OJH ✅ (Oscar, Juliett, Hotel)
+TA1OJI ✅ (Oscar, Juliett, India)
+TA1OJJ ✅ (Oscar, Juliett, Juliett)
+TA1OJK ✅ (Oscar, Juliett, Kilo)
+TA1OJL ✅ (Oscar, Juliett, Lima)
+TA1OJM ❌
+TA1OJN ✅ (Oscar, Juliett, November)
+TA1OJO ✅ (Oscar, Juliett, Oscar)
+TA1OJP ✅ (Oscar, Juliett, Papa)
+TA1OJQ ✅ (Oscar, Juliett, Quebec)
+TA1OJR ✅ (Oscar, Juliett, Romeo)
+TA1OJS ✅ (Oscar, Juliett, Sierra)
+TA1OJT ✅ (Oscar, Juliett, Tango)
+TA1OJU ✅ (Oscar, Juliett, Uniform)
+TA1OJV ✅ (Oscar, Juliett, Victor)
+TA1OJW ✅ (Oscar, Juliett, Whiskey)
+TA1OJX ✅ (Oscar, Juliett, X-ray)
+TA1OJY ✅ (Oscar, Juliett, Yankee)
+TA1OJZ ✅ (Oscar, Juliett, Zulu)
+TA1OKA ❌
+TA1OKB ✅ (Oscar, Kilo, Bravo)
+TA1OKC ❌
+TA1OKD ✅ (Oscar, Kilo, Delta)
+TA1OKE ❌
+TA1OKF ❌
+TA1OKG ❌
+TA1OKH ❌
+TA1OKI ❌
+TA1OKJ ✅ (Oscar, Kilo, Juliett)
+TA1OKK ❌
+TA1OKL ❌
+TA1OKM ✅ (Oscar, Kilo, Mike)
+TA1OKN ❌
+TA1OKO ❌
+TA1OKP ✅ (Oscar, Kilo, Papa)
+TA1OKQ ✅ (Oscar, Kilo, Quebec)
+TA1OKR ❌
+TA1OKS ❌
+TA1OKT ❌
+TA1OKU ❌
+TA1OKV ✅ (Oscar, Kilo, Victor)
+TA1OKW ❌
+TA1OKX ❌
+TA1OKY ❌
+TA1OKZ ✅ (Oscar, Kilo, Zulu)
+TA1OLA ✅ (Oscar, Lima, Alfa)
+TA1OLB ❌
+TA1OLC ❌
+TA1OLD ✅ (Oscar, Lima, Delta)
+TA1OLE ❌
+TA1OLF ✅ (Oscar, Lima, Foxtrot)
+TA1OLG ❌
+TA1OLH ✅ (Oscar, Lima, Hotel)
+TA1OLI ✅ (Oscar, Lima, India)
+TA1OLJ ✅ (Oscar, Lima, Juliett)
+TA1OLK ✅ (Oscar, Lima, Kilo)
+TA1OLL ✅ (Oscar, Lima, Lima)
+TA1OLM ✅ (Oscar, Lima, Mike)
+TA1OLN ❌
+TA1OLO ✅ (Oscar, Lima, Oscar)
+TA1OLP ✅ (Oscar, Lima, Papa)
+TA1OLQ ✅ (Oscar, Lima, Quebec)
+TA1OLR ✅ (Oscar, Lima, Romeo)
+TA1OLS ✅ (Oscar, Lima, Sierra)
+TA1OLT ❌
+TA1OLU ✅ (Oscar, Lima, Uniform)
+TA1OLV ✅ (Oscar, Lima, Victor)
+TA1OLW ✅ (Oscar, Lima, Whiskey)
+TA1OLX ✅ (Oscar, Lima, X-ray)
+TA1OLY ✅ (Oscar, Lima, Yankee)
+TA1OLZ ❌
+TA1OMA ❌
+TA1OMB ❌
+TA1OMC ✅ (Oscar, Mike, Charlie)
+TA1OMD ✅ (Oscar, Mike, Delta)
+TA1OME ❌
+TA1OMF ✅ (Oscar, Mike, Foxtrot)
+TA1OMG ❌
+TA1OMH ✅ (Oscar, Mike, Hotel)
+TA1OMI ✅ (Oscar, Mike, India)
+TA1OMJ ✅ (Oscar, Mike, Juliett)
+TA1OMK ❌
+TA1OML ✅ (Oscar, Mike, Lima)
+TA1OMM ✅ (Oscar, Mike, Mike)
+TA1OMN ❌
+TA1OMO ✅ (Oscar, Mike, Oscar)
+TA1OMP ✅ (Oscar, Mike, Papa)
+TA1OMQ ✅ (Oscar, Mike, Quebec)
+TA1OMR ❌
+TA1OMS ❌
+TA1OMT ❌
+TA1OMU ❌
+TA1OMV ✅ (Oscar, Mike, Victor)
+TA1OMW ✅ (Oscar, Mike, Whiskey)
+TA1OMX ✅ (Oscar, Mike, X-ray)
+TA1OMY ❌
+TA1OMZ ✅ (Oscar, Mike, Zulu)
+TA1ONA ❌
+TA1ONB ✅ (Oscar, November, Bravo)
+TA1ONC ✅ (Oscar, November, Charlie)
+TA1OND ❌
+TA1ONE ❌
+TA1ONF ✅ (Oscar, November, Foxtrot)
+TA1ONG ❌
+TA1ONH ✅ (Oscar, November, Hotel)
+TA1ONI ❌
+TA1ONJ ✅ (Oscar, November, Juliett)
+TA1ONK ❌
+TA1ONL ✅ (Oscar, November, Lima)
+TA1ONM ✅ (Oscar, November, Mike)
+TA1ONN ✅ (Oscar, November, November)
+TA1ONO ❌
+TA1ONP ✅ (Oscar, November, Papa)
+TA1ONQ ✅ (Oscar, November, Quebec)
+TA1ONR ❌
+TA1ONS ✅ (Oscar, November, Sierra)
+TA1ONT ❌
+TA1ONU ❌
+TA1ONV ✅ (Oscar, November, Victor)
+TA1ONW ✅ (Oscar, November, Whiskey)
+TA1ONX ❌
+TA1ONY ❌
+TA1ONZ ❌
+TA1OOA ✅ (Oscar, Oscar, Alfa)
+TA1OOB ✅ (Oscar, Oscar, Bravo)
+TA1OOC ✅ (Oscar, Oscar, Charlie)
+TA1OOD ✅ (Oscar, Oscar, Delta)
+TA1OOE ✅ (Oscar, Oscar, Echo)
+TA1OOF ✅ (Oscar, Oscar, Foxtrot)
+TA1OOG ❌
+TA1OOH ✅ (Oscar, Oscar, Hotel)
+TA1OOI ✅ (Oscar, Oscar, India)
+TA1OOJ ✅ (Oscar, Oscar, Juliett)
+TA1OOK ❌
+TA1OOL ✅ (Oscar, Oscar, Lima)
+TA1OOM ✅ (Oscar, Oscar, Mike)
+TA1OON ❌
+TA1OOO ❌
+TA1OOP ✅ (Oscar, Oscar, Papa)
+TA1OOQ ✅ (Oscar, Oscar, Quebec)
+TA1OOR ✅ (Oscar, Oscar, Romeo)
+TA1OOS ✅ (Oscar, Oscar, Sierra)
+TA1OOT ✅ (Oscar, Oscar, Tango)
+TA1OOU ✅ (Oscar, Oscar, Uniform)
+TA1OOV ✅ (Oscar, Oscar, Victor)
+TA1OOW ✅ (Oscar, Oscar, Whiskey)
+TA1OOX ✅ (Oscar, Oscar, X-ray)
+TA1OOY ✅ (Oscar, Oscar, Yankee)
+TA1OOZ ❌
+TA1OPA ✅ (Oscar, Papa, Alfa)
+TA1OPB ✅ (Oscar, Papa, Bravo)
+TA1OPC ✅ (Oscar, Papa, Charlie)
+TA1OPD ✅ (Oscar, Papa, Delta)
+TA1OPE ✅ (Oscar, Papa, Echo)
+TA1OPF ✅ (Oscar, Papa, Foxtrot)
+TA1OPG ✅ (Oscar, Papa, Golf)
+TA1OPH ✅ (Oscar, Papa, Hotel)
+TA1OPI ✅ (Oscar, Papa, India)
+TA1OPJ ✅ (Oscar, Papa, Juliett)
+TA1OPK ✅ (Oscar, Papa, Kilo)
+TA1OPL ✅ (Oscar, Papa, Lima)
+TA1OPM ✅ (Oscar, Papa, Mike)
+TA1OPN ✅ (Oscar, Papa, November)
+TA1OPO ✅ (Oscar, Papa, Oscar)
+TA1OPP ✅ (Oscar, Papa, Papa)
+TA1OPQ ✅ (Oscar, Papa, Quebec)
+TA1OPR ✅ (Oscar, Papa, Romeo)
+TA1OPS ✅ (Oscar, Papa, Sierra)
+TA1OPT ✅ (Oscar, Papa, Tango)
+TA1OPU ✅ (Oscar, Papa, Uniform)
+TA1OPV ✅ (Oscar, Papa, Victor)
+TA1OPW ✅ (Oscar, Papa, Whiskey)
+TA1OPX ✅ (Oscar, Papa, X-ray)
+TA1OPY ✅ (Oscar, Papa, Yankee)
+TA1OPZ ✅ (Oscar, Papa, Zulu)
+TA1OQA ✅ (Oscar, Quebec, Alfa)
+TA1OQB ✅ (Oscar, Quebec, Bravo)
+TA1OQC ✅ (Oscar, Quebec, Charlie)
+TA1OQD ✅ (Oscar, Quebec, Delta)
+TA1OQE ✅ (Oscar, Quebec, Echo)
+TA1OQF ✅ (Oscar, Quebec, Foxtrot)
+TA1OQG ✅ (Oscar, Quebec, Golf)
+TA1OQH ✅ (Oscar, Quebec, Hotel)
+TA1OQI ✅ (Oscar, Quebec, India)
+TA1OQJ ✅ (Oscar, Quebec, Juliett)
+TA1OQK ✅ (Oscar, Quebec, Kilo)
+TA1OQL ✅ (Oscar, Quebec, Lima)
+TA1OQM ✅ (Oscar, Quebec, Mike)
+TA1OQN ✅ (Oscar, Quebec, November)
+TA1OQQ ✅ (Oscar, Quebec, Quebec)
+TA1OQR ✅ (Oscar, Quebec, Romeo)
+TA1OQP ✅ (Oscar, Quebec, Papa)
+TA1OQO ✅ (Oscar, Quebec, Oscar)
+TA1OQU ✅ (Oscar, Quebec, Uniform)
+TA1OQV ✅ (Oscar, Quebec, Victor)
+TA1OQT ✅ (Oscar, Quebec, Tango)
+TA1OQX ✅ (Oscar, Quebec, X-ray)
+TA1OQY ✅ (Oscar, Quebec, Yankee)
+TA1OQZ ✅ (Oscar, Quebec, Zulu)
+TA1OQS ✅ (Oscar, Quebec, Sierra)
+TA1ORB ❌
+TA1ORC ❌
+TA1ORA ❌
+TA1OQW ✅ (Oscar, Quebec, Whiskey)
+TA1ORD ❌
+TA1ORI ✅ (Oscar, Romeo, India)
+TA1ORJ ✅ (Oscar, Romeo, Juliett)
+TA1ORK ❌
+TA1ORL ✅ (Oscar, Romeo, Lima)
+TA1ORM ❌
+TA1ORN ❌
+TA1ORO ✅ (Oscar, Romeo, Oscar)
+TA1ORP ✅ (Oscar, Romeo, Papa)
+TA1ORQ ✅ (Oscar, Romeo, Quebec)
+TA1ORH ❌
+TA1ORR ✅ (Oscar, Romeo, Romeo)
+TA1ORS ✅ (Oscar, Romeo, Sierra)
+TA1ORF ✅ (Oscar, Romeo, Foxtrot)
+TA1ORT ❌
+TA1ORG ❌
+TA1ORE ❌
+TA1ORV ✅ (Oscar, Romeo, Victor)
+TA1ORW ✅ (Oscar, Romeo, Whiskey)
+TA1ORX ✅ (Oscar, Romeo, X-ray)
+TA1ORU ❌
+TA1ORZ ✅ (Oscar, Romeo, Zulu)
+TA1OSA ❌
+TA1OSB ❌
+TA1OSC ❌
+TA1ORY ❌
+TA1OSD ❌
+TA1OSE ❌
+TA1OSF ✅ (Oscar, Sierra, Foxtrot)
+TA1OSG ❌
+TA1OSH ❌
+TA1OSI ❌
+TA1OSJ ❌
+TA1OSK ❌
+TA1OSL ❌
+TA1OSM ❌
+TA1OSN ❌
+TA1OSO ❌
+TA1OSP ✅ (Oscar, Sierra, Papa)
+TA1OSQ ✅ (Oscar, Sierra, Quebec)
+TA1OSR ❌
+TA1OSS ❌
+TA1OST ❌
+TA1OSU ❌
+TA1OSV ❌
+TA1OSW ✅ (Oscar, Sierra, Whiskey)
+TA1OSX ✅ (Oscar, Sierra, X-ray)
+TA1OSY ❌
+TA1OTA ❌
+TA1OTB ❌
+TA1OTC ✅ (Oscar, Tango, Charlie)
+TA1OTD ❌
+TA1OTE ❌
+TA1OTF ✅ (Oscar, Tango, Foxtrot)
+TA1OTG ✅ (Oscar, Tango, Golf)
+TA1OTH ❌
+TA1OTI ❌
+TA1OTJ ❌
+TA1OTK ❌
+TA1OTL ❌
+TA1OTM ❌
+TA1OTN ❌
+TA1OTO ❌
+TA1OTP ✅ (Oscar, Tango, Papa)
+TA1OTQ ✅ (Oscar, Tango, Quebec)
+TA1OTR ❌
+TA1OTS ❌
+TA1OSZ ❌
+TA1OTT ❌
+TA1OTU ✅ (Oscar, Tango, Uniform)
+TA1OTV ✅ (Oscar, Tango, Victor)
+TA1OTW ✅ (Oscar, Tango, Whiskey)
+TA1OTX ❌
+TA1OTY ✅ (Oscar, Tango, Yankee)
+TA1OTZ ❌
+TA1OUA ❌
+TA1OUB ✅ (Oscar, Uniform, Bravo)
+TA1OUC ✅ (Oscar, Uniform, Charlie)
+TA1OUD ✅ (Oscar, Uniform, Delta)
+TA1OUE ✅ (Oscar, Uniform, Echo)
+TA1OUF ✅ (Oscar, Uniform, Foxtrot)
+TA1OUG ✅ (Oscar, Uniform, Golf)
+TA1OUH ✅ (Oscar, Uniform, Hotel)
+TA1OUI ❌
+TA1OUJ ✅ (Oscar, Uniform, Juliett)
+TA1OUK ✅ (Oscar, Uniform, Kilo)
+TA1OUL ✅ (Oscar, Uniform, Lima)
+TA1OUM ✅ (Oscar, Uniform, Mike)
+TA1OUN ✅ (Oscar, Uniform, November)
+TA1OUO ✅ (Oscar, Uniform, Oscar)
+TA1OUP ✅ (Oscar, Uniform, Papa)
+TA1OUQ ✅ (Oscar, Uniform, Quebec)
+TA1OUR ❌
+TA1OUS ✅ (Oscar, Uniform, Sierra)
+TA1OUT ✅ (Oscar, Uniform, Tango)
+TA1OUU ✅ (Oscar, Uniform, Uniform)
+TA1OUV ✅ (Oscar, Uniform, Victor)
+TA1OUW ✅ (Oscar, Uniform, Whiskey)
+TA1OUX ❌
+TA1OUY ❌
+TA1OUZ ❌
+TA1OVA ✅ (Oscar, Victor, Alfa)
+TA1OVB ✅ (Oscar, Victor, Bravo)
+TA1OVC ✅ (Oscar, Victor, Charlie)
+TA1OVD ✅ (Oscar, Victor, Delta)
+TA1OVE ✅ (Oscar, Victor, Echo)
+TA1OVF ✅ (Oscar, Victor, Foxtrot)
+TA1OVG ❌
+TA1OVH ✅ (Oscar, Victor, Hotel)
+TA1OVI ✅ (Oscar, Victor, India)
+TA1OVJ ✅ (Oscar, Victor, Juliett)
+TA1OVK ✅ (Oscar, Victor, Kilo)
+TA1OVL ❌
+TA1OVM ✅ (Oscar, Victor, Mike)
+TA1OVN ✅ (Oscar, Victor, November)
+TA1OVO ✅ (Oscar, Victor, Oscar)
+TA1OVP ✅ (Oscar, Victor, Papa)
+TA1OVQ ✅ (Oscar, Victor, Quebec)
+TA1OVR ❌
+TA1OVS ❌
+TA1OVT ✅ (Oscar, Victor, Tango)
+TA1OVU ✅ (Oscar, Victor, Uniform)
+TA1OVV ✅ (Oscar, Victor, Victor)
+TA1OVW ✅ (Oscar, Victor, Whiskey)
+TA1OVX ✅ (Oscar, Victor, X-ray)
+TA1OVY ✅ (Oscar, Victor, Yankee)
+TA1OVZ ✅ (Oscar, Victor, Zulu)
+TA1OWA ✅ (Oscar, Whiskey, Alfa)
+TA1OWB ✅ (Oscar, Whiskey, Bravo)
+TA1OWC ✅ (Oscar, Whiskey, Charlie)
+TA1OWD ✅ (Oscar, Whiskey, Delta)
+TA1OWE ✅ (Oscar, Whiskey, Echo)
+TA1OWF ✅ (Oscar, Whiskey, Foxtrot)
+TA1OWG ✅ (Oscar, Whiskey, Golf)
+TA1OWH ✅ (Oscar, Whiskey, Hotel)
+TA1OWI ✅ (Oscar, Whiskey, India)
+TA1OWJ ✅ (Oscar, Whiskey, Juliett)
+TA1OWK ✅ (Oscar, Whiskey, Kilo)
+TA1OWL ✅ (Oscar, Whiskey, Lima)
+TA1OWM ✅ (Oscar, Whiskey, Mike)
+TA1OWN ✅ (Oscar, Whiskey, November)
+TA1OWO ✅ (Oscar, Whiskey, Oscar)
+TA1OWP ✅ (Oscar, Whiskey, Papa)
+TA1OWQ ✅ (Oscar, Whiskey, Quebec)
+TA1OWR ✅ (Oscar, Whiskey, Romeo)
+TA1OWS ✅ (Oscar, Whiskey, Sierra)
+TA1OWT ✅ (Oscar, Whiskey, Tango)
+TA1OWU ✅ (Oscar, Whiskey, Uniform)
+TA1OWV ✅ (Oscar, Whiskey, Victor)
+TA1OWW ✅ (Oscar, Whiskey, Whiskey)
+TA1OWX ✅ (Oscar, Whiskey, X-ray)
+TA1OWY ✅ (Oscar, Whiskey, Yankee)
+TA1OWZ ✅ (Oscar, Whiskey, Zulu)
+TA1OXA ❌
+TA1OXB ✅ (Oscar, X-ray, Bravo)
+TA1OXC ✅ (Oscar, X-ray, Charlie)
+TA1OXD ✅ (Oscar, X-ray, Delta)
+TA1OXE ✅ (Oscar, X-ray, Echo)
+TA1OXF ✅ (Oscar, X-ray, Foxtrot)
+TA1OXG ✅ (Oscar, X-ray, Golf)
+TA1OXH ✅ (Oscar, X-ray, Hotel)
+TA1OXI ✅ (Oscar, X-ray, India)
+TA1OXJ ✅ (Oscar, X-ray, Juliett)
+TA1OXK ✅ (Oscar, X-ray, Kilo)
+TA1OXL ✅ (Oscar, X-ray, Lima)
+TA1OXM ✅ (Oscar, X-ray, Mike)
+TA1OXN ✅ (Oscar, X-ray, November)
+TA1OXO ✅ (Oscar, X-ray, Oscar)
+TA1OXP ✅ (Oscar, X-ray, Papa)
+TA1OXQ ✅ (Oscar, X-ray, Quebec)
+TA1OXR ✅ (Oscar, X-ray, Romeo)
+TA1OXS ✅ (Oscar, X-ray, Sierra)
+TA1OXT ✅ (Oscar, X-ray, Tango)
+TA1OXU ✅ (Oscar, X-ray, Uniform)
+TA1OXV ✅ (Oscar, X-ray, Victor)
+TA1OXW ✅ (Oscar, X-ray, Whiskey)
+TA1OXX ✅ (Oscar, X-ray, X-ray)
+TA1OXY ✅ (Oscar, X-ray, Yankee)
+TA1OXZ ✅ (Oscar, X-ray, Zulu)
+TA1OYA ❌
+TA1OYB ❌
+TA1OYC ❌
+TA1OYD ❌
+TA1OYE ✅ (Oscar, Yankee, Echo)
+TA1OYF ❌
+TA1OYG ❌
+TA1OYH ✅ (Oscar, Yankee, Hotel)
+TA1OYI ❌
+TA1OYJ ✅ (Oscar, Yankee, Juliett)
+TA1OYK ✅ (Oscar, Yankee, Kilo)
+TA1OYL ✅ (Oscar, Yankee, Lima)
+TA1OYM ✅ (Oscar, Yankee, Mike)
+TA1OYN ✅ (Oscar, Yankee, November)
+TA1OYO ✅ (Oscar, Yankee, Oscar)
+TA1OYP ✅ (Oscar, Yankee, Papa)
+TA1OYQ ✅ (Oscar, Yankee, Quebec)
+TA1OYR ❌
+TA1OYS ✅ (Oscar, Yankee, Sierra)
+TA1OYT ✅ (Oscar, Yankee, Tango)
+TA1OYU ✅ (Oscar, Yankee, Uniform)
+TA1OYV ✅ (Oscar, Yankee, Victor)
+TA1OYW ✅ (Oscar, Yankee, Whiskey)
+TA1OYX ✅ (Oscar, Yankee, X-ray)
+TA1OYY ✅ (Oscar, Yankee, Yankee)
+TA1OYZ ❌
+TA1OZA ❌
+TA1OZB ❌
+TA1OZC ❌
+TA1OZD ❌
+TA1OZE ❌
+TA1OZF ❌
+TA1OZG ❌
+TA1OZH ❌
+TA1OZI ❌
+TA1OZJ ✅ (Oscar, Zulu, Juliett)
+TA1OZK ❌
+TA1OZL ❌
+TA1OZM ❌
+TA1OZN ❌
+TA1OZO ❌
+TA1OZP ✅ (Oscar, Zulu, Papa)
+TA1OZQ ✅ (Oscar, Zulu, Quebec)
+TA1OZR ❌
+TA1OZS ❌
+TA1OZT ❌
+TA1OZU ❌
+TA1OZV ❌
+TA1OZW ❌
+TA1OZX ❌
+TA1OZY ❌
+TA1OZZ ❌
