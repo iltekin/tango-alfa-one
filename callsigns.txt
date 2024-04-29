@@ -6008,17 +6008,6 @@ TA1IXA ✅ (India, X-ray, Alfa)
 TA1IXB ✅ (India, X-ray, Bravo)
 TA1IXC ✅ (India, X-ray, Charlie)
 TA1IXD ✅ (India, X-ray, Delta)
-VM1982:26 Request failed
-xhr.onerror @ VM1982:26
-error (async)
-checkCallSign @ VM1982:25
-(anonymous) @ VM1982:37
-VM1982:28
-
-
-POST https://www.kiyiemniyeti.gov.tr/ehizmetler/telsiz_cagri_isareti_sorgula net::ERR_NETWORK_IO_SUSPENDED
-    checkCallSign @ VM1982:28
-(anonymous) @ VM1982:37
 TA1IXF ✅ (India, X-ray, Foxtrot)
 TA1IXG ✅ (India, X-ray, Golf)
 TA1IXH ✅ (India, X-ray, Hotel)
