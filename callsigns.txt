@@ -6768,3 +6768,679 @@ TA1JZW ✅ (Juliett, Zulu, Whiskey)
 TA1JZX ✅ (Juliett, Zulu, X-ray)
 TA1JZY ✅ (Juliett, Zulu, Yankee)
 TA1JZZ ✅ (Juliett, Zulu, Zulu)
+TA1KAA ❌
+TA1KAB ❌
+TA1KAC ✅ (Kilo, Alfa, Charlie)
+TA1KAD ❌
+TA1KAE ❌
+TA1KAF ❌
+TA1KAG ✅ (Kilo, Alfa, Golf)
+TA1KAH ✅ (Kilo, Alfa, Hotel)
+TA1KAI ❌
+TA1KAJ ✅ (Kilo, Alfa, Juliett)
+TA1KAK ❌
+TA1KAL ❌
+TA1KAM ❌
+TA1KAN ❌
+TA1KAO ❌
+TA1KAP ❌
+TA1KAQ ✅ (Kilo, Alfa, Quebec)
+TA1KAR ❌
+TA1KAS ❌
+TA1KAT ❌
+TA1KAU ❌
+TA1KAV ✅ (Kilo, Alfa, Victor)
+TA1KAW ✅ (Kilo, Alfa, Whiskey)
+TA1KAX ✅ (Kilo, Alfa, X-ray)
+TA1KAY ❌
+TA1KAZ ✅ (Kilo, Alfa, Zulu)
+TA1KBA ❌
+TA1KBB ❌
+TA1KBC ❌
+TA1KBD ❌
+TA1KBE ❌
+TA1KBF ✅ (Kilo, Bravo, Foxtrot)
+TA1KBG ✅ (Kilo, Bravo, Golf)
+TA1KBH ❌
+TA1KBI ✅ (Kilo, Bravo, India)
+TA1KBJ ✅ (Kilo, Bravo, Juliett)
+TA1KBK ❌
+TA1KBL ❌
+TA1KBM ❌
+TA1KBN ✅ (Kilo, Bravo, November)
+TA1KBO ✅ (Kilo, Bravo, Oscar)
+TA1KBP ✅ (Kilo, Bravo, Papa)
+TA1KBQ ✅ (Kilo, Bravo, Quebec)
+TA1KBR ✅ (Kilo, Bravo, Romeo)
+TA1KBS ❌
+TA1KBT ✅ (Kilo, Bravo, Tango)
+TA1KBU ❌
+TA1KBV ✅ (Kilo, Bravo, Victor)
+TA1KBW ✅ (Kilo, Bravo, Whiskey)
+TA1KBX ✅ (Kilo, Bravo, X-ray)
+TA1KBY ✅ (Kilo, Bravo, Yankee)
+TA1KBZ ✅ (Kilo, Bravo, Zulu)
+TA1KCA ❌
+TA1KCB ❌
+TA1KCC ❌
+TA1KCD ✅ (Kilo, Charlie, Delta)
+TA1KCE ❌
+TA1KCF ✅ (Kilo, Charlie, Foxtrot)
+TA1KCG ✅ (Kilo, Charlie, Golf)
+TA1KCH ✅ (Kilo, Charlie, Hotel)
+TA1KCI ✅ (Kilo, Charlie, India)
+TA1KCJ ✅ (Kilo, Charlie, Juliett)
+TA1KCK ❌
+TA1KCL ❌
+TA1KCM ✅ (Kilo, Charlie, Mike)
+TA1KCN ✅ (Kilo, Charlie, November)
+TA1KCO ✅ (Kilo, Charlie, Oscar)
+TA1KCP ❌
+TA1KCQ ✅ (Kilo, Charlie, Quebec)
+TA1KCR ✅ (Kilo, Charlie, Romeo)
+TA1KCS ❌
+TA1KCT ❌
+TA1KCU ✅ (Kilo, Charlie, Uniform)
+TA1KCV ✅ (Kilo, Charlie, Victor)
+TA1KCW ✅ (Kilo, Charlie, Whiskey)
+TA1KCX ✅ (Kilo, Charlie, X-ray)
+TA1KCY ✅ (Kilo, Charlie, Yankee)
+TA1KCZ ✅ (Kilo, Charlie, Zulu)
+TA1KDA ✅ (Kilo, Delta, Alfa)
+TA1KDB ✅ (Kilo, Delta, Bravo)
+TA1KDC ❌
+TA1KDD ✅ (Kilo, Delta, Delta)
+TA1KDE ❌
+TA1KDF ✅ (Kilo, Delta, Foxtrot)
+TA1KDG ✅ (Kilo, Delta, Golf)
+TA1KDH ✅ (Kilo, Delta, Hotel)
+TA1KDI ✅ (Kilo, Delta, India)
+TA1KDJ ✅ (Kilo, Delta, Juliett)
+TA1KDK ✅ (Kilo, Delta, Kilo)
+TA1KDL ✅ (Kilo, Delta, Lima)
+TA1KDM ✅ (Kilo, Delta, Mike)
+TA1KDN ❌
+TA1KDO ✅ (Kilo, Delta, Oscar)
+TA1KDP ✅ (Kilo, Delta, Papa)
+TA1KDQ ✅ (Kilo, Delta, Quebec)
+TA1KDR ❌
+TA1KDS ❌
+TA1KDT ❌
+TA1KDU ✅ (Kilo, Delta, Uniform)
+TA1KDV ✅ (Kilo, Delta, Victor)
+TA1KDW ✅ (Kilo, Delta, Whiskey)
+TA1KDX ✅ (Kilo, Delta, X-ray)
+TA1KEA ❌
+TA1KDY ✅ (Kilo, Delta, Yankee)
+TA1KED ✅ (Kilo, Echo, Delta)
+TA1KEF ❌
+TA1KDZ ✅ (Kilo, Delta, Zulu)
+TA1KEI ❌
+TA1KEM ❌
+TA1KEL ✅ (Kilo, Echo, Lima)
+TA1KEP ✅ (Kilo, Echo, Papa)
+TA1KEQ ✅ (Kilo, Echo, Quebec)
+TA1KEK ✅ (Kilo, Echo, Kilo)
+TA1KEO ❌
+TA1KER ❌
+TA1KEU ❌
+TA1KEN ❌
+TA1KET ✅ (Kilo, Echo, Tango)
+TA1KEV ✅ (Kilo, Echo, Victor)
+TA1KEY ❌
+TA1KES ❌
+TA1KEZ ✅ (Kilo, Echo, Zulu)
+TA1KFB ✅ (Kilo, Foxtrot, Bravo)
+TA1KEJ ✅ (Kilo, Echo, Juliett)
+TA1KEX ✅ (Kilo, Echo, X-ray)
+TA1KFD ❌
+TA1KEW ✅ (Kilo, Echo, Whiskey)
+TA1KFC ❌
+TA1KFE ❌
+TA1KEH ❌
+TA1KEG ❌
+TA1KEB ❌
+TA1KFF ✅ (Kilo, Foxtrot, Foxtrot)
+TA1KFI ✅ (Kilo, Foxtrot, India)
+TA1KFH ✅ (Kilo, Foxtrot, Hotel)
+TA1KFG ✅ (Kilo, Foxtrot, Golf)
+TA1KFK ✅ (Kilo, Foxtrot, Kilo)
+TA1KFL ✅ (Kilo, Foxtrot, Lima)
+TA1KFM ✅ (Kilo, Foxtrot, Mike)
+TA1KFA ❌
+TA1KEE ✅ (Kilo, Echo, Echo)
+TA1KFN ✅ (Kilo, Foxtrot, November)
+TA1KFP ✅ (Kilo, Foxtrot, Papa)
+TA1KFO ✅ (Kilo, Foxtrot, Oscar)
+TA1KFV ✅ (Kilo, Foxtrot, Victor)
+TA1KFR ✅ (Kilo, Foxtrot, Romeo)
+TA1KFU ✅ (Kilo, Foxtrot, Uniform)
+TA1KEC ❌
+TA1KFW ✅ (Kilo, Foxtrot, Whiskey)
+TA1KFZ ✅ (Kilo, Foxtrot, Zulu)
+TA1KFQ ✅ (Kilo, Foxtrot, Quebec)
+TA1KGC ❌
+TA1KFX ✅ (Kilo, Foxtrot, X-ray)
+TA1KGE ✅ (Kilo, Golf, Echo)
+TA1KGA ❌
+TA1KGH ✅ (Kilo, Golf, Hotel)
+TA1KFJ ✅ (Kilo, Foxtrot, Juliett)
+TA1KGF ✅ (Kilo, Golf, Foxtrot)
+TA1KFT ✅ (Kilo, Foxtrot, Tango)
+TA1KGD ✅ (Kilo, Golf, Delta)
+TA1KGG ✅ (Kilo, Golf, Golf)
+TA1KGO ✅ (Kilo, Golf, Oscar)
+TA1KGI ✅ (Kilo, Golf, India)
+TA1KGP ✅ (Kilo, Golf, Papa)
+TA1KGR ✅ (Kilo, Golf, Romeo)
+TA1KGK ✅ (Kilo, Golf, Kilo)
+TA1KGQ ✅ (Kilo, Golf, Quebec)
+TA1KFS ❌
+TA1KGS ✅ (Kilo, Golf, Sierra)
+TA1KGT ❌
+TA1KGW ✅ (Kilo, Golf, Whiskey)
+TA1KGY ✅ (Kilo, Golf, Yankee)
+TA1KGL ❌
+TA1KGJ ✅ (Kilo, Golf, Juliett)
+TA1KFY ❌
+TA1KHC ✅ (Kilo, Hotel, Charlie)
+TA1KGU ✅ (Kilo, Golf, Uniform)
+TA1KGN ✅ (Kilo, Golf, November)
+TA1KHB ❌
+TA1KGX ✅ (Kilo, Golf, X-ray)
+TA1KGZ ✅ (Kilo, Golf, Zulu)
+TA1KGM ❌
+TA1KHA ❌
+TA1KGV ✅ (Kilo, Golf, Victor)
+TA1KHH ✅ (Kilo, Hotel, Hotel)
+TA1KHG ❌
+TA1KHK ✅ (Kilo, Hotel, Kilo)
+TA1KHL ✅ (Kilo, Hotel, Lima)
+TA1KHF ✅ (Kilo, Hotel, Foxtrot)
+TA1KHO ❌
+TA1KHN ❌
+TA1KHQ ✅ (Kilo, Hotel, Quebec)
+TA1KGB ❌
+TA1KHT ✅ (Kilo, Hotel, Tango)
+TA1KHS ✅ (Kilo, Hotel, Sierra)
+TA1KHV ✅ (Kilo, Hotel, Victor)
+TA1KHW ✅ (Kilo, Hotel, Whiskey)
+TA1KHM ❌
+TA1KHJ ✅ (Kilo, Hotel, Juliett)
+TA1KHZ ✅ (Kilo, Hotel, Zulu)
+TA1KHU ❌
+TA1KIA ❌
+TA1KIC ✅ (Kilo, India, Charlie)
+TA1KID ✅ (Kilo, India, Delta)
+TA1KHI ❌
+TA1KIF ✅ (Kilo, India, Foxtrot)
+TA1KIG ✅ (Kilo, India, Golf)
+TA1KHX ✅ (Kilo, Hotel, X-ray)
+TA1KIB ❌
+TA1KIH ✅ (Kilo, India, Hotel)
+TA1KII ✅ (Kilo, India, India)
+TA1KHE ❌
+TA1KHY ✅ (Kilo, Hotel, Yankee)
+TA1KIK ✅ (Kilo, India, Kilo)
+TA1KIO ❌
+TA1KHD ❌
+TA1KIL ✅ (Kilo, India, Lima)
+TA1KIN ❌
+TA1KIP ✅ (Kilo, India, Papa)
+TA1KIT ❌
+TA1KIS ❌
+TA1KIQ ✅ (Kilo, India, Quebec)
+TA1KIU ❌
+TA1KIE ✅ (Kilo, India, Echo)
+TA1KIX ✅ (Kilo, India, X-ray)
+TA1KIZ ✅ (Kilo, India, Zulu)
+TA1KIM ✅ (Kilo, India, Mike)
+TA1KIJ ✅ (Kilo, India, Juliett)
+TA1KJB ✅ (Kilo, Juliett, Bravo)
+TA1KJD ✅ (Kilo, Juliett, Delta)
+TA1KHR ❌
+TA1KJF ✅ (Kilo, Juliett, Foxtrot)
+TA1KHP ✅ (Kilo, Hotel, Papa)
+TA1KJH ✅ (Kilo, Juliett, Hotel)
+TA1KJJ ✅ (Kilo, Juliett, Juliett)
+TA1KIV ❌
+TA1KJL ✅ (Kilo, Juliett, Lima)
+TA1KJM ✅ (Kilo, Juliett, Mike)
+TA1KJK ✅ (Kilo, Juliett, Kilo)
+TA1KIY ✅ (Kilo, India, Yankee)
+TA1KJI ✅ (Kilo, Juliett, India)
+TA1KIW ✅ (Kilo, India, Whiskey)
+TA1KJO ✅ (Kilo, Juliett, Oscar)
+TA1KJR ✅ (Kilo, Juliett, Romeo)
+TA1KJQ ✅ (Kilo, Juliett, Quebec)
+TA1KJT ✅ (Kilo, Juliett, Tango)
+TA1KJP ✅ (Kilo, Juliett, Papa)
+TA1KJE ✅ (Kilo, Juliett, Echo)
+TA1KJW ✅ (Kilo, Juliett, Whiskey)
+TA1KJU ✅ (Kilo, Juliett, Uniform)
+TA1KJV ✅ (Kilo, Juliett, Victor)
+TA1KJY ✅ (Kilo, Juliett, Yankee)
+TA1KJX ✅ (Kilo, Juliett, X-ray)
+TA1KKB ✅ (Kilo, Kilo, Bravo)
+TA1KJG ✅ (Kilo, Juliett, Golf)
+TA1KKD ✅ (Kilo, Kilo, Delta)
+TA1KJZ ✅ (Kilo, Juliett, Zulu)
+TA1KKF ✅ (Kilo, Kilo, Foxtrot)
+TA1KKG ✅ (Kilo, Kilo, Golf)
+TA1KJS ✅ (Kilo, Juliett, Sierra)
+TA1KKI ✅ (Kilo, Kilo, India)
+TA1KKC ✅ (Kilo, Kilo, Charlie)
+TA1KKA ❌
+TA1KKL ✅ (Kilo, Kilo, Lima)
+TA1KJA ✅ (Kilo, Juliett, Alfa)
+TA1KJN ✅ (Kilo, Juliett, November)
+TA1KKO ✅ (Kilo, Kilo, Oscar)
+TA1KKP ✅ (Kilo, Kilo, Papa)
+TA1KKN ❌
+TA1KKR ✅ (Kilo, Kilo, Romeo)
+TA1KKJ ❌
+TA1KKQ ✅ (Kilo, Kilo, Quebec)
+TA1KKU ✅ (Kilo, Kilo, Uniform)
+TA1KKV ✅ (Kilo, Kilo, Victor)
+TA1KKE ✅ (Kilo, Kilo, Echo)
+TA1KKX ✅ (Kilo, Kilo, X-ray)
+TA1KKS ✅ (Kilo, Kilo, Sierra)
+TA1KKZ ✅ (Kilo, Kilo, Zulu)
+TA1KIR ✅ (Kilo, India, Romeo)
+TA1KKT ❌
+TA1KLC ❌
+TA1KKM ❌
+TA1KKW ✅ (Kilo, Kilo, Whiskey)
+TA1KLF ✅ (Kilo, Lima, Foxtrot)
+TA1KKH ✅ (Kilo, Kilo, Hotel)
+TA1KLA ❌
+TA1KKY ✅ (Kilo, Kilo, Yankee)
+TA1KLJ ✅ (Kilo, Lima, Juliett)
+TA1KLK ❌
+TA1KLG ❌
+TA1KLH ❌
+TA1KLD ✅ (Kilo, Lima, Delta)
+TA1KLO ❌
+TA1KLE ✅ (Kilo, Lima, Echo)
+TA1KLM ❌
+TA1KLL ✅ (Kilo, Lima, Lima)
+TA1KLS ✅ (Kilo, Lima, Sierra)
+TA1KLI ❌
+TA1KLQ ✅ (Kilo, Lima, Quebec)
+TA1KLT ❌
+TA1KLW ✅ (Kilo, Lima, Whiskey)
+TA1KLN ❌
+TA1KLY ✅ (Kilo, Lima, Yankee)
+TA1KLX ✅ (Kilo, Lima, X-ray)
+TA1KMA ❌
+TA1KLB ❌
+TA1KLZ ✅ (Kilo, Lima, Zulu)
+TA1KLU ❌
+TA1KMB ❌
+TA1KMF ❌
+TA1KLV ✅ (Kilo, Lima, Victor)
+TA1KLP ✅ (Kilo, Lima, Papa)
+TA1KMH ✅ (Kilo, Mike, Hotel)
+TA1KMG ❌
+TA1KMC ❌
+TA1KMI ❌
+TA1KML ❌
+TA1KLR ✅ (Kilo, Lima, Romeo)
+TA1KMN ❌
+TA1KMO ❌
+TA1KME ❌
+TA1KMQ ✅ (Kilo, Mike, Quebec)
+TA1KMP ❌
+TA1KMM ❌
+TA1KMR ❌
+TA1KMS ❌
+TA1KMT ❌
+TA1KMX ✅ (Kilo, Mike, X-ray)
+TA1KMD ❌
+TA1KMY ✅ (Kilo, Mike, Yankee)
+TA1KNA ❌
+TA1KMZ ✅ (Kilo, Mike, Zulu)
+TA1KMK ✅ (Kilo, Mike, Kilo)
+TA1KNC ❌
+TA1KJC ✅ (Kilo, Juliett, Charlie)
+TA1KMW ✅ (Kilo, Mike, Whiskey)
+TA1KMJ ✅ (Kilo, Mike, Juliett)
+TA1KNG ✅ (Kilo, November, Golf)
+TA1KMV ❌
+TA1KNI ✅ (Kilo, November, India)
+TA1KNJ ✅ (Kilo, November, Juliett)
+TA1KNH ✅ (Kilo, November, Hotel)
+TA1KNL ✅ (Kilo, November, Lima)
+TA1KNN ❌
+TA1KNF ✅ (Kilo, November, Foxtrot)
+TA1KNO ❌
+TA1KNP ✅ (Kilo, November, Papa)
+TA1KMU ❌
+TA1KNT ❌
+TA1KNU ✅ (Kilo, November, Uniform)
+TA1KNV ✅ (Kilo, November, Victor)
+TA1KNE ❌
+TA1KNW ✅ (Kilo, November, Whiskey)
+TA1KNX ✅ (Kilo, November, X-ray)
+TA1KNZ ❌
+TA1KOA ❌
+TA1KNK ✅ (Kilo, November, Kilo)
+TA1KKK ❌
+TA1KOB ✅ (Kilo, Oscar, Bravo)
+TA1KOC ❌
+TA1KOD ✅ (Kilo, Oscar, Delta)
+TA1KOE ❌
+TA1KOF ✅ (Kilo, Oscar, Foxtrot)
+TA1KOG ✅ (Kilo, Oscar, Golf)
+TA1KOH ✅ (Kilo, Oscar, Hotel)
+TA1KOJ ✅ (Kilo, Oscar, Juliett)
+TA1KOL ❌
+TA1KOM ❌
+TA1KON ✅ (Kilo, Oscar, November)
+TA1KNM ✅ (Kilo, November, Mike)
+TA1KOO ❌
+TA1KOP ✅ (Kilo, Oscar, Papa)
+TA1KOI ✅ (Kilo, Oscar, India)
+TA1KOR ❌
+TA1KOT ❌
+TA1KOQ ✅ (Kilo, Oscar, Quebec)
+TA1KOU ✅ (Kilo, Oscar, Uniform)
+TA1KOS ✅ (Kilo, Oscar, Sierra)
+TA1KOV ✅ (Kilo, Oscar, Victor)
+TA1KOY ✅ (Kilo, Oscar, Yankee)
+TA1KNY ✅ (Kilo, November, Yankee)
+TA1KNS ✅ (Kilo, November, Sierra)
+TA1KPB ✅ (Kilo, Papa, Bravo)
+TA1KPC ✅ (Kilo, Papa, Charlie)
+TA1KPD ✅ (Kilo, Papa, Delta)
+TA1KOW ✅ (Kilo, Oscar, Whiskey)
+TA1KNQ ✅ (Kilo, November, Quebec)
+TA1KPE ✅ (Kilo, Papa, Echo)
+TA1KPH ✅ (Kilo, Papa, Hotel)
+TA1KPF ✅ (Kilo, Papa, Foxtrot)
+TA1KPG ✅ (Kilo, Papa, Golf)
+TA1KPK ✅ (Kilo, Papa, Kilo)
+TA1KPI ❌
+TA1KPL ❌
+TA1KPN ✅ (Kilo, Papa, November)
+TA1KPO ✅ (Kilo, Papa, Oscar)
+TA1KPP ✅ (Kilo, Papa, Papa)
+TA1KPQ ✅ (Kilo, Papa, Quebec)
+TA1KPR ✅ (Kilo, Papa, Romeo)
+TA1KPS ❌
+TA1KPT ❌
+TA1KPM ✅ (Kilo, Papa, Mike)
+TA1KPV ✅ (Kilo, Papa, Victor)
+TA1KOK ❌
+TA1KPU ✅ (Kilo, Papa, Uniform)
+TA1KPW ✅ (Kilo, Papa, Whiskey)
+TA1KPJ ✅ (Kilo, Papa, Juliett)
+TA1KPZ ✅ (Kilo, Papa, Zulu)
+TA1KQA ✅ (Kilo, Quebec, Alfa)
+TA1KPY ✅ (Kilo, Papa, Yankee)
+TA1KQB ✅ (Kilo, Quebec, Bravo)
+TA1KPA ✅ (Kilo, Papa, Alfa)
+TA1KQD ✅ (Kilo, Quebec, Delta)
+TA1KQE ✅ (Kilo, Quebec, Echo)
+TA1KQC ✅ (Kilo, Quebec, Charlie)
+TA1KQI ✅ (Kilo, Quebec, India)
+TA1KQH ✅ (Kilo, Quebec, Hotel)
+TA1KQJ ✅ (Kilo, Quebec, Juliett)
+TA1KQG ✅ (Kilo, Quebec, Golf)
+TA1KQF ✅ (Kilo, Quebec, Foxtrot)
+TA1KQN ✅ (Kilo, Quebec, November)
+TA1KQK ✅ (Kilo, Quebec, Kilo)
+TA1KQL ✅ (Kilo, Quebec, Lima)
+TA1KQO ✅ (Kilo, Quebec, Oscar)
+TA1KQP ✅ (Kilo, Quebec, Papa)
+TA1KQQ ✅ (Kilo, Quebec, Quebec)
+TA1KQS ✅ (Kilo, Quebec, Sierra)
+TA1KQM ✅ (Kilo, Quebec, Mike)
+TA1KQR ✅ (Kilo, Quebec, Romeo)
+TA1KQU ✅ (Kilo, Quebec, Uniform)
+TA1KPX ✅ (Kilo, Papa, X-ray)
+TA1KQW ✅ (Kilo, Quebec, Whiskey)
+TA1KQX ✅ (Kilo, Quebec, X-ray)
+TA1KOX ✅ (Kilo, Oscar, X-ray)
+TA1KQT ✅ (Kilo, Quebec, Tango)
+TA1KRA ❌
+TA1KRC ❌
+TA1KQZ ✅ (Kilo, Quebec, Zulu)
+TA1KRB ❌
+TA1KRF ❌
+TA1KOZ ❌
+TA1KRG ❌
+TA1KRH ✅ (Kilo, Romeo, Hotel)
+TA1KRE ❌
+TA1KRJ ✅ (Kilo, Romeo, Juliett)
+TA1KRM ❌
+TA1KRN ✅ (Kilo, Romeo, November)
+TA1KQY ✅ (Kilo, Quebec, Yankee)
+TA1KRK ❌
+TA1KRO ✅ (Kilo, Romeo, Oscar)
+TA1KRP ✅ (Kilo, Romeo, Papa)
+TA1KRS ✅ (Kilo, Romeo, Sierra)
+TA1KRI ✅ (Kilo, Romeo, India)
+TA1KRR ✅ (Kilo, Romeo, Romeo)
+TA1KQV ✅ (Kilo, Quebec, Victor)
+TA1KNB ❌
+TA1KRV ✅ (Kilo, Romeo, Victor)
+TA1KNR ❌
+TA1KRT ❌
+TA1KND ✅ (Kilo, November, Delta)
+TA1KSA ❌
+TA1KRL ✅ (Kilo, Romeo, Lima)
+TA1KSB ❌
+TA1KSD ❌
+TA1KRD ❌
+TA1KRX ❌
+TA1KSG ❌
+TA1KRY ❌
+TA1KSI ❌
+TA1KSK ❌
+TA1KSL ❌
+TA1KRW ✅ (Kilo, Romeo, Whiskey)
+TA1KRQ ✅ (Kilo, Romeo, Quebec)
+TA1KSM ❌
+TA1KSN ❌
+TA1KSQ ✅ (Kilo, Sierra, Quebec)
+TA1KSR ❌
+TA1KSH ✅ (Kilo, Sierra, Hotel)
+TA1KSP ✅ (Kilo, Sierra, Papa)
+TA1KSU ❌
+TA1KST ❌
+TA1KSV ❌
+TA1KSS ❌
+TA1KSY ❌
+TA1KSO ❌
+TA1KSX ✅ (Kilo, Sierra, X-ray)
+TA1KSW ✅ (Kilo, Sierra, Whiskey)
+TA1KSZ ✅ (Kilo, Sierra, Zulu)
+TA1KTC ❌
+TA1KTE ✅ (Kilo, Tango, Echo)
+TA1KTB ❌
+TA1KTD ❌
+TA1KTA ❌
+TA1KSF ✅ (Kilo, Sierra, Foxtrot)
+TA1KTH ✅ (Kilo, Tango, Hotel)
+TA1KTG ✅ (Kilo, Tango, Golf)
+TA1KTJ ✅ (Kilo, Tango, Juliett)
+TA1KTL ❌
+TA1KTI ❌
+TA1KSE ✅ (Kilo, Sierra, Echo)
+TA1KTN ❌
+TA1KSC ❌
+TA1KTF ✅ (Kilo, Tango, Foxtrot)
+TA1KTO ✅ (Kilo, Tango, Oscar)
+TA1KTR ❌
+TA1KTQ ✅ (Kilo, Tango, Quebec)
+TA1KTM ❌
+TA1KTS ❌
+TA1KTV ✅ (Kilo, Tango, Victor)
+TA1KSJ ✅ (Kilo, Sierra, Juliett)
+TA1KTX ✅ (Kilo, Tango, X-ray)
+TA1KTP ✅ (Kilo, Tango, Papa)
+TA1KTW ✅ (Kilo, Tango, Whiskey)
+TA1KTY ❌
+TA1KTZ ❌
+TA1KUC ❌
+TA1KUB ❌
+TA1KTU ❌
+TA1KUG ✅ (Kilo, Uniform, Golf)
+TA1KUE ✅ (Kilo, Uniform, Echo)
+TA1KUD ✅ (Kilo, Uniform, Delta)
+TA1KRU ✅ (Kilo, Romeo, Uniform)
+TA1KUH ✅ (Kilo, Uniform, Hotel)
+TA1KUL ✅ (Kilo, Uniform, Lima)
+TA1KUF ✅ (Kilo, Uniform, Foxtrot)
+TA1KTT ✅ (Kilo, Tango, Tango)
+TA1KUJ ✅ (Kilo, Uniform, Juliett)
+TA1KUM ❌
+TA1KUK ✅ (Kilo, Uniform, Kilo)
+TA1KUA ❌
+TA1KUO ❌
+TA1KRZ ❌
+TA1KUU ✅ (Kilo, Uniform, Uniform)
+TA1KUQ ✅ (Kilo, Uniform, Quebec)
+TA1KUR ✅ (Kilo, Uniform, Romeo)
+TA1KUP ✅ (Kilo, Uniform, Papa)
+TA1KUW ✅ (Kilo, Uniform, Whiskey)
+TA1KUS ❌
+TA1KUZ ✅ (Kilo, Uniform, Zulu)
+TA1KVA ✅ (Kilo, Victor, Alfa)
+TA1KVC ❌
+TA1KUY ❌
+TA1KVE ❌
+TA1KUX ✅ (Kilo, Uniform, X-ray)
+TA1KUI ❌
+TA1KVH ✅ (Kilo, Victor, Hotel)
+TA1KVF ✅ (Kilo, Victor, Foxtrot)
+TA1KUV ✅ (Kilo, Uniform, Victor)
+TA1KVD ✅ (Kilo, Victor, Delta)
+TA1KVK ❌
+TA1KUT ❌
+TA1KVI ✅ (Kilo, Victor, India)
+TA1KTK ❌
+TA1KVB ✅ (Kilo, Victor, Bravo)
+TA1KVN ✅ (Kilo, Victor, November)
+TA1KVO ✅ (Kilo, Victor, Oscar)
+TA1KVR ✅ (Kilo, Victor, Romeo)
+TA1KVS ❌
+TA1KVJ ✅ (Kilo, Victor, Juliett)
+TA1KVW ✅ (Kilo, Victor, Whiskey)
+TA1KVP ✅ (Kilo, Victor, Papa)
+TA1KVQ ✅ (Kilo, Victor, Quebec)
+TA1KVU ✅ (Kilo, Victor, Uniform)
+TA1KVY ✅ (Kilo, Victor, Yankee)
+TA1KWA ✅ (Kilo, Whiskey, Alfa)
+TA1KVV ✅ (Kilo, Victor, Victor)
+TA1KVT ✅ (Kilo, Victor, Tango)
+TA1KWC ✅ (Kilo, Whiskey, Charlie)
+TA1KWD ✅ (Kilo, Whiskey, Delta)
+TA1KVL ✅ (Kilo, Victor, Lima)
+TA1KWF ✅ (Kilo, Whiskey, Foxtrot)
+TA1KWB ✅ (Kilo, Whiskey, Bravo)
+TA1KWH ✅ (Kilo, Whiskey, Hotel)
+TA1KWI ✅ (Kilo, Whiskey, India)
+TA1KVG ✅ (Kilo, Victor, Golf)
+TA1KWK ✅ (Kilo, Whiskey, Kilo)
+TA1KWE ✅ (Kilo, Whiskey, Echo)
+TA1KWJ ✅ (Kilo, Whiskey, Juliett)
+TA1KWN ✅ (Kilo, Whiskey, November)
+TA1KWO ✅ (Kilo, Whiskey, Oscar)
+TA1KWQ ✅ (Kilo, Whiskey, Quebec)
+TA1KWL ✅ (Kilo, Whiskey, Lima)
+TA1KWP ✅ (Kilo, Whiskey, Papa)
+TA1KWS ✅ (Kilo, Whiskey, Sierra)
+TA1KWV ✅ (Kilo, Whiskey, Victor)
+TA1KWU ✅ (Kilo, Whiskey, Uniform)
+TA1KWG ✅ (Kilo, Whiskey, Golf)
+TA1KVX ✅ (Kilo, Victor, X-ray)
+TA1KVZ ✅ (Kilo, Victor, Zulu)
+TA1KVM ✅ (Kilo, Victor, Mike)
+TA1KUN ❌
+TA1KWW ✅ (Kilo, Whiskey, Whiskey)
+TA1KXA ✅ (Kilo, X-ray, Alfa)
+TA1KWR ✅ (Kilo, Whiskey, Romeo)
+TA1KXF ✅ (Kilo, X-ray, Foxtrot)
+TA1KXE ✅ (Kilo, X-ray, Echo)
+TA1KWZ ✅ (Kilo, Whiskey, Zulu)
+TA1KWY ✅ (Kilo, Whiskey, Yankee)
+TA1KXJ ✅ (Kilo, X-ray, Juliett)
+TA1KXK ✅ (Kilo, X-ray, Kilo)
+TA1KXL ✅ (Kilo, X-ray, Lima)
+TA1KWX ✅ (Kilo, Whiskey, X-ray)
+TA1KXB ✅ (Kilo, X-ray, Bravo)
+TA1KXN ✅ (Kilo, X-ray, November)
+TA1KXP ✅ (Kilo, X-ray, Papa)
+TA1KXQ ✅ (Kilo, X-ray, Quebec)
+TA1KXR ✅ (Kilo, X-ray, Romeo)
+TA1KXO ✅ (Kilo, X-ray, Oscar)
+TA1KXT ✅ (Kilo, X-ray, Tango)
+TA1KXS ✅ (Kilo, X-ray, Sierra)
+TA1KXU ✅ (Kilo, X-ray, Uniform)
+TA1KXW ✅ (Kilo, X-ray, Whiskey)
+TA1KXI ✅ (Kilo, X-ray, India)
+TA1KXH ✅ (Kilo, X-ray, Hotel)
+TA1KXV ✅ (Kilo, X-ray, Victor)
+TA1KYA ❌
+TA1KXX ✅ (Kilo, X-ray, X-ray)
+TA1KXC ✅ (Kilo, X-ray, Charlie)
+TA1KYC ❌
+TA1KXG ✅ (Kilo, X-ray, Golf)
+TA1KYE ❌
+TA1KYF ✅ (Kilo, Yankee, Foxtrot)
+TA1KYB ❌
+TA1KYG ❌
+TA1KYH ❌
+TA1KYI ✅ (Kilo, Yankee, India)
+TA1KYL ❌
+TA1KYM ✅ (Kilo, Yankee, Mike)
+TA1KYN ❌
+TA1KXD ✅ (Kilo, X-ray, Delta)
+TA1KYD ❌
+TA1KYP ✅ (Kilo, Yankee, Papa)
+TA1KXZ ✅ (Kilo, X-ray, Zulu)
+TA1KYR ❌
+TA1KYS ❌
+TA1KYQ ✅ (Kilo, Yankee, Quebec)
+TA1KYV ❌
+TA1KYT ❌
+TA1KYW ✅ (Kilo, Yankee, Whiskey)
+TA1KYO ✅ (Kilo, Yankee, Oscar)
+TA1KYU ✅ (Kilo, Yankee, Uniform)
+TA1KYX ✅ (Kilo, Yankee, X-ray)
+TA1KYZ ❌
+TA1KZB ✅ (Kilo, Zulu, Bravo)
+TA1KZC ✅ (Kilo, Zulu, Charlie)
+TA1KYY ✅ (Kilo, Yankee, Yankee)
+TA1KZD ✅ (Kilo, Zulu, Delta)
+TA1KZE ✅ (Kilo, Zulu, Echo)
+TA1KXY ✅ (Kilo, X-ray, Yankee)
+TA1KZH ✅ (Kilo, Zulu, Hotel)
+TA1KZF ✅ (Kilo, Zulu, Foxtrot)
+TA1KZG ✅ (Kilo, Zulu, Golf)
+TA1KZJ ✅ (Kilo, Zulu, Juliett)
+TA1KZK ❌
+TA1KZA ✅ (Kilo, Zulu, Alfa)
+TA1KZM ✅ (Kilo, Zulu, Mike)
+TA1KYJ ✅ (Kilo, Yankee, Juliett)
+TA1KZO ✅ (Kilo, Zulu, Oscar)
+TA1KZP ✅ (Kilo, Zulu, Papa)
+TA1KZL ❌
+TA1KZS ✅ (Kilo, Zulu, Sierra)
+TA1KZI ✅ (Kilo, Zulu, India)
+TA1KZR ✅ (Kilo, Zulu, Romeo)
+TA1KYK ❌
+TA1KZT ✅ (Kilo, Zulu, Tango)
+TA1KZU ✅ (Kilo, Zulu, Uniform)
+TA1KZV ✅ (Kilo, Zulu, Victor)
+TA1KZZ ✅ (Kilo, Zulu, Zulu)
+TA1KWT ✅ (Kilo, Whiskey, Tango)
+TA1KZY ❌
+TA1KZX ✅ (Kilo, Zulu, X-ray)
+TA1KXM ✅ (Kilo, X-ray, Mike)
+TA1KZW ✅ (Kilo, Zulu, Whiskey)
+TA1KWM ✅ (Kilo, Whiskey, Mike)
+TA1KZQ ✅ (Kilo, Zulu, Quebec)
+TA1KZN ✅ (Kilo, Zulu, November)
