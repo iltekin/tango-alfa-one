@@ -7433,3 +7433,679 @@ TA1KZW ✅ (Kilo, Zulu, Whiskey)
 TA1KWM ✅ (Kilo, Whiskey, Mike)
 TA1KZQ ✅ (Kilo, Zulu, Quebec)
 TA1KZN ✅ (Kilo, Zulu, November)
+TA1LAA ❌
+TA1LAB ❌
+TA1LAC ❌
+TA1LAD ❌
+TA1LAE ❌
+TA1LAF ✅ (Lima, Alfa, Foxtrot)
+TA1LAG ❌
+TA1LAH ❌
+TA1LAI ❌
+TA1LAJ ✅ (Lima, Alfa, Juliett)
+TA1LAK ❌
+TA1LAL ❌
+TA1LAM ❌
+TA1LAN ✅ (Lima, Alfa, November)
+TA1LAO ❌
+TA1LAP ✅ (Lima, Alfa, Papa)
+TA1LAQ ✅ (Lima, Alfa, Quebec)
+TA1LAR ✅ (Lima, Alfa, Romeo)
+TA1LAS ❌
+TA1LAT ❌
+TA1LAU ✅ (Lima, Alfa, Uniform)
+TA1LAV ✅ (Lima, Alfa, Victor)
+TA1LAW ❌
+TA1LAX ❌
+TA1LAY ❌
+TA1LAZ ❌
+TA1LBA ❌
+TA1LBB ❌
+TA1LBC ❌
+TA1LBD ❌
+TA1LBE ✅ (Lima, Bravo, Echo)
+TA1LBF ✅ (Lima, Bravo, Foxtrot)
+TA1LBG ❌
+TA1LBH ❌
+TA1LBI ❌
+TA1LBJ ❌
+TA1LBK ❌
+TA1LBL ✅ (Lima, Bravo, Lima)
+TA1LBM ✅ (Lima, Bravo, Mike)
+TA1LBN ❌
+TA1LBO ✅ (Lima, Bravo, Oscar)
+TA1LBP ✅ (Lima, Bravo, Papa)
+TA1LBQ ✅ (Lima, Bravo, Quebec)
+TA1LBR ✅ (Lima, Bravo, Romeo)
+TA1LBS ❌
+TA1LBT ❌
+TA1LBU ❌
+TA1LBV ❌
+TA1LBW ✅ (Lima, Bravo, Whiskey)
+TA1LBX ❌
+TA1LBY ❌
+TA1LBZ ❌
+TA1LCA ❌
+TA1LCB ❌
+TA1LCC ❌
+TA1LCD ✅ (Lima, Charlie, Delta)
+TA1LCE ❌
+TA1LCF ✅ (Lima, Charlie, Foxtrot)
+TA1LCG ❌
+TA1LCH ❌
+TA1LCI ✅ (Lima, Charlie, India)
+TA1LCJ ✅ (Lima, Charlie, Juliett)
+TA1LCK ❌
+TA1LCL ✅ (Lima, Charlie, Lima)
+TA1LCM ❌
+TA1LCN ✅ (Lima, Charlie, November)
+TA1LCO ❌
+TA1LCP ✅ (Lima, Charlie, Papa)
+TA1LCQ ✅ (Lima, Charlie, Quebec)
+TA1LCR ✅ (Lima, Charlie, Romeo)
+TA1LCS ❌
+TA1LCT ❌
+TA1LCU ❌
+TA1LCV ✅ (Lima, Charlie, Victor)
+TA1LCW ❌
+TA1LCX ❌
+TA1LCY ❌
+TA1LCZ ✅ (Lima, Charlie, Zulu)
+TA1LDA ❌
+TA1LDB ✅ (Lima, Delta, Bravo)
+TA1LDC ✅ (Lima, Delta, Charlie)
+TA1LDD ✅ (Lima, Delta, Delta)
+TA1LDE ❌
+TA1LDF ✅ (Lima, Delta, Foxtrot)
+TA1LDG ✅ (Lima, Delta, Golf)
+TA1LDH ✅ (Lima, Delta, Hotel)
+TA1LDI ✅ (Lima, Delta, India)
+TA1LDJ ✅ (Lima, Delta, Juliett)
+TA1LDK ✅ (Lima, Delta, Kilo)
+TA1LDL ✅ (Lima, Delta, Lima)
+TA1LDM ✅ (Lima, Delta, Mike)
+TA1LDN ✅ (Lima, Delta, November)
+TA1LDO ✅ (Lima, Delta, Oscar)
+TA1LDP ✅ (Lima, Delta, Papa)
+TA1LDQ ✅ (Lima, Delta, Quebec)
+TA1LDR ❌
+TA1LDS ✅ (Lima, Delta, Sierra)
+TA1LDT ✅ (Lima, Delta, Tango)
+TA1LDU ✅ (Lima, Delta, Uniform)
+TA1LDV ✅ (Lima, Delta, Victor)
+TA1LDW ✅ (Lima, Delta, Whiskey)
+TA1LDX ✅ (Lima, Delta, X-ray)
+TA1LDY ✅ (Lima, Delta, Yankee)
+TA1LDZ ✅ (Lima, Delta, Zulu)
+TA1LEA ❌
+TA1LEB ✅ (Lima, Echo, Bravo)
+TA1LEC ❌
+TA1LED ❌
+TA1LEE ❌
+TA1LEF ❌
+TA1LEG ❌
+TA1LEH ❌
+TA1LEI ✅ (Lima, Echo, India)
+TA1LEJ ❌
+TA1LEK ❌
+TA1LEL ✅ (Lima, Echo, Lima)
+TA1LEM ✅ (Lima, Echo, Mike)
+TA1LEN ✅ (Lima, Echo, November)
+TA1LEO ❌
+TA1LEP ✅ (Lima, Echo, Papa)
+TA1LEQ ✅ (Lima, Echo, Quebec)
+TA1LER ❌
+TA1LES ❌
+TA1LET ❌
+TA1LEU ✅ (Lima, Echo, Uniform)
+TA1LEV ❌
+TA1LEW ✅ (Lima, Echo, Whiskey)
+TA1LEX ❌
+TA1LEY ✅ (Lima, Echo, Yankee)
+TA1LEZ ✅ (Lima, Echo, Zulu)
+TA1LFA ❌
+TA1LFB ❌
+TA1LFC ✅ (Lima, Foxtrot, Charlie)
+TA1LFD ✅ (Lima, Foxtrot, Delta)
+TA1LFE ❌
+TA1LFF ❌
+TA1LFG ✅ (Lima, Foxtrot, Golf)
+TA1LFH ✅ (Lima, Foxtrot, Hotel)
+TA1LFI ✅ (Lima, Foxtrot, India)
+TA1LFJ ✅ (Lima, Foxtrot, Juliett)
+TA1LFK ❌
+TA1LFL ✅ (Lima, Foxtrot, Lima)
+TA1LFM ❌
+TA1LFN ✅ (Lima, Foxtrot, November)
+TA1LFO ❌
+TA1LFP ✅ (Lima, Foxtrot, Papa)
+TA1LFQ ✅ (Lima, Foxtrot, Quebec)
+TA1LFR ✅ (Lima, Foxtrot, Romeo)
+TA1LFS ❌
+TA1LFT ❌
+TA1LFU ❌
+TA1LFV ✅ (Lima, Foxtrot, Victor)
+TA1LFW ✅ (Lima, Foxtrot, Whiskey)
+TA1LFX ✅ (Lima, Foxtrot, X-ray)
+TA1LFY ❌
+TA1LFZ ✅ (Lima, Foxtrot, Zulu)
+TA1LGA ❌
+TA1LGB ❌
+TA1LGC ❌
+TA1LGD ✅ (Lima, Golf, Delta)
+TA1LGE ❌
+TA1LGF ✅ (Lima, Golf, Foxtrot)
+TA1LGG ✅ (Lima, Golf, Golf)
+TA1LGH ❌
+TA1LGI ❌
+TA1LGJ ✅ (Lima, Golf, Juliett)
+TA1LGK ❌
+TA1LGL ✅ (Lima, Golf, Lima)
+TA1LGM ✅ (Lima, Golf, Mike)
+TA1LGN ✅ (Lima, Golf, November)
+TA1LGO ❌
+TA1LGP ✅ (Lima, Golf, Papa)
+TA1LGQ ✅ (Lima, Golf, Quebec)
+TA1LGR ✅ (Lima, Golf, Romeo)
+TA1LGS ❌
+TA1LGT ❌
+TA1LGU ✅ (Lima, Golf, Uniform)
+TA1LGV ✅ (Lima, Golf, Victor)
+TA1LGW ✅ (Lima, Golf, Whiskey)
+TA1LGX ❌
+TA1LGY ✅ (Lima, Golf, Yankee)
+TA1LGZ ✅ (Lima, Golf, Zulu)
+TA1LHA ❌
+TA1LHB ❌
+TA1LHC ✅ (Lima, Hotel, Charlie)
+TA1LHD ❌
+TA1LHE ❌
+TA1LHF ✅ (Lima, Hotel, Foxtrot)
+TA1LHG ❌
+TA1LHH ✅ (Lima, Hotel, Hotel)
+TA1LHI ❌
+TA1LHJ ❌
+TA1LHK ❌
+TA1LHL ❌
+TA1LHM ✅ (Lima, Hotel, Mike)
+TA1LHN ✅ (Lima, Hotel, November)
+TA1LHO ❌
+TA1LHP ✅ (Lima, Hotel, Papa)
+TA1LHQ ✅ (Lima, Hotel, Quebec)
+TA1LHR ✅ (Lima, Hotel, Romeo)
+TA1LHS ❌
+TA1LHT ❌
+TA1LHU ✅ (Lima, Hotel, Uniform)
+TA1LHV ✅ (Lima, Hotel, Victor)
+TA1LHW ✅ (Lima, Hotel, Whiskey)
+TA1LHX ❌
+TA1LHY ❌
+TA1LHZ ✅ (Lima, Hotel, Zulu)
+TA1LIB ✅ (Lima, India, Bravo)
+TA1LIC ✅ (Lima, India, Charlie)
+TA1LID ✅ (Lima, India, Delta)
+TA1LIE ❌
+TA1LIF ✅ (Lima, India, Foxtrot)
+TA1LIG ✅ (Lima, India, Golf)
+TA1LIA ❌
+TA1LII ✅ (Lima, India, India)
+TA1LIH ✅ (Lima, India, Hotel)
+TA1LIK ✅ (Lima, India, Kilo)
+TA1LIL ✅ (Lima, India, Lima)
+TA1LIM ✅ (Lima, India, Mike)
+TA1LIN ✅ (Lima, India, November)
+TA1LIO ✅ (Lima, India, Oscar)
+TA1LIP ✅ (Lima, India, Papa)
+TA1LIQ ✅ (Lima, India, Quebec)
+TA1LIR ✅ (Lima, India, Romeo)
+TA1LIS ❌
+TA1LIT ❌
+TA1LIU ✅ (Lima, India, Uniform)
+TA1LIV ✅ (Lima, India, Victor)
+TA1LIW ✅ (Lima, India, Whiskey)
+TA1LIX ❌
+TA1LIY ✅ (Lima, India, Yankee)
+TA1LIZ ✅ (Lima, India, Zulu)
+TA1LJA ✅ (Lima, Juliett, Alfa)
+TA1LJB ❌
+TA1LJC ✅ (Lima, Juliett, Charlie)
+TA1LJD ✅ (Lima, Juliett, Delta)
+TA1LJE ✅ (Lima, Juliett, Echo)
+TA1LJF ✅ (Lima, Juliett, Foxtrot)
+TA1LIJ ❌
+TA1LJG ✅ (Lima, Juliett, Golf)
+TA1LJH ✅ (Lima, Juliett, Hotel)
+TA1LJI ✅ (Lima, Juliett, India)
+TA1LJJ ✅ (Lima, Juliett, Juliett)
+TA1LJK ✅ (Lima, Juliett, Kilo)
+TA1LJL ✅ (Lima, Juliett, Lima)
+TA1LJM ✅ (Lima, Juliett, Mike)
+TA1LJN ✅ (Lima, Juliett, November)
+TA1LJO ✅ (Lima, Juliett, Oscar)
+TA1LJP ✅ (Lima, Juliett, Papa)
+TA1LJQ ✅ (Lima, Juliett, Quebec)
+TA1LJR ❌
+TA1LJS ✅ (Lima, Juliett, Sierra)
+TA1LJT ✅ (Lima, Juliett, Tango)
+TA1LJU ✅ (Lima, Juliett, Uniform)
+TA1LJV ✅ (Lima, Juliett, Victor)
+TA1LJW ✅ (Lima, Juliett, Whiskey)
+TA1LJX ✅ (Lima, Juliett, X-ray)
+TA1LJY ✅ (Lima, Juliett, Yankee)
+TA1LJZ ✅ (Lima, Juliett, Zulu)
+TA1LKA ❌
+TA1LKB ❌
+TA1LKC ✅ (Lima, Kilo, Charlie)
+TA1LKD ❌
+TA1LKE ❌
+TA1LKF ✅ (Lima, Kilo, Foxtrot)
+TA1LKG ❌
+TA1LKH ❌
+TA1LKI ❌
+TA1LKJ ❌
+TA1LKK ❌
+TA1LKL ❌
+TA1LKM ✅ (Lima, Kilo, Mike)
+TA1LKN ❌
+TA1LKO ❌
+TA1LKP ❌
+TA1LKQ ✅ (Lima, Kilo, Quebec)
+TA1LKR ✅ (Lima, Kilo, Romeo)
+TA1LKS ❌
+TA1LKT ❌
+TA1LKU ✅ (Lima, Kilo, Uniform)
+TA1LKV ❌
+TA1LKW ✅ (Lima, Kilo, Whiskey)
+TA1LKX ❌
+TA1LKY ❌
+TA1LKZ ✅ (Lima, Kilo, Zulu)
+TA1LLA ❌
+TA1LLB ✅ (Lima, Lima, Bravo)
+TA1LLC ✅ (Lima, Lima, Charlie)
+TA1LLD ✅ (Lima, Lima, Delta)
+TA1LLE ❌
+TA1LLF ✅ (Lima, Lima, Foxtrot)
+TA1LLG ✅ (Lima, Lima, Golf)
+TA1LLH ✅ (Lima, Lima, Hotel)
+TA1LLI ✅ (Lima, Lima, India)
+TA1LLJ ✅ (Lima, Lima, Juliett)
+TA1LLK ✅ (Lima, Lima, Kilo)
+TA1LLL ❌
+TA1LLM ✅ (Lima, Lima, Mike)
+TA1LLN ❌
+TA1LLO ✅ (Lima, Lima, Oscar)
+TA1LLP ✅ (Lima, Lima, Papa)
+TA1LLQ ✅ (Lima, Lima, Quebec)
+TA1LLR ✅ (Lima, Lima, Romeo)
+TA1LLS ✅ (Lima, Lima, Sierra)
+TA1LLT ❌
+TA1LLU ✅ (Lima, Lima, Uniform)
+TA1LLV ✅ (Lima, Lima, Victor)
+TA1LLW ✅ (Lima, Lima, Whiskey)
+TA1LLX ❌
+TA1LLY ✅ (Lima, Lima, Yankee)
+TA1LLZ ✅ (Lima, Lima, Zulu)
+TA1LMA ✅ (Lima, Mike, Alfa)
+TA1LMB ✅ (Lima, Mike, Bravo)
+TA1LMC ❌
+TA1LMD ❌
+TA1LME ❌
+TA1LMF ✅ (Lima, Mike, Foxtrot)
+TA1LMG ✅ (Lima, Mike, Golf)
+TA1LMH ✅ (Lima, Mike, Hotel)
+TA1LMI ✅ (Lima, Mike, India)
+TA1LMJ ✅ (Lima, Mike, Juliett)
+TA1LMK ❌
+TA1LML ✅ (Lima, Mike, Lima)
+TA1LMM ✅ (Lima, Mike, Mike)
+TA1LMN ✅ (Lima, Mike, November)
+TA1LMO ❌
+TA1LMP ✅ (Lima, Mike, Papa)
+TA1LMQ ✅ (Lima, Mike, Quebec)
+TA1LMR ✅ (Lima, Mike, Romeo)
+TA1LMS ❌
+TA1LMT ❌
+TA1LMU ✅ (Lima, Mike, Uniform)
+TA1LMV ✅ (Lima, Mike, Victor)
+TA1LMW ✅ (Lima, Mike, Whiskey)
+TA1LMX ✅ (Lima, Mike, X-ray)
+TA1LMY ❌
+TA1LMZ ✅ (Lima, Mike, Zulu)
+TA1LNA ❌
+TA1LNB ✅ (Lima, November, Bravo)
+TA1LNC ✅ (Lima, November, Charlie)
+TA1LND ✅ (Lima, November, Delta)
+TA1LNE ✅ (Lima, November, Echo)
+TA1LNF ✅ (Lima, November, Foxtrot)
+TA1LNG ❌
+TA1LNI ✅ (Lima, November, India)
+TA1LNJ ✅ (Lima, November, Juliett)
+TA1LNK ✅ (Lima, November, Kilo)
+TA1LNL ✅ (Lima, November, Lima)
+TA1LNM ✅ (Lima, November, Mike)
+TA1LNN ✅ (Lima, November, November)
+TA1LNO ✅ (Lima, November, Oscar)
+TA1LNP ✅ (Lima, November, Papa)
+TA1LNQ ✅ (Lima, November, Quebec)
+TA1LNR ✅ (Lima, November, Romeo)
+TA1LNS ❌
+TA1LNT ❌
+TA1LNU ✅ (Lima, November, Uniform)
+TA1LNV ✅ (Lima, November, Victor)
+TA1LNW ✅ (Lima, November, Whiskey)
+TA1LNX ✅ (Lima, November, X-ray)
+TA1LNY ✅ (Lima, November, Yankee)
+TA1LNZ ✅ (Lima, November, Zulu)
+TA1LOA ❌
+TA1LOB ✅ (Lima, Oscar, Bravo)
+TA1LOC ✅ (Lima, Oscar, Charlie)
+TA1LOD ✅ (Lima, Oscar, Delta)
+TA1LOE ❌
+TA1LOF ✅ (Lima, Oscar, Foxtrot)
+TA1LOG ❌
+TA1LOH ✅ (Lima, Oscar, Hotel)
+TA1LNH ✅ (Lima, November, Hotel)
+TA1LOI ✅ (Lima, Oscar, India)
+TA1LOJ ✅ (Lima, Oscar, Juliett)
+TA1LOK ✅ (Lima, Oscar, Kilo)
+TA1LOL ❌
+TA1LOM ✅ (Lima, Oscar, Mike)
+TA1LON ✅ (Lima, Oscar, November)
+TA1LOO ❌
+TA1LOP ✅ (Lima, Oscar, Papa)
+TA1LOQ ✅ (Lima, Oscar, Quebec)
+TA1LOR ✅ (Lima, Oscar, Romeo)
+TA1LOS ❌
+TA1LOT ✅ (Lima, Oscar, Tango)
+TA1LOU ✅ (Lima, Oscar, Uniform)
+TA1LOV ✅ (Lima, Oscar, Victor)
+TA1LOW ✅ (Lima, Oscar, Whiskey)
+TA1LOX ✅ (Lima, Oscar, X-ray)
+TA1LOY ✅ (Lima, Oscar, Yankee)
+TA1LOZ ✅ (Lima, Oscar, Zulu)
+TA1LPA ✅ (Lima, Papa, Alfa)
+TA1LPB ❌
+TA1LPC ✅ (Lima, Papa, Charlie)
+TA1LPD ✅ (Lima, Papa, Delta)
+TA1LPE ✅ (Lima, Papa, Echo)
+TA1LPF ✅ (Lima, Papa, Foxtrot)
+TA1LPG ✅ (Lima, Papa, Golf)
+TA1LPH ✅ (Lima, Papa, Hotel)
+TA1LPI ✅ (Lima, Papa, India)
+TA1LPJ ✅ (Lima, Papa, Juliett)
+TA1LPK ✅ (Lima, Papa, Kilo)
+TA1LPL ✅ (Lima, Papa, Lima)
+TA1LPM ✅ (Lima, Papa, Mike)
+TA1LPN ✅ (Lima, Papa, November)
+TA1LPO ✅ (Lima, Papa, Oscar)
+TA1LPP ✅ (Lima, Papa, Papa)
+TA1LPQ ✅ (Lima, Papa, Quebec)
+TA1LPR ✅ (Lima, Papa, Romeo)
+TA1LPS ✅ (Lima, Papa, Sierra)
+TA1LPT ✅ (Lima, Papa, Tango)
+TA1LPU ✅ (Lima, Papa, Uniform)
+TA1LPV ✅ (Lima, Papa, Victor)
+TA1LPW ✅ (Lima, Papa, Whiskey)
+TA1LPX ✅ (Lima, Papa, X-ray)
+TA1LPY ✅ (Lima, Papa, Yankee)
+TA1LPZ ✅ (Lima, Papa, Zulu)
+TA1LQA ✅ (Lima, Quebec, Alfa)
+TA1LQB ✅ (Lima, Quebec, Bravo)
+TA1LQC ✅ (Lima, Quebec, Charlie)
+TA1LQD ✅ (Lima, Quebec, Delta)
+TA1LQE ✅ (Lima, Quebec, Echo)
+TA1LQF ✅ (Lima, Quebec, Foxtrot)
+TA1LQG ✅ (Lima, Quebec, Golf)
+TA1LQH ✅ (Lima, Quebec, Hotel)
+TA1LQI ✅ (Lima, Quebec, India)
+TA1LQJ ✅ (Lima, Quebec, Juliett)
+TA1LQK ✅ (Lima, Quebec, Kilo)
+TA1LQL ✅ (Lima, Quebec, Lima)
+TA1LQM ✅ (Lima, Quebec, Mike)
+TA1LQN ✅ (Lima, Quebec, November)
+TA1LQO ✅ (Lima, Quebec, Oscar)
+TA1LQP ✅ (Lima, Quebec, Papa)
+TA1LQQ ✅ (Lima, Quebec, Quebec)
+TA1LQR ✅ (Lima, Quebec, Romeo)
+TA1LQS ✅ (Lima, Quebec, Sierra)
+TA1LQT ✅ (Lima, Quebec, Tango)
+TA1LQU ✅ (Lima, Quebec, Uniform)
+TA1LQV ✅ (Lima, Quebec, Victor)
+TA1LQW ✅ (Lima, Quebec, Whiskey)
+TA1LQX ✅ (Lima, Quebec, X-ray)
+TA1LQY ✅ (Lima, Quebec, Yankee)
+TA1LQZ ✅ (Lima, Quebec, Zulu)
+TA1LRA ✅ (Lima, Romeo, Alfa)
+TA1LRB ❌
+TA1LRC ✅ (Lima, Romeo, Charlie)
+TA1LRD ✅ (Lima, Romeo, Delta)
+TA1LRE ✅ (Lima, Romeo, Echo)
+TA1LRF ✅ (Lima, Romeo, Foxtrot)
+TA1LRG ✅ (Lima, Romeo, Golf)
+TA1LRH ✅ (Lima, Romeo, Hotel)
+TA1LRI ✅ (Lima, Romeo, India)
+TA1LRJ ❌
+TA1LRK ❌
+TA1LRL ✅ (Lima, Romeo, Lima)
+TA1LRM ✅ (Lima, Romeo, Mike)
+TA1LRN ✅ (Lima, Romeo, November)
+TA1LRO ✅ (Lima, Romeo, Oscar)
+TA1LRP ✅ (Lima, Romeo, Papa)
+TA1LRQ ✅ (Lima, Romeo, Quebec)
+TA1LRR ✅ (Lima, Romeo, Romeo)
+TA1LRS ❌
+TA1LRT ✅ (Lima, Romeo, Tango)
+TA1LRU ✅ (Lima, Romeo, Uniform)
+TA1LRV ✅ (Lima, Romeo, Victor)
+TA1LRW ✅ (Lima, Romeo, Whiskey)
+TA1LRX ❌
+TA1LRY ❌
+TA1LRZ ✅ (Lima, Romeo, Zulu)
+TA1LSA ❌
+TA1LSB ❌
+TA1LSC ❌
+TA1LSD ❌
+TA1LSE ❌
+TA1LSF ✅ (Lima, Sierra, Foxtrot)
+TA1LSG ❌
+TA1LSH ❌
+TA1LSI ❌
+TA1LSJ ❌
+TA1LSK ❌
+TA1LSL ❌
+TA1LSM ❌
+TA1LSN ❌
+TA1LSO ❌
+TA1LSP ❌
+TA1LSQ ✅ (Lima, Sierra, Quebec)
+TA1LSR ✅ (Lima, Sierra, Romeo)
+TA1LSS ❌
+TA1LST ❌
+TA1LSU ❌
+TA1LSV ❌
+TA1LSW ✅ (Lima, Sierra, Whiskey)
+TA1LSX ❌
+TA1LSY ❌
+TA1LSZ ❌
+TA1LTA ❌
+TA1LTB ❌
+TA1LTC ❌
+TA1LTD ✅ (Lima, Tango, Delta)
+TA1LTE ❌
+TA1LTF ✅ (Lima, Tango, Foxtrot)
+TA1LTG ❌
+TA1LTH ❌
+TA1LTI ✅ (Lima, Tango, India)
+TA1LTJ ✅ (Lima, Tango, Juliett)
+TA1LTK ❌
+TA1LTL ✅ (Lima, Tango, Lima)
+TA1LTM ✅ (Lima, Tango, Mike)
+TA1LTN ✅ (Lima, Tango, November)
+TA1LTO ✅ (Lima, Tango, Oscar)
+TA1LTP ✅ (Lima, Tango, Papa)
+TA1LTQ ✅ (Lima, Tango, Quebec)
+TA1LTR ❌
+TA1LTS ❌
+TA1LTT ❌
+TA1LTU ❌
+TA1LTV ❌
+TA1LTW ✅ (Lima, Tango, Whiskey)
+TA1LTX ❌
+TA1LTY ❌
+TA1LTZ ✅ (Lima, Tango, Zulu)
+TA1LUA ✅ (Lima, Uniform, Alfa)
+TA1LUB ✅ (Lima, Uniform, Bravo)
+TA1LUC ✅ (Lima, Uniform, Charlie)
+TA1LUD ✅ (Lima, Uniform, Delta)
+TA1LUE ✅ (Lima, Uniform, Echo)
+TA1LUF ✅ (Lima, Uniform, Foxtrot)
+TA1LUG ✅ (Lima, Uniform, Golf)
+TA1LUH ✅ (Lima, Uniform, Hotel)
+TA1LUI ❌
+TA1LUJ ✅ (Lima, Uniform, Juliett)
+TA1LUK ✅ (Lima, Uniform, Kilo)
+TA1LUL ✅ (Lima, Uniform, Lima)
+TA1LUM ✅ (Lima, Uniform, Mike)
+TA1LUN ✅ (Lima, Uniform, November)
+TA1LUO ✅ (Lima, Uniform, Oscar)
+TA1LUP ✅ (Lima, Uniform, Papa)
+TA1LUQ ✅ (Lima, Uniform, Quebec)
+TA1LUR ✅ (Lima, Uniform, Romeo)
+TA1LUS ❌
+TA1LUT ✅ (Lima, Uniform, Tango)
+TA1LUU ✅ (Lima, Uniform, Uniform)
+TA1LUV ✅ (Lima, Uniform, Victor)
+TA1LUW ✅ (Lima, Uniform, Whiskey)
+TA1LUX ✅ (Lima, Uniform, X-ray)
+TA1LUY ✅ (Lima, Uniform, Yankee)
+TA1LUZ ✅ (Lima, Uniform, Zulu)
+TA1LVA ❌
+TA1LVB ✅ (Lima, Victor, Bravo)
+TA1LVC ✅ (Lima, Victor, Charlie)
+TA1LVD ✅ (Lima, Victor, Delta)
+TA1LVE ❌
+TA1LVF ✅ (Lima, Victor, Foxtrot)
+TA1LVG ✅ (Lima, Victor, Golf)
+TA1LVH ✅ (Lima, Victor, Hotel)
+TA1LVI ✅ (Lima, Victor, India)
+TA1LVJ ✅ (Lima, Victor, Juliett)
+TA1LVK ✅ (Lima, Victor, Kilo)
+TA1LVL ✅ (Lima, Victor, Lima)
+TA1LVM ✅ (Lima, Victor, Mike)
+TA1LVN ❌
+TA1LVO ✅ (Lima, Victor, Oscar)
+TA1LVP ✅ (Lima, Victor, Papa)
+TA1LVQ ✅ (Lima, Victor, Quebec)
+TA1LVR ✅ (Lima, Victor, Romeo)
+TA1LVS ❌
+TA1LVT ❌
+TA1LVU ❌
+TA1LVV ✅ (Lima, Victor, Victor)
+TA1LVW ✅ (Lima, Victor, Whiskey)
+TA1LVX ❌
+TA1LVY ✅ (Lima, Victor, Yankee)
+TA1LVZ ❌
+TA1LWA ✅ (Lima, Whiskey, Alfa)
+TA1LWB ✅ (Lima, Whiskey, Bravo)
+TA1LWC ✅ (Lima, Whiskey, Charlie)
+TA1LWD ✅ (Lima, Whiskey, Delta)
+TA1LWE ✅ (Lima, Whiskey, Echo)
+TA1LWF ✅ (Lima, Whiskey, Foxtrot)
+TA1LWG ✅ (Lima, Whiskey, Golf)
+TA1LWH ✅ (Lima, Whiskey, Hotel)
+TA1LWI ✅ (Lima, Whiskey, India)
+TA1LWJ ✅ (Lima, Whiskey, Juliett)
+TA1LWK ✅ (Lima, Whiskey, Kilo)
+TA1LWL ✅ (Lima, Whiskey, Lima)
+TA1LWM ✅ (Lima, Whiskey, Mike)
+TA1LWN ✅ (Lima, Whiskey, November)
+TA1LWO ✅ (Lima, Whiskey, Oscar)
+TA1LWP ✅ (Lima, Whiskey, Papa)
+TA1LWQ ✅ (Lima, Whiskey, Quebec)
+TA1LWR ✅ (Lima, Whiskey, Romeo)
+TA1LWS ❌
+TA1LWT ❌
+TA1LWU ✅ (Lima, Whiskey, Uniform)
+TA1LWV ✅ (Lima, Whiskey, Victor)
+TA1LWX ✅ (Lima, Whiskey, X-ray)
+TA1LWW ✅ (Lima, Whiskey, Whiskey)
+TA1LWY ✅ (Lima, Whiskey, Yankee)
+TA1LWZ ✅ (Lima, Whiskey, Zulu)
+TA1LXA ✅ (Lima, X-ray, Alfa)
+TA1LXB ✅ (Lima, X-ray, Bravo)
+TA1LXC ✅ (Lima, X-ray, Charlie)
+TA1LXD ✅ (Lima, X-ray, Delta)
+TA1LXE ✅ (Lima, X-ray, Echo)
+TA1LXF ✅ (Lima, X-ray, Foxtrot)
+TA1LXG ✅ (Lima, X-ray, Golf)
+TA1LXH ✅ (Lima, X-ray, Hotel)
+TA1LXI ✅ (Lima, X-ray, India)
+TA1LXJ ✅ (Lima, X-ray, Juliett)
+TA1LXK ✅ (Lima, X-ray, Kilo)
+TA1LXL ✅ (Lima, X-ray, Lima)
+TA1LXM ✅ (Lima, X-ray, Mike)
+TA1LXN ❌
+TA1LXO ✅ (Lima, X-ray, Oscar)
+TA1LXP ✅ (Lima, X-ray, Papa)
+TA1LXQ ✅ (Lima, X-ray, Quebec)
+TA1LXR ✅ (Lima, X-ray, Romeo)
+TA1LXS ❌
+TA1LXT ✅ (Lima, X-ray, Tango)
+TA1LXU ✅ (Lima, X-ray, Uniform)
+TA1LXV ✅ (Lima, X-ray, Victor)
+TA1LXW ✅ (Lima, X-ray, Whiskey)
+TA1LXX ✅ (Lima, X-ray, X-ray)
+TA1LXY ✅ (Lima, X-ray, Yankee)
+TA1LXZ ✅ (Lima, X-ray, Zulu)
+TA1LYA ❌
+TA1LYB ❌
+TA1LYC ❌
+TA1LYD ✅ (Lima, Yankee, Delta)
+TA1LYE ❌
+TA1LYF ✅ (Lima, Yankee, Foxtrot)
+TA1LYG ✅ (Lima, Yankee, Golf)
+TA1LYH ✅ (Lima, Yankee, Hotel)
+TA1LYI ✅ (Lima, Yankee, India)
+TA1LYJ ✅ (Lima, Yankee, Juliett)
+TA1LYK ❌
+TA1LYL ❌
+TA1LYM ✅ (Lima, Yankee, Mike)
+TA1LYN ✅ (Lima, Yankee, November)
+TA1LYO ❌
+TA1LYP ✅ (Lima, Yankee, Papa)
+TA1LYQ ✅ (Lima, Yankee, Quebec)
+TA1LYR ✅ (Lima, Yankee, Romeo)
+TA1LYS ❌
+TA1LYT ❌
+TA1LYV ✅ (Lima, Yankee, Victor)
+TA1LYW ✅ (Lima, Yankee, Whiskey)
+TA1LYX ✅ (Lima, Yankee, X-ray)
+TA1LYY ❌
+TA1LYZ ✅ (Lima, Yankee, Zulu)
+TA1LZA ✅ (Lima, Zulu, Alfa)
+TA1LZB ✅ (Lima, Zulu, Bravo)
+TA1LZC ✅ (Lima, Zulu, Charlie)
+TA1LZD ❌
+TA1LZE ❌
+TA1LZF ✅ (Lima, Zulu, Foxtrot)
+TA1LZG ✅ (Lima, Zulu, Golf)
+TA1LZH ❌
+TA1LZI ✅ (Lima, Zulu, India)
+TA1LZJ ✅ (Lima, Zulu, Juliett)
+TA1LZK ❌
+TA1LZL ✅ (Lima, Zulu, Lima)
+TA1LZM ✅ (Lima, Zulu, Mike)
+TA1LZN ✅ (Lima, Zulu, November)
+TA1LZO ✅ (Lima, Zulu, Oscar)
+TA1LZP ✅ (Lima, Zulu, Papa)
+TA1LZQ ✅ (Lima, Zulu, Quebec)
+TA1LZR ✅ (Lima, Zulu, Romeo)
+TA1LYU ❌
+TA1LZS ❌
+TA1LZT ❌
+TA1LZU ✅ (Lima, Zulu, Uniform)
+TA1LZV ✅ (Lima, Zulu, Victor)
+TA1LZW ✅ (Lima, Zulu, Whiskey)
+TA1LZX ✅ (Lima, Zulu, X-ray)
+TA1LZY ✅ (Lima, Zulu, Yankee)
+TA1LZZ ✅ (Lima, Zulu, Zulu)
