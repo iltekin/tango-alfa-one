@@ -8109,3 +8109,679 @@ TA1LZW ✅ (Lima, Zulu, Whiskey)
 TA1LZX ✅ (Lima, Zulu, X-ray)
 TA1LZY ✅ (Lima, Zulu, Yankee)
 TA1LZZ ✅ (Lima, Zulu, Zulu)
+TA1MAA ❌
+TA1MAB ❌
+TA1MAC ❌
+TA1MAD ❌
+TA1MAE ❌
+TA1MAF ❌
+TA1MAG ❌
+TA1MAH ❌
+TA1MAI ❌
+TA1MAJ ✅ (Mike, Alfa, Juliett)
+TA1MAK ❌
+TA1MAL ✅ (Mike, Alfa, Lima)
+TA1MAM ❌
+TA1MAN ❌
+TA1MAO ❌
+TA1MAP ✅ (Mike, Alfa, Papa)
+TA1MAQ ❌
+TA1MAR ❌
+TA1MAS ❌
+TA1MAT ❌
+TA1MAU ❌
+TA1MAV ✅ (Mike, Alfa, Victor)
+TA1MAW ✅ (Mike, Alfa, Whiskey)
+TA1MAX ❌
+TA1MAY ❌
+TA1MAZ ❌
+TA1MBA ❌
+TA1MBB ❌
+TA1MBC ❌
+TA1MBD ❌
+TA1MBE ❌
+TA1MBF ❌
+TA1MBG ❌
+TA1MBH ❌
+TA1MBI ✅ (Mike, Bravo, India)
+TA1MBJ ✅ (Mike, Bravo, Juliett)
+TA1MBK ✅ (Mike, Bravo, Kilo)
+TA1MBL ❌
+TA1MBM ❌
+TA1MBN ✅ (Mike, Bravo, November)
+TA1MBO ❌
+TA1MBP ✅ (Mike, Bravo, Papa)
+TA1MBQ ✅ (Mike, Bravo, Quebec)
+TA1MBR ❌
+TA1MBS ❌
+TA1MBT ❌
+TA1MBU ✅ (Mike, Bravo, Uniform)
+TA1MBV ✅ (Mike, Bravo, Victor)
+TA1MBW ✅ (Mike, Bravo, Whiskey)
+TA1MBX ✅ (Mike, Bravo, X-ray)
+TA1MBY ✅ (Mike, Bravo, Yankee)
+TA1MBZ ✅ (Mike, Bravo, Zulu)
+TA1MCA ❌
+TA1MCB ✅ (Mike, Charlie, Bravo)
+TA1MCC ❌
+TA1MCD ❌
+TA1MCE ❌
+TA1MCF ✅ (Mike, Charlie, Foxtrot)
+TA1MCG ✅ (Mike, Charlie, Golf)
+TA1MCH ❌
+TA1MCI ❌
+TA1MCJ ✅ (Mike, Charlie, Juliett)
+TA1MCK ❌
+TA1MCL ✅ (Mike, Charlie, Lima)
+TA1MCM ❌
+TA1MCN ❌
+TA1MCO ❌
+TA1MCP ✅ (Mike, Charlie, Papa)
+TA1MCQ ✅ (Mike, Charlie, Quebec)
+TA1MCR ❌
+TA1MCS ❌
+TA1MCT ❌
+TA1MCU ❌
+TA1MCV ❌
+TA1MCW ✅ (Mike, Charlie, Whiskey)
+TA1MCX ❌
+TA1MCY ❌
+TA1MCZ ❌
+TA1MDA ❌
+TA1MDB ✅ (Mike, Delta, Bravo)
+TA1MDC ❌
+TA1MDD ❌
+TA1MDE ❌
+TA1MDF ✅ (Mike, Delta, Foxtrot)
+TA1MDG ✅ (Mike, Delta, Golf)
+TA1MDH ✅ (Mike, Delta, Hotel)
+TA1MDI ✅ (Mike, Delta, India)
+TA1MDJ ✅ (Mike, Delta, Juliett)
+TA1MDK ❌
+TA1MDL ✅ (Mike, Delta, Lima)
+TA1MDM ❌
+TA1MDN ✅ (Mike, Delta, November)
+TA1MDO ✅ (Mike, Delta, Oscar)
+TA1MDP ✅ (Mike, Delta, Papa)
+TA1MDQ ✅ (Mike, Delta, Quebec)
+TA1MDR ✅ (Mike, Delta, Romeo)
+TA1MDS ✅ (Mike, Delta, Sierra)
+TA1MDT ✅ (Mike, Delta, Tango)
+TA1MDU ✅ (Mike, Delta, Uniform)
+TA1MDV ✅ (Mike, Delta, Victor)
+TA1MDW ✅ (Mike, Delta, Whiskey)
+TA1MDX ✅ (Mike, Delta, X-ray)
+TA1MDY ❌
+TA1MDZ ✅ (Mike, Delta, Zulu)
+TA1MEA ❌
+TA1MEB ❌
+TA1MEC ❌
+TA1MED ❌
+TA1MEE ❌
+TA1MEF ✅ (Mike, Echo, Foxtrot)
+TA1MEG ❌
+TA1MEH ❌
+TA1MEI ❌
+TA1MEJ ❌
+TA1MEK ❌
+TA1MEL ❌
+TA1MEM ❌
+TA1MEN ❌
+TA1MEO ❌
+TA1MEP ✅ (Mike, Echo, Papa)
+TA1MEQ ✅ (Mike, Echo, Quebec)
+TA1MER ❌
+TA1MES ❌
+TA1MET ❌
+TA1MEU ✅ (Mike, Echo, Uniform)
+TA1MEV ✅ (Mike, Echo, Victor)
+TA1MEW ✅ (Mike, Echo, Whiskey)
+TA1MEX ✅ (Mike, Echo, X-ray)
+TA1MEY ❌
+TA1MEZ ❌
+TA1MFA ❌
+TA1MFB ❌
+TA1MFC ❌
+TA1MFD ✅ (Mike, Foxtrot, Delta)
+TA1MFE ✅ (Mike, Foxtrot, Echo)
+TA1MFF ✅ (Mike, Foxtrot, Foxtrot)
+TA1MFG ❌
+TA1MFH ✅ (Mike, Foxtrot, Hotel)
+TA1MFI ❌
+TA1MFJ ✅ (Mike, Foxtrot, Juliett)
+TA1MFK ❌
+TA1MFL ✅ (Mike, Foxtrot, Lima)
+TA1MFM ❌
+TA1MFN ✅ (Mike, Foxtrot, November)
+TA1MFO ❌
+TA1MFP ✅ (Mike, Foxtrot, Papa)
+TA1MFQ ✅ (Mike, Foxtrot, Quebec)
+TA1MFR ❌
+TA1MFS ❌
+TA1MFT ❌
+TA1MFU ✅ (Mike, Foxtrot, Uniform)
+TA1MFV ✅ (Mike, Foxtrot, Victor)
+TA1MFW ✅ (Mike, Foxtrot, Whiskey)
+TA1MFX ✅ (Mike, Foxtrot, X-ray)
+TA1MFY ❌
+TA1MFZ ✅ (Mike, Foxtrot, Zulu)
+TA1MGA ❌
+TA1MGB ✅ (Mike, Golf, Bravo)
+TA1MGC ✅ (Mike, Golf, Charlie)
+TA1MGD ✅ (Mike, Golf, Delta)
+TA1MGE ❌
+TA1MGF ✅ (Mike, Golf, Foxtrot)
+TA1MGG ✅ (Mike, Golf, Golf)
+TA1MGH ❌
+TA1MGI ✅ (Mike, Golf, India)
+TA1MGJ ✅ (Mike, Golf, Juliett)
+TA1MGK ❌
+TA1MGL ✅ (Mike, Golf, Lima)
+TA1MGM ❌
+TA1MGN ❌
+TA1MGO ❌
+TA1MGP ✅ (Mike, Golf, Papa)
+TA1MGQ ✅ (Mike, Golf, Quebec)
+TA1MGR ✅ (Mike, Golf, Romeo)
+TA1MGS ✅ (Mike, Golf, Sierra)
+TA1MGT ✅ (Mike, Golf, Tango)
+TA1MGU ✅ (Mike, Golf, Uniform)
+TA1MGV ❌
+TA1MGW ✅ (Mike, Golf, Whiskey)
+TA1MGX ❌
+TA1MGY ❌
+TA1MGZ ✅ (Mike, Golf, Zulu)
+TA1MHA ❌
+TA1MHB ❌
+TA1MHC ❌
+TA1MHD ❌
+TA1MHE ❌
+TA1MHF ✅ (Mike, Hotel, Foxtrot)
+TA1MHG ❌
+TA1MHH ❌
+TA1MHI ✅ (Mike, Hotel, India)
+TA1MHJ ✅ (Mike, Hotel, Juliett)
+TA1MHK ❌
+TA1MHL ❌
+TA1MHM ❌
+TA1MHN ❌
+TA1MHO ❌
+TA1MHP ❌
+TA1MHQ ✅ (Mike, Hotel, Quebec)
+TA1MHR ❌
+TA1MHS ❌
+TA1MHT ❌
+TA1MHU ❌
+TA1MHV ✅ (Mike, Hotel, Victor)
+TA1MHW ✅ (Mike, Hotel, Whiskey)
+TA1MHX ❌
+TA1MHY ❌
+TA1MHZ ✅ (Mike, Hotel, Zulu)
+TA1MIA ❌
+TA1MIB ✅ (Mike, India, Bravo)
+TA1MIC ❌
+TA1MID ✅ (Mike, India, Delta)
+TA1MIE ❌
+TA1MIF ✅ (Mike, India, Foxtrot)
+TA1MIG ❌
+TA1MIH ✅ (Mike, India, Hotel)
+TA1MII ✅ (Mike, India, India)
+TA1MIJ ✅ (Mike, India, Juliett)
+TA1MIK ✅ (Mike, India, Kilo)
+TA1MIL ✅ (Mike, India, Lima)
+TA1MIM ✅ (Mike, India, Mike)
+TA1MIN ✅ (Mike, India, November)
+TA1MIO ❌
+TA1MIP ✅ (Mike, India, Papa)
+TA1MIQ ✅ (Mike, India, Quebec)
+TA1MIR ✅ (Mike, India, Romeo)
+TA1MIS ✅ (Mike, India, Sierra)
+TA1MIT ❌
+TA1MIU ✅ (Mike, India, Uniform)
+TA1MIV ✅ (Mike, India, Victor)
+TA1MIW ✅ (Mike, India, Whiskey)
+TA1MIX ✅ (Mike, India, X-ray)
+TA1MIY ✅ (Mike, India, Yankee)
+TA1MIZ ❌
+TA1MJA ✅ (Mike, Juliett, Alfa)
+TA1MJB ✅ (Mike, Juliett, Bravo)
+TA1MJC ✅ (Mike, Juliett, Charlie)
+TA1MJD ✅ (Mike, Juliett, Delta)
+TA1MJE ✅ (Mike, Juliett, Echo)
+TA1MJF ✅ (Mike, Juliett, Foxtrot)
+TA1MJG ❌
+TA1MJH ✅ (Mike, Juliett, Hotel)
+TA1MJI ✅ (Mike, Juliett, India)
+TA1MJJ ✅ (Mike, Juliett, Juliett)
+TA1MJK ❌
+TA1MJL ✅ (Mike, Juliett, Lima)
+TA1MJM ✅ (Mike, Juliett, Mike)
+TA1MJN ✅ (Mike, Juliett, November)
+TA1MJO ✅ (Mike, Juliett, Oscar)
+TA1MJQ ✅ (Mike, Juliett, Quebec)
+TA1MJP ✅ (Mike, Juliett, Papa)
+TA1MJS ✅ (Mike, Juliett, Sierra)
+TA1MJT ✅ (Mike, Juliett, Tango)
+TA1MJU ✅ (Mike, Juliett, Uniform)
+TA1MJV ✅ (Mike, Juliett, Victor)
+TA1MJW ✅ (Mike, Juliett, Whiskey)
+TA1MJX ✅ (Mike, Juliett, X-ray)
+TA1MJY ✅ (Mike, Juliett, Yankee)
+TA1MJZ ✅ (Mike, Juliett, Zulu)
+TA1MKA ❌
+TA1MKB ❌
+TA1MKC ❌
+TA1MKD ❌
+TA1MKE ❌
+TA1MKF ❌
+TA1MKG ❌
+TA1MKH ❌
+TA1MKI ❌
+TA1MKJ ❌
+TA1MJR ✅ (Mike, Juliett, Romeo)
+TA1MKK ❌
+TA1MKL ❌
+TA1MKM ❌
+TA1MKN ✅ (Mike, Kilo, November)
+TA1MKO ❌
+TA1MKP ✅ (Mike, Kilo, Papa)
+TA1MKQ ✅ (Mike, Kilo, Quebec)
+TA1MKR ✅ (Mike, Kilo, Romeo)
+TA1MKS ❌
+TA1MKT ❌
+TA1MKU ❌
+TA1MKV ✅ (Mike, Kilo, Victor)
+TA1MKW ❌
+TA1MKX ❌
+TA1MKY ❌
+TA1MKZ ✅ (Mike, Kilo, Zulu)
+TA1MLA ✅ (Mike, Lima, Alfa)
+TA1MLB ✅ (Mike, Lima, Bravo)
+TA1MLC ❌
+TA1MLD ✅ (Mike, Lima, Delta)
+TA1MLE ✅ (Mike, Lima, Echo)
+TA1MLF ✅ (Mike, Lima, Foxtrot)
+TA1MLG ✅ (Mike, Lima, Golf)
+TA1MLH ❌
+TA1MLI ✅ (Mike, Lima, India)
+TA1MLJ ✅ (Mike, Lima, Juliett)
+TA1MLK ❌
+TA1MLL ✅ (Mike, Lima, Lima)
+TA1MLM ❌
+TA1MLN ✅ (Mike, Lima, November)
+TA1MLO ✅ (Mike, Lima, Oscar)
+TA1MLP ❌
+TA1MLQ ✅ (Mike, Lima, Quebec)
+TA1MLR ✅ (Mike, Lima, Romeo)
+TA1MLS ❌
+TA1MLT ❌
+TA1MLU ✅ (Mike, Lima, Uniform)
+TA1MLV ✅ (Mike, Lima, Victor)
+TA1MLW ✅ (Mike, Lima, Whiskey)
+TA1MLX ✅ (Mike, Lima, X-ray)
+TA1MLY ✅ (Mike, Lima, Yankee)
+TA1MLZ ✅ (Mike, Lima, Zulu)
+TA1MMA ❌
+TA1MMB ❌
+TA1MMC ❌
+TA1MMD ❌
+TA1MME ❌
+TA1MMF ✅ (Mike, Mike, Foxtrot)
+TA1MMG ❌
+TA1MMH ✅ (Mike, Mike, Hotel)
+TA1MMI ✅ (Mike, Mike, India)
+TA1MMJ ✅ (Mike, Mike, Juliett)
+TA1MMK ❌
+TA1MML ✅ (Mike, Mike, Lima)
+TA1MMM ❌
+TA1MMN ❌
+TA1MMO ❌
+TA1MMP ✅ (Mike, Mike, Papa)
+TA1MMQ ✅ (Mike, Mike, Quebec)
+TA1MMR ❌
+TA1MMS ❌
+TA1MMT ❌
+TA1MMU ❌
+TA1MMV ❌
+TA1MMW ✅ (Mike, Mike, Whiskey)
+TA1MMX ❌
+TA1MMY ❌
+TA1MMZ ✅ (Mike, Mike, Zulu)
+TA1MNA ❌
+TA1MNB ✅ (Mike, November, Bravo)
+TA1MNC ❌
+TA1MND ✅ (Mike, November, Delta)
+TA1MNE ❌
+TA1MNF ✅ (Mike, November, Foxtrot)
+TA1MNG ✅ (Mike, November, Golf)
+TA1MNH ✅ (Mike, November, Hotel)
+TA1MNI ✅ (Mike, November, India)
+TA1MNJ ✅ (Mike, November, Juliett)
+TA1MNK ❌
+TA1MNL ❌
+TA1MNM ✅ (Mike, November, Mike)
+TA1MNN ✅ (Mike, November, November)
+TA1MNO ✅ (Mike, November, Oscar)
+TA1MNP ✅ (Mike, November, Papa)
+TA1MNQ ✅ (Mike, November, Quebec)
+TA1MNR ✅ (Mike, November, Romeo)
+TA1MNS ✅ (Mike, November, Sierra)
+TA1MNT ❌
+TA1MNU ✅ (Mike, November, Uniform)
+TA1MNV ✅ (Mike, November, Victor)
+TA1MNW ✅ (Mike, November, Whiskey)
+TA1MNX ✅ (Mike, November, X-ray)
+TA1MNY ❌
+TA1MNZ ✅ (Mike, November, Zulu)
+TA1MOA ❌
+TA1MOB ❌
+TA1MOC ❌
+TA1MOD ❌
+TA1MOE ✅ (Mike, Oscar, Echo)
+TA1MOF ✅ (Mike, Oscar, Foxtrot)
+TA1MOG ✅ (Mike, Oscar, Golf)
+TA1MOH ✅ (Mike, Oscar, Hotel)
+TA1MOI ✅ (Mike, Oscar, India)
+TA1MOJ ✅ (Mike, Oscar, Juliett)
+TA1MOK ✅ (Mike, Oscar, Kilo)
+TA1MOL ✅ (Mike, Oscar, Lima)
+TA1MOM ✅ (Mike, Oscar, Mike)
+TA1MON ✅ (Mike, Oscar, November)
+TA1MOO ✅ (Mike, Oscar, Oscar)
+TA1MOP ❌
+TA1MOQ ✅ (Mike, Oscar, Quebec)
+TA1MOR ❌
+TA1MOS ✅ (Mike, Oscar, Sierra)
+TA1MOT ❌
+TA1MOU ✅ (Mike, Oscar, Uniform)
+TA1MOV ✅ (Mike, Oscar, Victor)
+TA1MOW ✅ (Mike, Oscar, Whiskey)
+TA1MOX ✅ (Mike, Oscar, X-ray)
+TA1MOY ❌
+TA1MOZ ❌
+TA1MPA ✅ (Mike, Papa, Alfa)
+TA1MPB ✅ (Mike, Papa, Bravo)
+TA1MPC ✅ (Mike, Papa, Charlie)
+TA1MPD ✅ (Mike, Papa, Delta)
+TA1MPE ✅ (Mike, Papa, Echo)
+TA1MPF ✅ (Mike, Papa, Foxtrot)
+TA1MPG ✅ (Mike, Papa, Golf)
+TA1MPH ✅ (Mike, Papa, Hotel)
+TA1MPI ✅ (Mike, Papa, India)
+TA1MPJ ✅ (Mike, Papa, Juliett)
+TA1MPK ❌
+TA1MPL ✅ (Mike, Papa, Lima)
+TA1MPM ✅ (Mike, Papa, Mike)
+TA1MPN ✅ (Mike, Papa, November)
+TA1MPO ✅ (Mike, Papa, Oscar)
+TA1MPP ✅ (Mike, Papa, Papa)
+TA1MPQ ✅ (Mike, Papa, Quebec)
+TA1MPR ✅ (Mike, Papa, Romeo)
+TA1MPS ✅ (Mike, Papa, Sierra)
+TA1MPT ✅ (Mike, Papa, Tango)
+TA1MPU ✅ (Mike, Papa, Uniform)
+TA1MPV ✅ (Mike, Papa, Victor)
+TA1MPW ✅ (Mike, Papa, Whiskey)
+TA1MPX ✅ (Mike, Papa, X-ray)
+TA1MPY ✅ (Mike, Papa, Yankee)
+TA1MPZ ✅ (Mike, Papa, Zulu)
+TA1MQA ✅ (Mike, Quebec, Alfa)
+TA1MQB ❌
+TA1MQC ✅ (Mike, Quebec, Charlie)
+TA1MQD ✅ (Mike, Quebec, Delta)
+TA1MQE ✅ (Mike, Quebec, Echo)
+TA1MQF ✅ (Mike, Quebec, Foxtrot)
+TA1MQG ✅ (Mike, Quebec, Golf)
+TA1MQH ✅ (Mike, Quebec, Hotel)
+TA1MQI ✅ (Mike, Quebec, India)
+TA1MQJ ✅ (Mike, Quebec, Juliett)
+TA1MQK ✅ (Mike, Quebec, Kilo)
+TA1MQL ✅ (Mike, Quebec, Lima)
+TA1MQM ✅ (Mike, Quebec, Mike)
+TA1MQN ✅ (Mike, Quebec, November)
+TA1MQO ✅ (Mike, Quebec, Oscar)
+TA1MQP ✅ (Mike, Quebec, Papa)
+TA1MQQ ✅ (Mike, Quebec, Quebec)
+TA1MQR ✅ (Mike, Quebec, Romeo)
+TA1MQS ✅ (Mike, Quebec, Sierra)
+TA1MQT ✅ (Mike, Quebec, Tango)
+TA1MQU ✅ (Mike, Quebec, Uniform)
+TA1MQV ✅ (Mike, Quebec, Victor)
+TA1MQW ✅ (Mike, Quebec, Whiskey)
+TA1MQX ✅ (Mike, Quebec, X-ray)
+TA1MQY ✅ (Mike, Quebec, Yankee)
+TA1MQZ ✅ (Mike, Quebec, Zulu)
+TA1MRA ❌
+TA1MRB ❌
+TA1MRC ❌
+TA1MRD ❌
+TA1MRE ❌
+TA1MRF ✅ (Mike, Romeo, Foxtrot)
+TA1MRG ❌
+TA1MRH ❌
+TA1MRI ❌
+TA1MRJ ✅ (Mike, Romeo, Juliett)
+TA1MRK ❌
+TA1MRL ❌
+TA1MRM ✅ (Mike, Romeo, Mike)
+TA1MRN ✅ (Mike, Romeo, November)
+TA1MRO ❌
+TA1MRP ✅ (Mike, Romeo, Papa)
+TA1MRQ ✅ (Mike, Romeo, Quebec)
+TA1MRR ✅ (Mike, Romeo, Romeo)
+TA1MRS ❌
+TA1MRT ❌
+TA1MRU ❌
+TA1MRV ❌
+TA1MRW ❌
+TA1MRX ❌
+TA1MRY ❌
+TA1MRZ ✅ (Mike, Romeo, Zulu)
+TA1MSA ❌
+TA1MSB ❌
+TA1MSC ❌
+TA1MSD ❌
+TA1MSE ❌
+TA1MSF ❌
+TA1MSG ❌
+TA1MSH ❌
+TA1MSI ❌
+TA1MSJ ❌
+TA1MSK ❌
+TA1MSL ✅ (Mike, Sierra, Lima)
+TA1MSM ❌
+TA1MSN ❌
+TA1MSO ❌
+TA1MSP ✅ (Mike, Sierra, Papa)
+TA1MSQ ✅ (Mike, Sierra, Quebec)
+TA1MSR ❌
+TA1MSS ❌
+TA1MST ❌
+TA1MSU ❌
+TA1MSV ✅ (Mike, Sierra, Victor)
+TA1MSW ✅ (Mike, Sierra, Whiskey)
+TA1MSX ❌
+TA1MSY ❌
+TA1MSZ ❌
+TA1MTA ❌
+TA1MTB ❌
+TA1MTC ❌
+TA1MTD ❌
+TA1MTE ❌
+TA1MTF ❌
+TA1MTG ❌
+TA1MTH ❌
+TA1MTI ✅ (Mike, Tango, India)
+TA1MTJ ✅ (Mike, Tango, Juliett)
+TA1MTK ❌
+TA1MTL ❌
+TA1MTM ✅ (Mike, Tango, Mike)
+TA1MTN ❌
+TA1MTO ✅ (Mike, Tango, Oscar)
+TA1MTP ❌
+TA1MTQ ✅ (Mike, Tango, Quebec)
+TA1MTR ❌
+TA1MTS ❌
+TA1MTT ❌
+TA1MTU ❌
+TA1MTV ❌
+TA1MTW ✅ (Mike, Tango, Whiskey)
+TA1MTX ✅ (Mike, Tango, X-ray)
+TA1MTY ❌
+TA1MTZ ❌
+TA1MUA ❌
+TA1MUB ✅ (Mike, Uniform, Bravo)
+TA1MUC ❌
+TA1MUD ❌
+TA1MUE ✅ (Mike, Uniform, Echo)
+TA1MUF ❌
+TA1MUG ❌
+TA1MUH ❌
+TA1MUI ❌
+TA1MUJ ❌
+TA1MUK ❌
+TA1MUL ✅ (Mike, Uniform, Lima)
+TA1MUM ❌
+TA1MUN ❌
+TA1MUO ❌
+TA1MUP ✅ (Mike, Uniform, Papa)
+TA1MUQ ✅ (Mike, Uniform, Quebec)
+TA1MUR ❌
+TA1MUS ❌
+TA1MUT ❌
+TA1MUU ✅ (Mike, Uniform, Uniform)
+TA1MUV ❌
+TA1MUW ✅ (Mike, Uniform, Whiskey)
+TA1MUX ❌
+TA1MUY ✅ (Mike, Uniform, Yankee)
+TA1MUZ ✅ (Mike, Uniform, Zulu)
+TA1MVA ✅ (Mike, Victor, Alfa)
+TA1MVB ✅ (Mike, Victor, Bravo)
+TA1MVC ✅ (Mike, Victor, Charlie)
+TA1MVD ❌
+TA1MVE ✅ (Mike, Victor, Echo)
+TA1MVF ✅ (Mike, Victor, Foxtrot)
+TA1MVG ✅ (Mike, Victor, Golf)
+TA1MVH ✅ (Mike, Victor, Hotel)
+TA1MVI ✅ (Mike, Victor, India)
+TA1MVJ ✅ (Mike, Victor, Juliett)
+TA1MVK ✅ (Mike, Victor, Kilo)
+TA1MVL ✅ (Mike, Victor, Lima)
+TA1MVM ✅ (Mike, Victor, Mike)
+TA1MVN ✅ (Mike, Victor, November)
+TA1MVO ✅ (Mike, Victor, Oscar)
+TA1MVP ❌
+TA1MVQ ✅ (Mike, Victor, Quebec)
+TA1MVR ✅ (Mike, Victor, Romeo)
+TA1MVS ✅ (Mike, Victor, Sierra)
+TA1MVT ✅ (Mike, Victor, Tango)
+TA1MVU ✅ (Mike, Victor, Uniform)
+TA1MVV ✅ (Mike, Victor, Victor)
+TA1MVW ✅ (Mike, Victor, Whiskey)
+TA1MVX ✅ (Mike, Victor, X-ray)
+TA1MVY ✅ (Mike, Victor, Yankee)
+TA1MVZ ✅ (Mike, Victor, Zulu)
+TA1MWA ✅ (Mike, Whiskey, Alfa)
+TA1MWB ✅ (Mike, Whiskey, Bravo)
+TA1MWC ✅ (Mike, Whiskey, Charlie)
+TA1MWD ✅ (Mike, Whiskey, Delta)
+TA1MWE ✅ (Mike, Whiskey, Echo)
+TA1MWF ✅ (Mike, Whiskey, Foxtrot)
+TA1MWG ✅ (Mike, Whiskey, Golf)
+TA1MWH ✅ (Mike, Whiskey, Hotel)
+TA1MWI ✅ (Mike, Whiskey, India)
+TA1MWJ ✅ (Mike, Whiskey, Juliett)
+TA1MWK ✅ (Mike, Whiskey, Kilo)
+TA1MWL ✅ (Mike, Whiskey, Lima)
+TA1MWM ✅ (Mike, Whiskey, Mike)
+TA1MWN ✅ (Mike, Whiskey, November)
+TA1MWO ✅ (Mike, Whiskey, Oscar)
+TA1MWP ✅ (Mike, Whiskey, Papa)
+TA1MWQ ✅ (Mike, Whiskey, Quebec)
+TA1MWR ❌
+TA1MWS ✅ (Mike, Whiskey, Sierra)
+TA1MWT ✅ (Mike, Whiskey, Tango)
+TA1MWU ✅ (Mike, Whiskey, Uniform)
+TA1MWV ✅ (Mike, Whiskey, Victor)
+TA1MWW ✅ (Mike, Whiskey, Whiskey)
+TA1MWX ✅ (Mike, Whiskey, X-ray)
+TA1MWY ✅ (Mike, Whiskey, Yankee)
+TA1MWZ ✅ (Mike, Whiskey, Zulu)
+TA1MXA ✅ (Mike, X-ray, Alfa)
+TA1MXB ✅ (Mike, X-ray, Bravo)
+TA1MXC ✅ (Mike, X-ray, Charlie)
+TA1MXD ✅ (Mike, X-ray, Delta)
+TA1MXE ✅ (Mike, X-ray, Echo)
+TA1MXF ✅ (Mike, X-ray, Foxtrot)
+TA1MXG ✅ (Mike, X-ray, Golf)
+TA1MXH ✅ (Mike, X-ray, Hotel)
+TA1MXI ✅ (Mike, X-ray, India)
+TA1MXJ ✅ (Mike, X-ray, Juliett)
+TA1MXK ✅ (Mike, X-ray, Kilo)
+TA1MXL ❌
+TA1MXM ✅ (Mike, X-ray, Mike)
+TA1MXN ✅ (Mike, X-ray, November)
+TA1MXO ✅ (Mike, X-ray, Oscar)
+TA1MXP ✅ (Mike, X-ray, Papa)
+TA1MXQ ✅ (Mike, X-ray, Quebec)
+TA1MXR ✅ (Mike, X-ray, Romeo)
+TA1MXS ✅ (Mike, X-ray, Sierra)
+TA1MXT ✅ (Mike, X-ray, Tango)
+TA1MXU ✅ (Mike, X-ray, Uniform)
+TA1MXV ✅ (Mike, X-ray, Victor)
+TA1MXW ✅ (Mike, X-ray, Whiskey)
+TA1MXX ✅ (Mike, X-ray, X-ray)
+TA1MXY ✅ (Mike, X-ray, Yankee)
+TA1MXZ ✅ (Mike, X-ray, Zulu)
+TA1MYA ❌
+TA1MYB ✅ (Mike, Yankee, Bravo)
+TA1MYC ❌
+TA1MYD ✅ (Mike, Yankee, Delta)
+TA1MYE ❌
+TA1MYF ✅ (Mike, Yankee, Foxtrot)
+TA1MYG ❌
+TA1MYH ❌
+TA1MYI ✅ (Mike, Yankee, India)
+TA1MYJ ❌
+TA1MYK ❌
+TA1MYL ❌
+TA1MYM ❌
+TA1MYN ✅ (Mike, Yankee, November)
+TA1MYO ✅ (Mike, Yankee, Oscar)
+TA1MYP ✅ (Mike, Yankee, Papa)
+TA1MYQ ✅ (Mike, Yankee, Quebec)
+TA1MYR ❌
+TA1MYS ❌
+TA1MYT ❌
+TA1MYU ✅ (Mike, Yankee, Uniform)
+TA1MYV ✅ (Mike, Yankee, Victor)
+TA1MYW ✅ (Mike, Yankee, Whiskey)
+TA1MYX ✅ (Mike, Yankee, X-ray)
+TA1MYY ❌
+TA1MYZ ✅ (Mike, Yankee, Zulu)
+TA1MZA ✅ (Mike, Zulu, Alfa)
+TA1MZB ✅ (Mike, Zulu, Bravo)
+TA1MZC ❌
+TA1MZD ✅ (Mike, Zulu, Delta)
+TA1MZE ✅ (Mike, Zulu, Echo)
+TA1MZF ❌
+TA1MZG ❌
+TA1MZH ❌
+TA1MZI ✅ (Mike, Zulu, India)
+TA1MZJ ✅ (Mike, Zulu, Juliett)
+TA1MZK ❌
+TA1MZL ❌
+TA1MZM ❌
+TA1MZN ✅ (Mike, Zulu, November)
+TA1MZO ✅ (Mike, Zulu, Oscar)
+TA1MZP ✅ (Mike, Zulu, Papa)
+TA1MZQ ✅ (Mike, Zulu, Quebec)
+TA1MZR ❌
+TA1MZS ❌
+TA1MZT ✅ (Mike, Zulu, Tango)
+TA1MZU ✅ (Mike, Zulu, Uniform)
+TA1MZV ✅ (Mike, Zulu, Victor)
+TA1MZW ✅ (Mike, Zulu, Whiskey)
+TA1MZX ✅ (Mike, Zulu, X-ray)
+TA1MZY ✅ (Mike, Zulu, Yankee)
+TA1MZZ ❌
