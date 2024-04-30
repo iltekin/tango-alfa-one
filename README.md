@@ -1,5 +1,6 @@
 # tango-alfa-one
-Amatör telsizciler için boştaki telsiz çağrı kodları
+A sınıfı amatör telsizciler için boştaki telsiz çağrı kodları
 
 Son güncelleme: 30.04.2024
-Total: 12870
+
+Toplam müsait kod: 12.870
