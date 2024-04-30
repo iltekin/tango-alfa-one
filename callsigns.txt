@@ -10618,17 +10618,7 @@ TA1PSJ ✅ (Papa, Sierra, Juliett)
 TA1PSK ✅ (Papa, Sierra, Kilo)
 TA1PSL ✅ (Papa, Sierra, Lima)
 TA1PSM ✅ (Papa, Sierra, Mike)
-VM3003:25 Request failed
-xhr.onerror @ VM3003:25
-error (async)
-checkCallSign @ VM3003:24
-(anonymous) @ VM3003:36
-VM3003:27
-
-
-POST https://www.kiyiemniyeti.gov.tr/ehizmetler/telsiz_cagri_isareti_sorgula net::ERR_NETWORK_IO_SUSPENDED
-    checkCallSign @ VM3003:27
-(anonymous) @ VM3003:36
+TA1PSN ✅ (Papa, Sierra, November)
 TA1PSO ✅ (Papa, Sierra, Oscar)
 TA1PSP ✅ (Papa, Sierra, Papa)
 TA1PSQ ✅ (Papa, Sierra, Quebec)
@@ -10823,3 +10813,679 @@ TA1PZW ✅ (Papa, Zulu, Whiskey)
 TA1PZX ✅ (Papa, Zulu, X-ray)
 TA1PZY ✅ (Papa, Zulu, Yankee)
 TA1PZZ ✅ (Papa, Zulu, Zulu)
+TA1RAA ❌
+TA1RAB ❌
+TA1RAC ✅ (Romeo, Alfa, Charlie)
+TA1RAD ✅ (Romeo, Alfa, Delta)
+TA1RAE ❌
+TA1RAF ✅ (Romeo, Alfa, Foxtrot)
+TA1RAG ✅ (Romeo, Alfa, Golf)
+TA1RAH ❌
+TA1RAI ✅ (Romeo, Alfa, India)
+TA1RAJ ❌
+TA1RAK ✅ (Romeo, Alfa, Kilo)
+TA1RAL ✅ (Romeo, Alfa, Lima)
+TA1RAM ❌
+TA1RAN ✅ (Romeo, Alfa, November)
+TA1RAO ❌
+TA1RAP ✅ (Romeo, Alfa, Papa)
+TA1RAQ ✅ (Romeo, Alfa, Quebec)
+TA1RAR ❌
+TA1RAS ✅ (Romeo, Alfa, Sierra)
+TA1RAT ❌
+TA1RAU ❌
+TA1RAV ✅ (Romeo, Alfa, Victor)
+TA1RAW ❌
+TA1RAX ✅ (Romeo, Alfa, X-ray)
+TA1RAY ❌
+TA1RAZ ❌
+TA1RBA ❌
+TA1RBB ❌
+TA1RBC ✅ (Romeo, Bravo, Charlie)
+TA1RBD ✅ (Romeo, Bravo, Delta)
+TA1RBE ✅ (Romeo, Bravo, Echo)
+TA1RBF ✅ (Romeo, Bravo, Foxtrot)
+TA1RBG ✅ (Romeo, Bravo, Golf)
+TA1RBH ❌
+TA1RBI ❌
+TA1RBJ ✅ (Romeo, Bravo, Juliett)
+TA1RBK ❌
+TA1RBL ✅ (Romeo, Bravo, Lima)
+TA1RBM ✅ (Romeo, Bravo, Mike)
+TA1RBN ✅ (Romeo, Bravo, November)
+TA1RBO ✅ (Romeo, Bravo, Oscar)
+TA1RBP ✅ (Romeo, Bravo, Papa)
+TA1RBQ ✅ (Romeo, Bravo, Quebec)
+TA1RBR ✅ (Romeo, Bravo, Romeo)
+TA1RBS ❌
+TA1RBT ❌
+TA1RBU ❌
+TA1RBV ✅ (Romeo, Bravo, Victor)
+TA1RBW ✅ (Romeo, Bravo, Whiskey)
+TA1RBX ✅ (Romeo, Bravo, X-ray)
+TA1RBY ❌
+TA1RBZ ✅ (Romeo, Bravo, Zulu)
+TA1RCA ❌
+TA1RCB ❌
+TA1RCC ❌
+TA1RCD ✅ (Romeo, Charlie, Delta)
+TA1RCE ❌
+TA1RCF ✅ (Romeo, Charlie, Foxtrot)
+TA1RCG ✅ (Romeo, Charlie, Golf)
+TA1RCH ✅ (Romeo, Charlie, Hotel)
+TA1RCI ✅ (Romeo, Charlie, India)
+TA1RCJ ✅ (Romeo, Charlie, Juliett)
+TA1RCK ✅ (Romeo, Charlie, Kilo)
+TA1RCL ✅ (Romeo, Charlie, Lima)
+TA1RCM ✅ (Romeo, Charlie, Mike)
+TA1RCN ❌
+TA1RCO ✅ (Romeo, Charlie, Oscar)
+TA1RCP ❌
+TA1RCQ ✅ (Romeo, Charlie, Quebec)
+TA1RCR ✅ (Romeo, Charlie, Romeo)
+TA1RCS ✅ (Romeo, Charlie, Sierra)
+TA1RCT ✅ (Romeo, Charlie, Tango)
+TA1RCU ✅ (Romeo, Charlie, Uniform)
+TA1RCV ✅ (Romeo, Charlie, Victor)
+TA1RCW ❌
+TA1RCX ✅ (Romeo, Charlie, X-ray)
+TA1RCY ❌
+TA1RCZ ✅ (Romeo, Charlie, Zulu)
+TA1RDA ❌
+TA1RDB ✅ (Romeo, Delta, Bravo)
+TA1RDC ❌
+TA1RDD ✅ (Romeo, Delta, Delta)
+TA1RDE ✅ (Romeo, Delta, Echo)
+TA1RDF ✅ (Romeo, Delta, Foxtrot)
+TA1RDG ❌
+TA1RDH ✅ (Romeo, Delta, Hotel)
+TA1RDI ✅ (Romeo, Delta, India)
+TA1RDJ ✅ (Romeo, Delta, Juliett)
+TA1RDK ✅ (Romeo, Delta, Kilo)
+TA1RDL ✅ (Romeo, Delta, Lima)
+TA1RDM ❌
+TA1RDN ❌
+TA1RDO ❌
+TA1RDP ✅ (Romeo, Delta, Papa)
+TA1RDQ ✅ (Romeo, Delta, Quebec)
+TA1RDR ✅ (Romeo, Delta, Romeo)
+TA1RDS ✅ (Romeo, Delta, Sierra)
+TA1RDT ✅ (Romeo, Delta, Tango)
+TA1RDU ✅ (Romeo, Delta, Uniform)
+TA1RDV ❌
+TA1RDW ✅ (Romeo, Delta, Whiskey)
+TA1RDX ✅ (Romeo, Delta, X-ray)
+TA1RDY ✅ (Romeo, Delta, Yankee)
+TA1RDZ ✅ (Romeo, Delta, Zulu)
+TA1REA ❌
+TA1REB ✅ (Romeo, Echo, Bravo)
+TA1REC ❌
+TA1RED ❌
+TA1REE ❌
+TA1REF ✅ (Romeo, Echo, Foxtrot)
+TA1REG ✅ (Romeo, Echo, Golf)
+TA1REH ✅ (Romeo, Echo, Hotel)
+TA1REI ✅ (Romeo, Echo, India)
+TA1REJ ✅ (Romeo, Echo, Juliett)
+TA1REK ❌
+TA1REL ✅ (Romeo, Echo, Lima)
+TA1REM ❌
+TA1REN ✅ (Romeo, Echo, November)
+TA1REO ❌
+TA1REP ✅ (Romeo, Echo, Papa)
+TA1REQ ✅ (Romeo, Echo, Quebec)
+TA1RER ✅ (Romeo, Echo, Romeo)
+TA1RES ❌
+TA1RET ❌
+TA1REU ✅ (Romeo, Echo, Uniform)
+TA1REV ✅ (Romeo, Echo, Victor)
+TA1REW ✅ (Romeo, Echo, Whiskey)
+TA1REX ✅ (Romeo, Echo, X-ray)
+TA1REY ❌
+TA1REZ ✅ (Romeo, Echo, Zulu)
+TA1RFA ❌
+TA1RFB ✅ (Romeo, Foxtrot, Bravo)
+TA1RFC ✅ (Romeo, Foxtrot, Charlie)
+TA1RFD ✅ (Romeo, Foxtrot, Delta)
+TA1RFE ❌
+TA1RFF ✅ (Romeo, Foxtrot, Foxtrot)
+TA1RFG ✅ (Romeo, Foxtrot, Golf)
+TA1RFH ✅ (Romeo, Foxtrot, Hotel)
+TA1RFI ✅ (Romeo, Foxtrot, India)
+TA1RFJ ✅ (Romeo, Foxtrot, Juliett)
+TA1RFK ❌
+TA1RFL ✅ (Romeo, Foxtrot, Lima)
+TA1RFM ✅ (Romeo, Foxtrot, Mike)
+TA1RFN ✅ (Romeo, Foxtrot, November)
+TA1RFO ✅ (Romeo, Foxtrot, Oscar)
+TA1RFP ❌
+TA1RFQ ✅ (Romeo, Foxtrot, Quebec)
+TA1RFR ❌
+TA1RFS ❌
+TA1RFT ✅ (Romeo, Foxtrot, Tango)
+TA1RFU ✅ (Romeo, Foxtrot, Uniform)
+TA1RFV ✅ (Romeo, Foxtrot, Victor)
+TA1RFW ✅ (Romeo, Foxtrot, Whiskey)
+TA1RFX ✅ (Romeo, Foxtrot, X-ray)
+TA1RFY ✅ (Romeo, Foxtrot, Yankee)
+TA1RFZ ✅ (Romeo, Foxtrot, Zulu)
+TA1RGA ✅ (Romeo, Golf, Alfa)
+TA1RGB ✅ (Romeo, Golf, Bravo)
+TA1RGC ❌
+TA1RGD ❌
+TA1RGE ❌
+TA1RGF ✅ (Romeo, Golf, Foxtrot)
+TA1RGG ✅ (Romeo, Golf, Golf)
+TA1RGH ❌
+TA1RGI ✅ (Romeo, Golf, India)
+TA1RGJ ✅ (Romeo, Golf, Juliett)
+TA1RGK ❌
+TA1RGL ✅ (Romeo, Golf, Lima)
+TA1RGM ✅ (Romeo, Golf, Mike)
+TA1RGN ✅ (Romeo, Golf, November)
+TA1RGO ❌
+TA1RGP ✅ (Romeo, Golf, Papa)
+TA1RGQ ✅ (Romeo, Golf, Quebec)
+TA1RGR ✅ (Romeo, Golf, Romeo)
+TA1RGS ✅ (Romeo, Golf, Sierra)
+TA1RGT ✅ (Romeo, Golf, Tango)
+TA1RGU ✅ (Romeo, Golf, Uniform)
+TA1RGV ❌
+TA1RGW ✅ (Romeo, Golf, Whiskey)
+TA1RGX ✅ (Romeo, Golf, X-ray)
+TA1RGY ✅ (Romeo, Golf, Yankee)
+TA1RGZ ✅ (Romeo, Golf, Zulu)
+TA1RHA ❌
+TA1RHB ✅ (Romeo, Hotel, Bravo)
+TA1RHC ❌
+TA1RHD ✅ (Romeo, Hotel, Delta)
+TA1RHE ✅ (Romeo, Hotel, Echo)
+TA1RHF ✅ (Romeo, Hotel, Foxtrot)
+TA1RHG ❌
+TA1RHH ✅ (Romeo, Hotel, Hotel)
+TA1RHI ❌
+TA1RHJ ✅ (Romeo, Hotel, Juliett)
+TA1RHK ✅ (Romeo, Hotel, Kilo)
+TA1RHL ✅ (Romeo, Hotel, Lima)
+TA1RHM ❌
+TA1RHN ✅ (Romeo, Hotel, November)
+TA1RHO ✅ (Romeo, Hotel, Oscar)
+TA1RHP ✅ (Romeo, Hotel, Papa)
+TA1RHQ ✅ (Romeo, Hotel, Quebec)
+TA1RHR ✅ (Romeo, Hotel, Romeo)
+TA1RHS ✅ (Romeo, Hotel, Sierra)
+TA1RHT ✅ (Romeo, Hotel, Tango)
+TA1RHU ❌
+TA1RHV ✅ (Romeo, Hotel, Victor)
+TA1RHW ✅ (Romeo, Hotel, Whiskey)
+TA1RHX ✅ (Romeo, Hotel, X-ray)
+TA1RHY ❌
+TA1RHZ ✅ (Romeo, Hotel, Zulu)
+TA1RIA ✅ (Romeo, India, Alfa)
+TA1RIB ✅ (Romeo, India, Bravo)
+TA1RIC ✅ (Romeo, India, Charlie)
+TA1RID ✅ (Romeo, India, Delta)
+TA1RIE ✅ (Romeo, India, Echo)
+TA1RIF ✅ (Romeo, India, Foxtrot)
+TA1RIG ✅ (Romeo, India, Golf)
+TA1RIH ✅ (Romeo, India, Hotel)
+TA1RII ✅ (Romeo, India, India)
+TA1RIJ ✅ (Romeo, India, Juliett)
+TA1RIK ✅ (Romeo, India, Kilo)
+TA1RIL ✅ (Romeo, India, Lima)
+TA1RIM ✅ (Romeo, India, Mike)
+TA1RIN ✅ (Romeo, India, November)
+TA1RIO ✅ (Romeo, India, Oscar)
+TA1RIP ❌
+TA1RIQ ✅ (Romeo, India, Quebec)
+TA1RIR ✅ (Romeo, India, Romeo)
+TA1RIS ✅ (Romeo, India, Sierra)
+TA1RIT ✅ (Romeo, India, Tango)
+TA1RIU ✅ (Romeo, India, Uniform)
+TA1RIV ✅ (Romeo, India, Victor)
+TA1RIW ✅ (Romeo, India, Whiskey)
+TA1RIX ✅ (Romeo, India, X-ray)
+TA1RIY ✅ (Romeo, India, Yankee)
+TA1RIZ ✅ (Romeo, India, Zulu)
+TA1RJA ❌
+TA1RJB ✅ (Romeo, Juliett, Bravo)
+TA1RJC ✅ (Romeo, Juliett, Charlie)
+TA1RJD ✅ (Romeo, Juliett, Delta)
+TA1RJE ❌
+TA1RJF ✅ (Romeo, Juliett, Foxtrot)
+TA1RJG ✅ (Romeo, Juliett, Golf)
+TA1RJH ✅ (Romeo, Juliett, Hotel)
+TA1RJI ✅ (Romeo, Juliett, India)
+TA1RJJ ✅ (Romeo, Juliett, Juliett)
+TA1RJK ✅ (Romeo, Juliett, Kilo)
+TA1RJL ✅ (Romeo, Juliett, Lima)
+TA1RJM ✅ (Romeo, Juliett, Mike)
+TA1RJN ✅ (Romeo, Juliett, November)
+TA1RJO ✅ (Romeo, Juliett, Oscar)
+TA1RJP ✅ (Romeo, Juliett, Papa)
+TA1RJQ ✅ (Romeo, Juliett, Quebec)
+TA1RJR ✅ (Romeo, Juliett, Romeo)
+TA1RJS ✅ (Romeo, Juliett, Sierra)
+TA1RJT ❌
+TA1RJU ✅ (Romeo, Juliett, Uniform)
+TA1RJV ❌
+TA1RJW ❌
+TA1RJX ✅ (Romeo, Juliett, X-ray)
+TA1RJY ✅ (Romeo, Juliett, Yankee)
+TA1RJZ ✅ (Romeo, Juliett, Zulu)
+TA1RKA ❌
+TA1RKB ✅ (Romeo, Kilo, Bravo)
+TA1RKC ✅ (Romeo, Kilo, Charlie)
+TA1RKD ✅ (Romeo, Kilo, Delta)
+TA1RKE ❌
+TA1RKF ✅ (Romeo, Kilo, Foxtrot)
+TA1RKG ❌
+TA1RKH ❌
+TA1RKI ❌
+TA1RKJ ✅ (Romeo, Kilo, Juliett)
+TA1RKK ✅ (Romeo, Kilo, Kilo)
+TA1RKL ✅ (Romeo, Kilo, Lima)
+TA1RKM ✅ (Romeo, Kilo, Mike)
+TA1RKN ❌
+TA1RKO ❌
+TA1RKP ✅ (Romeo, Kilo, Papa)
+TA1RKQ ✅ (Romeo, Kilo, Quebec)
+TA1RKR ✅ (Romeo, Kilo, Romeo)
+TA1RKS ❌
+TA1RKT ✅ (Romeo, Kilo, Tango)
+TA1RKU ✅ (Romeo, Kilo, Uniform)
+TA1RKV ✅ (Romeo, Kilo, Victor)
+TA1RKW ✅ (Romeo, Kilo, Whiskey)
+TA1RKX ✅ (Romeo, Kilo, X-ray)
+TA1RKY ✅ (Romeo, Kilo, Yankee)
+TA1RKZ ✅ (Romeo, Kilo, Zulu)
+TA1RLA ✅ (Romeo, Lima, Alfa)
+TA1RLB ✅ (Romeo, Lima, Bravo)
+TA1RLC ✅ (Romeo, Lima, Charlie)
+TA1RLD ✅ (Romeo, Lima, Delta)
+TA1RLE ✅ (Romeo, Lima, Echo)
+TA1RLF ✅ (Romeo, Lima, Foxtrot)
+TA1RLG ✅ (Romeo, Lima, Golf)
+TA1RLH ✅ (Romeo, Lima, Hotel)
+TA1RLI ✅ (Romeo, Lima, India)
+TA1RLJ ✅ (Romeo, Lima, Juliett)
+TA1RLK ✅ (Romeo, Lima, Kilo)
+TA1RLL ✅ (Romeo, Lima, Lima)
+TA1RLM ✅ (Romeo, Lima, Mike)
+TA1RLN ✅ (Romeo, Lima, November)
+TA1RLO ✅ (Romeo, Lima, Oscar)
+TA1RLP ✅ (Romeo, Lima, Papa)
+TA1RLQ ✅ (Romeo, Lima, Quebec)
+TA1RLR ✅ (Romeo, Lima, Romeo)
+TA1RLS ✅ (Romeo, Lima, Sierra)
+TA1RLT ✅ (Romeo, Lima, Tango)
+TA1RLU ✅ (Romeo, Lima, Uniform)
+TA1RLV ✅ (Romeo, Lima, Victor)
+TA1RLW ✅ (Romeo, Lima, Whiskey)
+TA1RLX ✅ (Romeo, Lima, X-ray)
+TA1RLY ✅ (Romeo, Lima, Yankee)
+TA1RLZ ✅ (Romeo, Lima, Zulu)
+TA1RMA ❌
+TA1RMB ❌
+TA1RMC ❌
+TA1RMD ❌
+TA1RME ❌
+TA1RMF ✅ (Romeo, Mike, Foxtrot)
+TA1RMG ❌
+TA1RMH ✅ (Romeo, Mike, Hotel)
+TA1RMI ❌
+TA1RMJ ✅ (Romeo, Mike, Juliett)
+TA1RML ❌
+TA1RMK ❌
+TA1RMM ❌
+TA1RMN ❌
+TA1RMO ❌
+TA1RMP ❌
+TA1RMQ ❌
+TA1RMR ❌
+TA1RMS ❌
+TA1RMT ❌
+TA1RMU ❌
+TA1RMV ❌
+TA1RMW ❌
+TA1RMX ❌
+TA1RMY ❌
+TA1RMZ ❌
+TA1RNA ❌
+TA1RNB ❌
+TA1RNC ❌
+TA1RND ❌
+TA1RNE ❌
+TA1RNF ❌
+TA1RNG ❌
+TA1RNH ❌
+TA1RNI ❌
+TA1RNJ ❌
+TA1RNK ✅ (Romeo, November, Kilo)
+TA1RNU ✅ (Romeo, November, Uniform)
+TA1RNQ ✅ (Romeo, November, Quebec)
+TA1RNW ✅ (Romeo, November, Whiskey)
+TA1RNX ✅ (Romeo, November, X-ray)
+TA1RNP ✅ (Romeo, November, Papa)
+TA1RNZ ✅ (Romeo, November, Zulu)
+TA1ROA ❌
+TA1RNV ✅ (Romeo, November, Victor)
+TA1ROC ❌
+TA1ROD ❌
+TA1RNN ✅ (Romeo, November, November)
+TA1ROE ❌
+TA1RNS ❌
+TA1ROF ✅ (Romeo, Oscar, Foxtrot)
+TA1RNM ✅ (Romeo, November, Mike)
+TA1ROG ✅ (Romeo, Oscar, Golf)
+TA1RNO ✅ (Romeo, November, Oscar)
+TA1ROH ✅ (Romeo, Oscar, Hotel)
+TA1RNT ✅ (Romeo, November, Tango)
+TA1ROI ❌
+TA1ROB ❌
+TA1ROJ ✅ (Romeo, Oscar, Juliett)
+TA1RNY ✅ (Romeo, November, Yankee)
+TA1ROK ✅ (Romeo, Oscar, Kilo)
+TA1RNL ✅ (Romeo, November, Lima)
+TA1ROL ✅ (Romeo, Oscar, Lima)
+TA1RNR ✅ (Romeo, November, Romeo)
+TA1ROM ✅ (Romeo, Oscar, Mike)
+TA1RON ✅ (Romeo, Oscar, November)
+TA1ROO ✅ (Romeo, Oscar, Oscar)
+TA1ROP ✅ (Romeo, Oscar, Papa)
+TA1ROQ ✅ (Romeo, Oscar, Quebec)
+TA1ROR ✅ (Romeo, Oscar, Romeo)
+TA1ROS ✅ (Romeo, Oscar, Sierra)
+TA1ROT ✅ (Romeo, Oscar, Tango)
+TA1ROU ❌
+TA1ROV ✅ (Romeo, Oscar, Victor)
+TA1ROW ✅ (Romeo, Oscar, Whiskey)
+TA1ROX ✅ (Romeo, Oscar, X-ray)
+TA1ROY ✅ (Romeo, Oscar, Yankee)
+TA1ROZ ✅ (Romeo, Oscar, Zulu)
+TA1RPA ✅ (Romeo, Papa, Alfa)
+TA1RPB ✅ (Romeo, Papa, Bravo)
+TA1RPC ❌
+TA1RPD ✅ (Romeo, Papa, Delta)
+TA1RPE ✅ (Romeo, Papa, Echo)
+TA1RPF ✅ (Romeo, Papa, Foxtrot)
+TA1RPG ✅ (Romeo, Papa, Golf)
+TA1RPH ✅ (Romeo, Papa, Hotel)
+TA1RPI ✅ (Romeo, Papa, India)
+TA1RPJ ✅ (Romeo, Papa, Juliett)
+TA1RPK ✅ (Romeo, Papa, Kilo)
+TA1RPL ✅ (Romeo, Papa, Lima)
+TA1RPM ✅ (Romeo, Papa, Mike)
+TA1RPN ✅ (Romeo, Papa, November)
+TA1RPO ❌
+TA1RPP ✅ (Romeo, Papa, Papa)
+TA1RPQ ✅ (Romeo, Papa, Quebec)
+TA1RPR ✅ (Romeo, Papa, Romeo)
+TA1RPS ✅ (Romeo, Papa, Sierra)
+TA1RPT ✅ (Romeo, Papa, Tango)
+TA1RPU ✅ (Romeo, Papa, Uniform)
+TA1RPV ✅ (Romeo, Papa, Victor)
+TA1RPW ✅ (Romeo, Papa, Whiskey)
+TA1RPX ✅ (Romeo, Papa, X-ray)
+TA1RPY ❌
+TA1RPZ ✅ (Romeo, Papa, Zulu)
+TA1RQA ✅ (Romeo, Quebec, Alfa)
+TA1RQB ✅ (Romeo, Quebec, Bravo)
+TA1RQC ✅ (Romeo, Quebec, Charlie)
+TA1RQD ✅ (Romeo, Quebec, Delta)
+TA1RQE ✅ (Romeo, Quebec, Echo)
+TA1RQF ✅ (Romeo, Quebec, Foxtrot)
+TA1RQG ✅ (Romeo, Quebec, Golf)
+TA1RQH ✅ (Romeo, Quebec, Hotel)
+TA1RQI ✅ (Romeo, Quebec, India)
+TA1RQJ ✅ (Romeo, Quebec, Juliett)
+TA1RQK ✅ (Romeo, Quebec, Kilo)
+TA1RQL ✅ (Romeo, Quebec, Lima)
+TA1RQM ✅ (Romeo, Quebec, Mike)
+TA1RQN ✅ (Romeo, Quebec, November)
+TA1RQO ✅ (Romeo, Quebec, Oscar)
+TA1RQP ✅ (Romeo, Quebec, Papa)
+TA1RQQ ✅ (Romeo, Quebec, Quebec)
+TA1RQR ✅ (Romeo, Quebec, Romeo)
+TA1RQS ✅ (Romeo, Quebec, Sierra)
+TA1RQT ✅ (Romeo, Quebec, Tango)
+TA1RQU ✅ (Romeo, Quebec, Uniform)
+TA1RQV ✅ (Romeo, Quebec, Victor)
+TA1RQW ✅ (Romeo, Quebec, Whiskey)
+TA1RQX ✅ (Romeo, Quebec, X-ray)
+TA1RQY ✅ (Romeo, Quebec, Yankee)
+TA1RQZ ✅ (Romeo, Quebec, Zulu)
+TA1RRA ❌
+TA1RRB ❌
+TA1RRC ✅ (Romeo, Romeo, Charlie)
+TA1RRD ✅ (Romeo, Romeo, Delta)
+TA1RRE ✅ (Romeo, Romeo, Echo)
+TA1RRF ✅ (Romeo, Romeo, Foxtrot)
+TA1RRG ✅ (Romeo, Romeo, Golf)
+TA1RRH ✅ (Romeo, Romeo, Hotel)
+TA1RRI ✅ (Romeo, Romeo, India)
+TA1RRJ ❌
+TA1RRK ✅ (Romeo, Romeo, Kilo)
+TA1RRL ✅ (Romeo, Romeo, Lima)
+TA1RRM ✅ (Romeo, Romeo, Mike)
+TA1RRN ✅ (Romeo, Romeo, November)
+TA1RRO ✅ (Romeo, Romeo, Oscar)
+TA1RRP ✅ (Romeo, Romeo, Papa)
+TA1RRQ ✅ (Romeo, Romeo, Quebec)
+TA1RRR ❌
+TA1RRS ✅ (Romeo, Romeo, Sierra)
+TA1RRT ✅ (Romeo, Romeo, Tango)
+TA1RRU ✅ (Romeo, Romeo, Uniform)
+TA1RRV ✅ (Romeo, Romeo, Victor)
+TA1RRW ✅ (Romeo, Romeo, Whiskey)
+TA1RRX ✅ (Romeo, Romeo, X-ray)
+TA1RRY ✅ (Romeo, Romeo, Yankee)
+TA1RRZ ✅ (Romeo, Romeo, Zulu)
+TA1RSA ✅ (Romeo, Sierra, Alfa)
+TA1RSB ✅ (Romeo, Sierra, Bravo)
+TA1RSC ❌
+TA1RSD ✅ (Romeo, Sierra, Delta)
+TA1RSE ❌
+TA1RSF ✅ (Romeo, Sierra, Foxtrot)
+TA1RSG ✅ (Romeo, Sierra, Golf)
+TA1RSH ✅ (Romeo, Sierra, Hotel)
+TA1RSI ✅ (Romeo, Sierra, India)
+TA1RSJ ✅ (Romeo, Sierra, Juliett)
+TA1RSK ❌
+TA1RSL ✅ (Romeo, Sierra, Lima)
+TA1RSM ❌
+TA1RSN ✅ (Romeo, Sierra, November)
+TA1RSO ❌
+TA1RSP ❌
+TA1RSQ ✅ (Romeo, Sierra, Quebec)
+TA1RSR ✅ (Romeo, Sierra, Romeo)
+TA1RSS ✅ (Romeo, Sierra, Sierra)
+TA1RST ❌
+TA1RSU ❌
+TA1RSV ✅ (Romeo, Sierra, Victor)
+TA1RSW ✅ (Romeo, Sierra, Whiskey)
+TA1RSX ✅ (Romeo, Sierra, X-ray)
+TA1RSY ❌
+TA1RSZ ✅ (Romeo, Sierra, Zulu)
+TA1RTA ❌
+TA1RTB ✅ (Romeo, Tango, Bravo)
+TA1RTC ✅ (Romeo, Tango, Charlie)
+TA1RTD ✅ (Romeo, Tango, Delta)
+TA1RTE ❌
+TA1RTF ✅ (Romeo, Tango, Foxtrot)
+TA1RTG ✅ (Romeo, Tango, Golf)
+TA1RTH ✅ (Romeo, Tango, Hotel)
+TA1RTI ❌
+TA1RTJ ✅ (Romeo, Tango, Juliett)
+TA1RTK ✅ (Romeo, Tango, Kilo)
+TA1RTL ✅ (Romeo, Tango, Lima)
+TA1RTM ✅ (Romeo, Tango, Mike)
+TA1RTN ✅ (Romeo, Tango, November)
+TA1RTO ❌
+TA1RTP ✅ (Romeo, Tango, Papa)
+TA1RTQ ✅ (Romeo, Tango, Quebec)
+TA1RTR ✅ (Romeo, Tango, Romeo)
+TA1RTS ✅ (Romeo, Tango, Sierra)
+TA1RTT ✅ (Romeo, Tango, Tango)
+TA1RTU ❌
+TA1RTV ❌
+TA1RTW ✅ (Romeo, Tango, Whiskey)
+TA1RTX ✅ (Romeo, Tango, X-ray)
+TA1RTY ❌
+TA1RTZ ✅ (Romeo, Tango, Zulu)
+TA1RUA ✅ (Romeo, Uniform, Alfa)
+TA1RUB ✅ (Romeo, Uniform, Bravo)
+TA1RUC ✅ (Romeo, Uniform, Charlie)
+TA1RUD ✅ (Romeo, Uniform, Delta)
+TA1RUE ✅ (Romeo, Uniform, Echo)
+TA1RUF ✅ (Romeo, Uniform, Foxtrot)
+TA1RUG ✅ (Romeo, Uniform, Golf)
+TA1RUH ✅ (Romeo, Uniform, Hotel)
+TA1RUI ✅ (Romeo, Uniform, India)
+TA1RUJ ✅ (Romeo, Uniform, Juliett)
+TA1RUK ✅ (Romeo, Uniform, Kilo)
+TA1RUL ✅ (Romeo, Uniform, Lima)
+TA1RUM ✅ (Romeo, Uniform, Mike)
+TA1RUN ✅ (Romeo, Uniform, November)
+TA1RUO ✅ (Romeo, Uniform, Oscar)
+TA1RUP ✅ (Romeo, Uniform, Papa)
+TA1RUQ ✅ (Romeo, Uniform, Quebec)
+TA1RUR ✅ (Romeo, Uniform, Romeo)
+TA1RUS ✅ (Romeo, Uniform, Sierra)
+TA1RUT ✅ (Romeo, Uniform, Tango)
+TA1RUU ✅ (Romeo, Uniform, Uniform)
+TA1RUV ✅ (Romeo, Uniform, Victor)
+TA1RUW ✅ (Romeo, Uniform, Whiskey)
+TA1RUX ✅ (Romeo, Uniform, X-ray)
+TA1RUY ❌
+TA1RUZ ✅ (Romeo, Uniform, Zulu)
+TA1RVA ✅ (Romeo, Victor, Alfa)
+TA1RVB ✅ (Romeo, Victor, Bravo)
+TA1RVC ✅ (Romeo, Victor, Charlie)
+TA1RVD ✅ (Romeo, Victor, Delta)
+TA1RVE ✅ (Romeo, Victor, Echo)
+TA1RVF ✅ (Romeo, Victor, Foxtrot)
+TA1RVG ✅ (Romeo, Victor, Golf)
+TA1RVH ✅ (Romeo, Victor, Hotel)
+TA1RVI ✅ (Romeo, Victor, India)
+TA1RVJ ✅ (Romeo, Victor, Juliett)
+TA1RVK ✅ (Romeo, Victor, Kilo)
+TA1RVL ✅ (Romeo, Victor, Lima)
+TA1RVM ✅ (Romeo, Victor, Mike)
+TA1RVN ❌
+TA1RVO ✅ (Romeo, Victor, Oscar)
+TA1RVP ✅ (Romeo, Victor, Papa)
+TA1RVQ ✅ (Romeo, Victor, Quebec)
+TA1RVR ✅ (Romeo, Victor, Romeo)
+TA1RVS ✅ (Romeo, Victor, Sierra)
+TA1RVT ✅ (Romeo, Victor, Tango)
+TA1RVU ✅ (Romeo, Victor, Uniform)
+TA1RVV ✅ (Romeo, Victor, Victor)
+TA1RVW ✅ (Romeo, Victor, Whiskey)
+TA1RVX ✅ (Romeo, Victor, X-ray)
+TA1RVY ✅ (Romeo, Victor, Yankee)
+TA1RVZ ✅ (Romeo, Victor, Zulu)
+TA1RWA ✅ (Romeo, Whiskey, Alfa)
+TA1RWB ✅ (Romeo, Whiskey, Bravo)
+TA1RWC ✅ (Romeo, Whiskey, Charlie)
+TA1RWD ✅ (Romeo, Whiskey, Delta)
+TA1RWE ✅ (Romeo, Whiskey, Echo)
+TA1RWF ✅ (Romeo, Whiskey, Foxtrot)
+TA1RWG ✅ (Romeo, Whiskey, Golf)
+TA1RWH ✅ (Romeo, Whiskey, Hotel)
+TA1RWI ✅ (Romeo, Whiskey, India)
+TA1RWJ ❌
+TA1RWK ✅ (Romeo, Whiskey, Kilo)
+TA1RWL ✅ (Romeo, Whiskey, Lima)
+TA1RWM ✅ (Romeo, Whiskey, Mike)
+TA1RWN ✅ (Romeo, Whiskey, November)
+TA1RWO ✅ (Romeo, Whiskey, Oscar)
+TA1RWP ✅ (Romeo, Whiskey, Papa)
+TA1RWQ ✅ (Romeo, Whiskey, Quebec)
+TA1RWR ✅ (Romeo, Whiskey, Romeo)
+TA1RWS ❌
+TA1RWT ✅ (Romeo, Whiskey, Tango)
+TA1RWU ✅ (Romeo, Whiskey, Uniform)
+TA1RWV ✅ (Romeo, Whiskey, Victor)
+TA1RWW ✅ (Romeo, Whiskey, Whiskey)
+TA1RWX ✅ (Romeo, Whiskey, X-ray)
+TA1RWY ✅ (Romeo, Whiskey, Yankee)
+TA1RWZ ✅ (Romeo, Whiskey, Zulu)
+TA1RXA ✅ (Romeo, X-ray, Alfa)
+TA1RXB ✅ (Romeo, X-ray, Bravo)
+TA1RXC ✅ (Romeo, X-ray, Charlie)
+TA1RXD ✅ (Romeo, X-ray, Delta)
+TA1RXE ✅ (Romeo, X-ray, Echo)
+TA1RXF ✅ (Romeo, X-ray, Foxtrot)
+TA1RXG ✅ (Romeo, X-ray, Golf)
+TA1RXH ✅ (Romeo, X-ray, Hotel)
+TA1RXI ✅ (Romeo, X-ray, India)
+TA1RXJ ✅ (Romeo, X-ray, Juliett)
+TA1RXK ✅ (Romeo, X-ray, Kilo)
+TA1RXL ✅ (Romeo, X-ray, Lima)
+TA1RXM ✅ (Romeo, X-ray, Mike)
+TA1RXN ✅ (Romeo, X-ray, November)
+TA1RXO ✅ (Romeo, X-ray, Oscar)
+TA1RXP ✅ (Romeo, X-ray, Papa)
+TA1RXQ ✅ (Romeo, X-ray, Quebec)
+TA1RXR ✅ (Romeo, X-ray, Romeo)
+TA1RXS ✅ (Romeo, X-ray, Sierra)
+TA1RXT ✅ (Romeo, X-ray, Tango)
+TA1RXU ✅ (Romeo, X-ray, Uniform)
+TA1RXV ✅ (Romeo, X-ray, Victor)
+TA1RXW ✅ (Romeo, X-ray, Whiskey)
+TA1RXX ❌
+TA1RXY ✅ (Romeo, X-ray, Yankee)
+TA1RXZ ✅ (Romeo, X-ray, Zulu)
+TA1RYA ❌
+TA1RYB ❌
+TA1RYC ✅ (Romeo, Yankee, Charlie)
+TA1RYD ✅ (Romeo, Yankee, Delta)
+TA1RYE ✅ (Romeo, Yankee, Echo)
+TA1RYF ✅ (Romeo, Yankee, Foxtrot)
+TA1RYG ✅ (Romeo, Yankee, Golf)
+TA1RYH ❌
+TA1RYI ✅ (Romeo, Yankee, India)
+TA1RYJ ✅ (Romeo, Yankee, Juliett)
+TA1RYK ❌
+TA1RYL ✅ (Romeo, Yankee, Lima)
+TA1RYM ✅ (Romeo, Yankee, Mike)
+TA1RYN ✅ (Romeo, Yankee, November)
+TA1RYO ✅ (Romeo, Yankee, Oscar)
+TA1RYP ✅ (Romeo, Yankee, Papa)
+TA1RYQ ✅ (Romeo, Yankee, Quebec)
+TA1RYR ✅ (Romeo, Yankee, Romeo)
+TA1RYS ❌
+TA1RYT ✅ (Romeo, Yankee, Tango)
+TA1RYU ❌
+TA1RYV ✅ (Romeo, Yankee, Victor)
+TA1RYW ✅ (Romeo, Yankee, Whiskey)
+TA1RYX ✅ (Romeo, Yankee, X-ray)
+TA1RYY ✅ (Romeo, Yankee, Yankee)
+TA1RYZ ✅ (Romeo, Yankee, Zulu)
+TA1RZA ❌
+TA1RZB ✅ (Romeo, Zulu, Bravo)
+TA1RZC ✅ (Romeo, Zulu, Charlie)
+TA1RZD ✅ (Romeo, Zulu, Delta)
+TA1RZE ✅ (Romeo, Zulu, Echo)
+TA1RZF ✅ (Romeo, Zulu, Foxtrot)
+TA1RZG ✅ (Romeo, Zulu, Golf)
+TA1RZH ✅ (Romeo, Zulu, Hotel)
+TA1RZI ✅ (Romeo, Zulu, India)
+TA1RZJ ✅ (Romeo, Zulu, Juliett)
+TA1RZK ❌
+TA1RZL ✅ (Romeo, Zulu, Lima)
+TA1RZM ✅ (Romeo, Zulu, Mike)
+TA1RZN ✅ (Romeo, Zulu, November)
+TA1RZO ✅ (Romeo, Zulu, Oscar)
+TA1RZP ✅ (Romeo, Zulu, Papa)
+TA1RZQ ✅ (Romeo, Zulu, Quebec)
+TA1RZR ✅ (Romeo, Zulu, Romeo)
+TA1RZS ✅ (Romeo, Zulu, Sierra)
+TA1RZT ✅ (Romeo, Zulu, Tango)
+TA1RZU ❌
+TA1RZV ✅ (Romeo, Zulu, Victor)
+TA1RZW ✅ (Romeo, Zulu, Whiskey)
+TA1RZX ✅ (Romeo, Zulu, X-ray)
+TA1RZY ✅ (Romeo, Zulu, Yankee)
+TA1RZZ ✅ (Romeo, Zulu, Zulu)
