@@ -1,4 +1,5 @@
 # tango-alfa-one
 Amatör telsizciler için boştaki telsiz çağrı kodları
 
-Son güncelleme: 29.04.2024
+Son güncelleme: 30.04.2024
+Total: 12870
